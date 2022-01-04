@@ -1,0 +1,4565 @@
+	<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">		<head>		<script type="text/javascript">			var referrer =  document.referrer;			var result = referrer.toLowerCase().indexOf("/pages/promo/m");			var width = 1024;			//iPad width max = 1024			//iPhone5s width max = 568			//Galaxy Note 3 width max = 960			//the if conditional below is true when a mobile device and referring page not from the mobile page.			if (screen.width <= width && result == -1) {			document.location = "/smallbusiness/pages/promo/m/AFLcampaign.jsp";			}		</script>			<title>Businesses save with AT&amp;T All for Less bundles</title>						<meta content="IE=edge" http-equiv="X-UA-Compatible">			<meta name="description" content="Only pay for the services your business needs. Plus, get a $100 AT&amp;T Visa® Reward Card with High Speed Internet. Reward Card req's 60 days of service. Subject to availability. See offer restr.">			<meta content="Businesses save with AT&amp;T All for Less bundles" property="og:title">			<meta name="DCSext.wtPN" content="SM BID Splash - AFL Pg">   			<meta name="DCSext.wtABTest" content="B2BBIDAFL~CONTROL"/> 			<meta name="google-site-verification" content="lavzRNAerVr39Q9bRFVvDHtPcikxV0oT89kXjqF4vyU">			<meta content="/smallbusiness/assets/images/share/att_globe.jpg" property="og:image">			
+
+
+
+	
+	<link rel="stylesheet" href="/smallbusiness/css/global.css" type="text/css" />
+	<link rel="stylesheet" href="/smallbusiness/css/support.css" type="text/css" />
+	<link rel="stylesheet" href="/smallbusiness/css/calendar.css" type="text/css" />
+	<link rel="stylesheet" href="/smallbusiness/css/homeCarousel.css" type="text/css" />
+	<link rel="stylesheet" href="/smallbusiness/css/speechBubble.css" type="text/css" />
+	
+    
+    
+    
+	
+	
+	
+	<link rel="stylesheet" href="/smallbusiness/css/search.css" type="text/css" />
+	
+	
+			
+
+
+
+ 
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	  
+	  	
+	  	
+	  
+	 
+	 	
+	  
+	
+	
+	
+	
+
+
+	
+	
+	
+
+
+
+
+	<script type="text/javascript" src="https://www.att.com/scripts/foresee_global/foresee-trigger-global.js"></script>
+	<!-- This page was served from B2BALN: p2pre1c41.edc.cingular.net:7003-->
+
+	
+	<!--  Adobe tagging declaration here*/-->
+	<!--Adobe tag library  -->
+<!-- <script src="//assets.adobedtm.com/3cb377f74dd760b920cb82680edd5ed3ee951963/satelliteLib-ed747715529f45d08618d00cf7cca3159b56bc30-staging.js"></script>
+ -->	
+	<!-- adding adobe script -->
+	<script type="text/javascript" src="//assets.adobedtm.com/3cb377f74dd760b920cb82680edd5ed3ee951963/satelliteLib-ed747715529f45d08618d00cf7cca3159b56bc30.js"></script>
+	
+	<script type="text/javascript">
+
+		var digitalData = digitalData || {};
+
+		digitalData = {
+			page : {
+				pageInfo : {},
+				category : {},
+				attributes : {},
+				internalSearch : {}
+			},
+			chat : {
+				pageInitiated : {},
+				chatType :[{
+				impression : {},
+				accepted : {}
+				} ]
+			},
+			event : [ {
+				eventInfo : {}
+			} ],
+			product : [ {
+				productInfo : {}
+			} ],
+			cart : {},
+			transaction : {
+				item : [ {
+					productInfo : {},
+					price : {}
+				} ],
+				profile : {
+					address : {}
+				},
+
+				total : {},
+				attributes : {}
+			} ,
+			user : [ {
+				profile : [ {
+					profileInfo : {},
+					attributes : {
+						profileFAN : {}
+					}
+				} ]
+			} ] 
+		};
+		
+		
+	</script>
+	<!-- Adobe tagging declaration ends here   -->
+	<meta name="msvalidate.01" content="FF9A1C58949D77D5669983A3BF497DE4" />
+
+	<meta name="DCSext.sessionid" content="Q11kJn2LBZ58P7TnFrgbpsTL9V1YTTjFmdqTkZTh7GLKlkv2w1Wh!869488245!1416083080372"/>
+	<meta name="DCSext.wtNoHit" content="0"/>
+	
+	
+		
+		
+		
+	
+		
+		
+		
+			<input type="hidden" id="wtZipCode" value="60290" />
+		
+	
+	
+	
+		
+		
+	
+	
+	
+		
+		
+	
+	
+		
+		
+	
+		
+		
+			
+		
+	
+	
+		
+		
+	
+
+	<script>
+		var address_overlay_cookie = {
+			setAddress : function(cname, cvalue) {
+				var loc = window.location;
+				//document.cookie = cname + "=" + cvalue + ";path=/;domain=" + loc.hostname;
+				document.cookie = cname + "=" + cvalue
+						+ ";path=/;domain=.att.com";
+			},
+
+			getAddress : function(cname) {
+				var name = cname + "=";
+				var ca = document.cookie.split(';');
+				for (var i = 0; i < ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ')
+						c = c.substring(1, c.length);
+					if (c.indexOf("address_overlay_cookie") == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+			},
+
+			getKey : function(cname, key) {
+				var cookie = this.getAddress(cname);
+				var name = key + "%";
+				var keys = cookie.split("|");
+				for (var i = 0; i < keys.length; i++) {
+					while (keys[i].charAt(0) == ' ')
+						keys[i] = keys[i].substring(1, keys[i].length);
+					if (keys[i].indexOf(key) == 0)
+						return keys[i].substring(name.length, keys[i].length);
+				}
+			},
+
+			checkAddress : function(cname, cvalue) {
+				var addressCookie = this.getAddress(cname);
+				if (addressCookie != cvalue) {
+					this.setAddress(cname, cvalue);
+				}
+			}
+		}
+		var cityFromAkamai = 'CHICAGO';
+		var stateFromAkamai = 'IL';
+		var postalCodeFromAkamai = '60290';
+		var geoLocationForAkamaiZip = '22states';
+		var cookieName = "address_overlay_cookie";
+		var cookie = address_overlay_cookie.getAddress(cookieName);
+		if (cookie == "" || cookie == null) {
+			if (cityFromAkamai != null && cityFromAkamai != ""
+					&& stateFromAkamai != null && stateFromAkamai != ""
+					&& postalCodeFromAkamai != null
+					&& postalCodeFromAkamai != "") {
+				address_overlay_cookie.setAddress(cookieName, "cookie_city%"
+						+ cityFromAkamai + "|cookie_state%" + stateFromAkamai
+						+ "|cookie_postalcode%" + postalCodeFromAkamai
+						+ "|cookie_geolocation%"+geoLocationForAkamaiZip);
+			} else {
+				address_overlay_cookie
+						.setAddress(
+								cookieName,
+								"cookie_city%Dallas|cookie_state%TX|cookie_postalcode%75202|cookie_geolocation%22states");
+			}
+		}
+	</script>
+	
+	<script>
+		var AFLCampaginPage = "AFL_Campaign";
+	</script>
+	
+	
+	
+	
+
+<!-- OPTIMOST GLOBAL PAGE ID CODE -->
+	<script>
+            var opPageId = 'smallbusinesspagespromoAFLcampaignjsp';
+   	</script> 
+<!-- END OPTIMOST GLOBAL PAGE ID CODE -->
+	
+<!-- BEGIN OPTIMOST STATE META TAG -->
+	
+
+
+
+
+
+
+
+
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+						
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+
+	<meta name="State" content="IL"/>
+<!-- END OPTIMOST STATE META TAG -->
+	
+	<!-- OPTIMOST PAGE CODE/SELECTOR CODE V2.8 - Copyright 2002-2013 Autonomy Optimost -->
+    <script type="text/javascript">
+        var optimost={A:{},C:{},D:document,L:document.location,M:[],Q:{},T:new Date(),U:'',V:'2.7',Enabled:true,ST:"script",SA:
+        {"type":"text/javascript"},I:function(){var s=this.L.search;var c=this.D.cookie;if(s.length>3){for(var a=s.substring(1)
+        .split("&"),i=0,l=a.length;i<l;i++){var p=a[i].indexOf("=");if(p>0)this.Q[a[i].substring(0,p)]=unescape(a[i].substring(
+        p+1));}}if(c.length>3){for(var a=c.split(";"),i=0,b=a.length;i<b;i++){var v=a[i].split("=");while(v[0].substring(0,
+        1)==" ")v[0]=v[0].substring(1,v[0].length);if(v.length==2)this.C[v[0]]=unescape(v[1]);}}},B:function(){var n;this.A={
+        };var _o=this;this.A.D_ts=Math.round(_o.T.getTime()/1000);this.A.D_tzo=_o.T.getTimezoneOffset();this.A.D_loc=_o.L.protocol+
+        "//"+_o.L.hostname+_o.L.pathname;this.A.D_ckl=_o.D.cookie.length;this.A.D_ref=_o.D.referrer;if(typeof optrial=="object")
+        for(n in optrial)this.A[n]=optrial[n];for(n in this.Q)this.A[n]=this.Q[n];for(n in this.C)if(n.substring(0,2)=="op")this.A[n]=
+        this.C[n];},S:function(){var q='';for(var n in this.A)if(this.A[n]!=null && this.A[n]!="")q+=(q.length>0?"&":(this.U.indexOf(
+        "?")>0?"&":"?"))+n+"="+escape(this.A[n]);return this.U+q;},SC:function(n,v,e,d){var de=new Date();de.setTime(
+        de.getTime()+e * 1000);this.D.cookie=n+"="+escape(v)+((e==null)?"":("; expires="+de.toGMTString()))+"; path=/"+((d==
+        null)?"":(";domain="+d));},SLD:function(){var sld=this.D.domain;var dp=sld.split(".");var l=dp.length;if(l<2)sld=null;
+        else if(!isNaN(dp[l-1])&&!isNaN(dp[l-2]))sld=null;else sld="."+dp[l-2]+"."+dp[l-1];return sld;},R:function(r,c,d,
+        e){if(this.Enabled){var b=true;if(r<1000){b=(Math.floor(Math.random()*1000)<r);if(c!=null){if(this.C[c]!=null)b=(this.C[c]!=
+        "mvt-no");else this.SC(c,b?"mvt-yes":"mvt-no",e,d);}}if(b){var t='<'+this.ST+' src="'+this.S()+'"';for(n in this.SA)
+        t+=(" "+n+'="'+this.SA[n]+'"');t+='><\/'+this.ST+'>';this.D.write(t);}}},addModule:function(s,f){this.M[s]=f;
+        },displayModule:function(s){if(typeof this.M[s]=="function")this.M[s]();},hasModules:function(){return count(this.M)>0;
+        }};optimost.I();
+        optimost.isIE6=(navigator.userAgent.toLowerCase().indexOf("msie 6")!=-1?true:false);optimost.XH=function(u){
+        if(typeof(u)!="object")return;var s=this.D.createElement(this.ST);for(var n in this.SA){if(!this.isIE6)
+        s.setAttribute(n,this.SA[n]);else s[n]=this.SA[n];}for(var n in u){if(!this.isIE6)s.setAttribute(n,u[n]);
+        else s[n]=u[n];}var h=this.D.getElementsByTagName("head");if(h[0])h[0].insertBefore(s,h[0].childNodes[h[0].childNodes.length-1]);
+        else this.D.body.insertBefore(s,this.D.body.childNodes[this.D.body.childNodes.length-1]);}
+        optimost.RXH=function(r,c,d,e){if(this.Enabled){var b=true;if(r<1000){b=(Math.floor(Math.random()*1000)<r);
+        if(c!=null){if(this.C[c]!=null)b=(this.C[c]!="mvt-no");else this.SC(c,b?"mvt-yes":"mvt-no",e,d);}}
+        if(b){var u={"src":this.S()};this.XH(u);}}}
+        optimost.moduleNotExecuted={};optimost.displayModule=function(s){if(typeof(this.M[s])=="function")this.M[s]();else this.moduleNotExecuted[s]=true;};
+        optimost.asyncCheck=function(m){for(var i=0,l=m.length;i<l;i++){if(optimost.modulesPassed==true||typeof(__optimostModulesPassed)=="boolean")
+        this.displayModule(m[i]);else if(this.moduleNotExecuted[m[i]]!=null)this.displayModule(m[i]);}}
+        $optS={};
+        $optS.path=(window.location&&window.location.protocol&&window.location.protocol.toLowerCase().indexOf('https')>-1)?'https://by.essl.optimost.com/':'http://es.optimost.com/';
+        $optS.url='es/1702/c/1/u/attsmallbusiness.live.js';
+        $optS.url_qa='es/1702/c/1/u/attsmallbusiness.qa.js';
+        $optS.ds=Math.round(optimost.T.getTime()/(3600000*24));
+        if(typeof optimost=='object'){
+            $optS.qc=optimost.Q['opselect']||optimost.C['opselect']||'none';
+            if($optS.qc.toLowerCase()=='qa'){
+                $optS.url=$optS.url_qa;
+            }
+            if($optS.qc.toLowerCase()!='off'){
+                var optrial=(typeof(optrial)=="object")?optrial:{};
+                var _opasync= optimost.Q["opasync"]||optimost.C["opasync"]|| optrial["opasync"]||null;
+                if(_opasync!==null) optimost.XH({"src":$optS.path+$optS.url+'?D_ds='+$optS.ds});
+                else document.write('<'+'script type="text/javascript" src="'+ $optS.path + $optS.url + '?D_ds='+ $optS.ds +'"><\/'+'script>');
+            }
+        }
+    </script>
+    <!-- END OPTIMOST PAGE CODE/SELECTOR CODE -->
+
+	
+	<!--
+		<script src="//assets.adobedtm.com/3cb377f74dd760b920cb82680edd5ed3ee951963/satelliteLib-ed747715529f45d08618d00cf7cca3159b56bc30-staging.js"></script>
+	-->
+	
+	<!-- <script type="text/javascript">
+		var isMSIE = /*@cc_on!@*/0;
+		
+		if (isMSIE) {
+			if (/enableAAinclude/g.test(window.location.search)) {
+				document.write('<'+'script type="text/javascript" src="//assets.adobedtm.com/3cb377f74dd760b920cb82680edd5ed3ee951963/satelliteLib-ed747715529f45d08618d00cf7cca3159b56bc30.js"><\/'+'script>');
+			}
+		} else {
+			document.write('<'+'script type="text/javascript" src="//assets.adobedtm.com/3cb377f74dd760b920cb82680edd5ed3ee951963/satelliteLib-ed747715529f45d08618d00cf7cca3159b56bc30.js"><\/'+'script>');
+		}
+	</script> -->
+	<!-- Commenting out above temporary fix as the adove IE issue is resolved -->
+	
+	
+
+			
+
+<!-- Script needed for all page are loaded unconditionally .Rest of the script will be loaded thru AJAX on ad-hoc basis.Keep all your custom
+	 scripts after including this file.
+ -->
+
+	
+	
+	
+	<script type="text/javascript" src="/smallbusiness/javascript/jquery-1.7.1.js"></script>
+	<script type="text/javascript" src="/smallbusiness/javascript/overlay.js"></script>
+	<script type="text/javascript" src="/smallbusiness/javascript/jquery.idle-timer.js"></script>
+	<script type="text/javascript" src="/smallbusiness/javascript/global.js"></script>
+	<script type="text/javascript" src="/smallbusiness/javascript/carousel.js"></script>
+	<script type="text/javascript" src="/smallbusiness/javascript/collapseExpand.js"></script>
+	<script type="text/javascript" src="/smallbusiness/javascript/jquery.tmpl.min.js"></script>
+	<script type="text/javascript" src="/smallbusiness/javascript/speechBubble.js"></script>
+	<script type="text/javascript" src="/smallbusiness/javascript/jquery.numeric.js"></script>
+	<script type="text/javascript" src="/smallbusiness/javascript/jquery.hoverIntent.js"></script>
+	<script type="text/javascript" src="/smallbusiness/javascript/cartSummaryScroll.js"></script>
+	<script type="text/javascript" src="/smallbusiness/javascript/jquery.maskedinput-1.2.2.js"></script>
+	<script type="text/javascript" src="/smallbusiness/javascript/webmetrics.js"></script>
+	<script type="text/javascript" src="/smallbusiness/javascript/universalnav.js"></script>
+	<script type="text/javascript" src="/smallbusiness/javascript/smartButton.js"></script>
+	<!-- adobe tagging here -->
+		<script type="text/javascript" src="/smallbusiness/javascript/digitalDataHelper.js"></script>
+	
+         
+         
+    
+    
+    
+    
+   
+	
+	
+	
+	
+	<script src="/smallbusiness/javascript/autocomplete.js"></script>
+    <script src="/smallbusiness/javascript/search.js"></script>
+    
+	<script type="text/javascript" src="/smallbusiness/javascript/wireless.js"></script>
+	
+	
+	
+	
+
+							<script>			function PopUp(theURL, theWidth, theHeight) {				window.open(theURL, "", "width=" + theWidth + ", height=" + theHeight + ", resizable=1, scrollbars=1");				} 			</script>			<style>			sup {font-size: 0.8em;line-height:1;vertical-align:top;}			.hr {border-top: 1px solid #E5E5E5;margin: 45px 0 0 18px;width: 915px;}			.disc {list-style-type: disc;padding-left: 15px;}			.banner{margin-top: 2px;}			.wrapper{}			.wrapper .primary-content-full {margin-top:200px;}			#content {position:relative;}			#share {left: 928px;position: absolute;top: 3px;}			#bannerLegal{position:relative;top:-200px;left:745px;width:200px;}			#belowBannerText{font-size:18px;margin:15px 0 15px 20px;width:90%;}			.coltop{margin:0 15px 0 25px;}			.col1{margin: 20px 15px 0 15px;float:left;width:452px;height:242px;}			.col2{float:left;width:452px;margin:20px 15px 0 0;height:242px;}			div.col1 div.greyText ul.disc, div.col2 div.greyText ul.disc {list-style-type: disc;padding-left: 40px;padding-top:10px;}			.blueHeader {font-size:18px;color: #fff;background-color:#0c2577;height:64px;border: 1px 1px 0px 1px solid #CCC;			-moz-border-radius: 5px 5px 0 0;-webkit-border-radius: 5px 5px 0 0;-khtml-border-radius: 5px 5px 0 0;border-radius: 5px 5px 0 0;}			div.col1 div.blueHeader > p {padding:20px 15px 0 25px;}			div.col2 div.blueHeader > p {padding:5px 15px 0 25px;}			.greyText {font-size:14px;background-color: #efefef;height:158px;border: 1px solid #CCC;			-moz-border-radius: 0 0 5px 5px;-webkit-border-radius: 0 0 5px 5px;-khtml-border-radius: 0 0 5px 5px;border-radius: 0 0 5px 5px;}			.col3{margin-left:20px;}			.img1{margin-left:22px;margin-top:12px;}			.img2{margin-top:10px;}			.img3{margin-top:0px;}			.img4{margin-top:20px;}			.btmimg1{float:left;width:512px;}			.btmimg2{float:left; height: 137px;width: 400px;}			.learnmore{float:right;cursor:pointer;position:relative;left:-610px;top:-25px;*top:-45px;}			.text1{font-family:arial;font-size:14px;line-height:16px;color:#333333;margin-top:9px;width:370px;}			.text2{margin-left:30px;width:330px;font-family:arial;font-size:14px;line-height:16px;color:#333333;}			.text3{font-family:arial;font-size:14px;line-height:20px;color:#333333;}			.text4{clear:both;font-family:arial;font-size:14px;line-height:20px;color:#333333;}			.legal{font-family:arial;font-size:10px;line-height:12px;color:#999999;padding-left:0px;}			.greybox{background:url("images/afl_step1_container_389x126.jpg") no-repeat scroll 0 0 transparent;padding-top:40px;}			.greybox2{background:url("images/afl_step2_container_389x126.jpg") no-repeat scroll 0 0 transparent;padding-top:40px;margin-top:20px;}			.clearfloat{margin:0;padding:0;line-height:0;font-size:0;clear:both;}			ul.afllist{list-style-type:none;width:400px;}			ul.afllist li{background-image: url("images/BID_AFL_PromoPage_bullet.JPG");background-position: -2px 5px;background-repeat: no-repeat;padding-left: 15px;}			.uldiv{background-image: url("images/BID_AFL_PromoPage_bullet.JPG");background-position: -2px 5px;background-repeat: no-repeat;float: left;left: -44px;padding-left: 15px;position: relative;width: 357px;}			.availability{margin-top:15px}			.important{font-size:11px;line-height:13px;color:#999999;margin-top:20px;}			.sm{font-size:9px;position:relative;top:-3px;}			.c2c-home {height:40px;display: inline;float: left;left: 0;margin-bottom: 0 !important;margin-left: 148px;margin-right: 0 !important;margin-top: 10px;position: relative;text-align: left;top: -72px;width: 380px;z-index: 1;}			#offlineSupport_link{padding-top:9px !important;}			.phonenumber{position: absolute; font-size: 24px; top: 320px;left:505px; margin-left: 30px; font-family: verdana;color:#0C2577;}			.call{font-size: 25px;}			.timestamp{font-size:21px;color:#0C2577;margin-left:50px;display:block;}			</style>			<!--[if lte IE 9]>   <style type="text/css">			.banner{}   </style><![endif]-->			<script>			function popup(theURL, theWidth, theHeight) {				window.open(theURL, "", "width=" + theWidth + ", height=" + theHeight + ", resizable=1, scrollbars=1");				} 			</script>		</head>		<body><div id="header"> 				
+
+<link rel="stylesheet" href="/smallbusiness/css/minicart.css" type="text/css" />
+
+
+
+
+
+   
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+	
+	
+
+	
+	
+		
+	
+
+
+    <div id="globalNav">
+    	<style>
+#uniNavWrapper{background:url('/smallbusiness/solutions/assets/images/global/GN_MAIN_1x33.gif') repeat scroll center center transparent;height: 34px;font-family: arial,helvetica,sans-serif;height:34px;margin-bottom:6px;}
+#uniNav{z-index:100;background:url('/smallbusiness/solutions/assets/images/navigation/GN_MAIN_sprite.png') no-repeat scroll 4px -11px transparent;height:34px;margin:0 auto;width:985px;position: relative;}
+#navPersonal{font-size: 12px; left: 14px; display: inline; top: 12px; position: absolute;}
+#navPersonal a,#navBusiness div a,#navAtt a{color:white}
+#navBusiness{width: 102px; height: 34px; left: 77px; position: absolute;background:url('/smallbusiness/solutions/assets/images/navigation/GN_MAIN_sprite.png') no-repeat scroll -74px -73px transparent;}
+#navBusiness div{font-size: 12px; display: inline; padding-top: 12px; left: 16px; position: absolute;}
+#navAtt{display: inline; font-size: 12px; position: absolute; left: 193px; top: 12px;}
+#navBusinessTray{display:none;background:url('/smallbusiness/solutions/assets/images/global/GB_Main_slideout.png') repeat scroll 0 0 transparent;height:121px;left:78px;position:absolute;top:34px;width:146px;}
+#navBusinessTray div{margin: 12px 10px 0pt 14px; font-size: 12px;}
+#navBusinessTray div a{font-size: 12px;color:#067AB4}
+</style>
+<div id="uniNavWrapper">
+	<div id="uniNav" style="margin:0px auto;z-index:100">
+		<div id="navPersonal"><a href="http://www.att.com/" style="color:white">Personal</a></div>
+		<div id="navBusiness">
+			<div><a href="http://www.att.com/gen/general?pid=11627" style="color:#666666">Business</a></div>
+		</div>	
+		<div id="navAtt"><a href="http://www.att.com/gen/landing-pages?pid=3309" style="color:white">About AT&amp;T</a></div>
+		<div id="navBusinessTray">
+			<div><a href="http://www.att.com/smallbusiness/index.jsp">Small Business</a></div>
+			<div><a href="http://www.business.att.com/">Enterprise Business</a></div>
+			<div><a href="http://www.att.com/gen/general?pid=11624">Wholesale</a></div>
+			<div><a href="http://www.att.com/gen/general?pid=11625">Government</a></div>
+		</div>		
+	</div>
+</div>
+        <div id="globalNavInterface">
+            <div id="globalNavUserInfo">
+                
+                
+					
+					
+				
+                	
+                
+
+
+
+
+
+
+
+
+	
+	
+	
+								
+															
+															
+	
+								
+															
+																	
+																	
+																		
+																		
+																	
+																	
+																		
+																		
+																		
+																			
+																		
+																	
+															
+															
+	
+	<div>
+		<a name="Business" id="existingCustomerLink" class="segMenuItem hasSubMenu selectedChevron1 hasURL " href="#" title="Online account management for existing customers"><span>Log In to Your Account</span> <img src="/smallbusiness/images/icons/arrowDown_icon.png" border="0" style="text-decoration:none;" /></a>
+		&nbsp;|&nbsp;
+		
+			
+			
+			
+		
+			
+			
+			
+				<span id="locaction-content">
+				
+
+
+
+
+
+
+
+
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+						
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+
+					
+					Illinois &nbsp;
+					
+					
+				</span>
+				
+				
+ 					
+					
+					<a href="/smallbusiness/index.jsp?wtLinkName=wtPN_ChangeLocation&wtLinkLoc=wtPN_ChangeLocation_Body&WT.svl=3" class="zipCodeOverlayChangeLoc">Change location</a>
+				
+				
+			
+		
+	</div>
+
+            </div>
+            
+            <div id="tieredNav">
+                
+                    
+                    
+                        
+
+
+	
+
+
+
+
+	<div id="primaryMenu">
+		<ul>
+			<li id="primary_ATTLogo"><a class="primaryMenuItem homeURL" title="AT&T Home" href="/smallbusiness/index.jsp"> <span></span></a></li>
+			<li id="primary_Shop" class=""><a id="primary_Shop" class="primaryMenuItem" title="Shop" href="/smallbusiness/index.jsp?activeTab=shop&wtLinkLoc=wtPN_Nav&wtLinkName=wtPN_Shop&WT.svl=1" name="Shop"> Shop<span></span><span></span></a></li>
+			<li id="primary_Solutions" class=""><a id="primary_Solutions" class="primaryMenuItem" title="Solutions" href="/smallbusiness/solutions/pages/index.jsp?wtLinkLoc=wtPN_Nav&wtLinkName=wtPN_Solutions&WT.svl=1" name="Solutions">Solutions <span></span> <span></span></a></li>
+			<li id="primary_Support" class=""><a id="primary_Support" class="primaryMenuItem" title="Support" href="/smallbusiness/support/en/support-landing.page" name="Support">Support <span></span> <span></span></a></li>
+			
+			
+			
+			 
+			
+			<li id="justSpace" style="width:221px;"/>  
+			<li id="primary_Search">
+				
+				 <form action="#" method="post">
+	                <input id="question_text" maxlength="255" name="question" placeholder="Search this site" autocomplete="off"/>
+	                <input id="question_search" style="display:none" value="Submit" action="search_results.jsp" type="hidden">
+	            </form>
+            
+            	
+
+			</li>
+			<li id="searchGlassButton" style=" height: 20px;margin-top: 22px;width: 18px;cursor: pointer;"/> 
+			<li id="justSpace" style="width:20px;"/>
+			  
+			
+			 
+			
+			
+			
+				
+				  	
+				
+				
+			
+			<li id="mini_Cart"><a class="mini_Cart miniCartShow" href="javascript:return false;"></a></li>
+		</ul>
+	</div>
+
+
+                        
+
+
+
+
+
+ 
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+  
+
+
+<input type="hidden" id="clicked_sec_Family" value="">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+	<ul id="secondaryMenu_Shop" class="secondaryMenu">
+		<li id="Bundles"><a  href="/smallbusiness/bundles/productIndex.jsp?prodType=bundles&wtLinkLoc=wtPN_SubNav&wtLinkName=wtPN_Bundles&WT.svl=1" name="Shop_Bundles" class="secondaryMenuItem ">Bundles</a></li>
+		<li id="Wireless"><a  href="/smallbusiness/wireless/wirelessHome.jsp?prodType=wireless&cldp=true&wtLinkLoc=wtPN_SubNav&wtLinkName=wtPN_Wireless&WT.svl=1" name="Shop_Wireless" class="secondaryMenuItem  ">Wireless</a></li>
+		<li id="BusinessServices"><a  href="/smallbusiness/productIndex.jsp?prodType=businessServices&wtLinkLoc=SubNav&wtLinkName=wtPN_AppsandServices&WT.svl=1" name="Shop_Apps and Services" class="secondaryMenuItem ">Apps and Services</a></li>
+		<li id="BusinessPhone"><a  href="/smallbusiness/productIndex.jsp?prodType=businessPhones&wtLinkLoc=wtPN_SubNav&wtLinkName=wtPN_BusinessPhone&WT.svl=1" name="Shop_Business Phone" class="secondaryMenuItem ">Business Phone</a></li>
+		<li id="Internet"><a  href="/smallbusiness/productIndex.jsp?prodType=internet&wtLinkLoc=wtPN_SubNav&wtLinkName=wtPN_Internet&WT.svl=1" name="Shop_Internet" class="secondaryMenuItem ">Internet</a></li>
+		<li id="BusinessTv"><a  href="/smallbusiness/productIndex.jsp?prodType=businessTv&wtLinkLoc=wtPN_SubNav&wtLinkName=wtPN_BusinessTv&WT.svl=1" name="Shop_Business TV" class="secondaryMenuItem ">Business TV</a></li>
+		<li id="SpecialOffers"><a  href="/smallbusiness/offers/specialOffers.jsp?wtLinkLoc=wtPN_SubNav&wtLinkName=wtPN_SpecialOffers&WT.svl=1" name="Shop_Special Offers" class="secondaryMenuItem noTertiaryMenu ">Special Offers</a></li>
+		<li id="EmptySpace" style="width: 227px; height: 35px;"><span class="secondaryMenuItem noTertiaryMenu" style="display:none;">FutureAddOns</span></li>
+	</ul>
+	<ul id="secondaryMenu_Solutions" class="secondaryMenu">
+		<li id="Products"><a  href="/smallbusiness/solutions/pages/product-landing/index.jsp" name="Solutions_Products" class="secondaryMenuItem">Products</a></li>
+		<li id="MobileProductivity"><a  href="/smallbusiness/solutions/pages/mobile-productivity/index.jsp" name="Solutions_Mobile Productivity" class="secondaryMenuItem">Mobile Productivity</a></li>
+		<li id="StrategiesInsights"><a  href="/smallbusiness/solutions/pages/strategies-insights/index.jsp" name="Solutions_Strategies and Insights" class="secondaryMenuItem">Strategies and Insights</a></li>
+		<li id="ATTSites"><a href="/smallbusiness/solutions/pages/att-sites/index.jsp" name="Solutions_AT&T Sites" class="secondaryMenuItem">AT&amp;T Sites</a></li>
+		<li id="EmptySpace" style="width: 450px; height: 35px;"><span class="secondaryMenuItem noTertiaryMenu" style="display:none;">FutureAddOns</span></li>
+	</ul>
+
+	<ul id="secondaryMenu_Support" class="secondaryMenu">
+
+		<li><a id="Billing and Account" href="/smallbusiness/support/en/billing-account.page" name="Billing and Account" class="secondaryMenuItem noTertiaryMenu " title="Access tools and options for your accounts.">Billing & Account</a></li>
+		<li><a id="Order" href="/smallbusiness/orderStatus/orderNumberEntry.jsp?activeTab=support&wtLinkLoc=wtPN_SubNav&wtLinkName=wtPN_OrderStatus&WT.svl=1" name="Support_Order Status" class="secondaryMenuItem noTertiaryMenu " title="Select to view status of current orders.">Order Status</a></li>
+		<li><a id="Contact Us" href="/smallbusiness/support/en/contact-us.page" name="Contact Us" class="secondaryMenuItem noTertiaryMenu " title="Contact Us">Contact Us</a></li>
+		<li><a id="deviceUnlock" href="/smallbusiness/deviceUnlock/deviceUnlock.jsp" name="UnlockDeviceDevice" class="secondaryMenuItem noTertiaryMenu " title="Select to view Unlock Business Device portal">Unlock Business Device</a></li>
+	</ul>
+	
+                        
+
+
+
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+		
+		
+	
+		
+		
+			
+		
+		
+	<form action="/smallbusiness/pages/promo/AFLcampaign.jsp?_DARGS=/smallbusiness/menu/tertiaryNavigation.jsp" method="post"><input name="_dyncharset" value="UTF-8" type="hidden"></input><input name="_dynSessConf" value="9031030704716270745" type="hidden"></input>
+	<div id="trayContent" style="display: block; height: 0px;">
+			
+		<div class="trayContentItem trayBundles Shop" id="tray_Bundles" style="display: none;">
+			<div class="firstColumn">
+				<div class="columnContent">
+					<a href="/smallbusiness/bundles/productIndex.jsp?prodType=bundles&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_Bundles&WT.svl=1"><img alt="Bundles" src="/smallbusiness/images/header/shop_bundles_tray_img.png"></a>
+				</div>
+			</div>
+			<table><tr>
+				<td>
+					<div class="secondColumn">
+						<div class="columnContent">
+							<h3>
+								Bundles
+							</h3>
+							<ul class="trayNoBullet">
+								<!-- <li><a href="/smallbusiness/bundles/productIndex.jsp?wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_BundlesLearnAboutBundles&WT.svl=1" name="Learn_about_bundles" title="Find information on bundles available in your area.">More on bundles</a></li> -->
+								<li><a href="/smallbusiness/bundles/compTable.jsp?cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_BundlesCompareAllBundles&WT.svl=1" name="Compare_all_bundles" >Compare bundles</a></li>
+							</ul>
+						</div>
+					</div>
+				</td>
+				
+				
+					
+					
+					
+			</tr></table>							
+		</div>
+		<div class="trayContentItem trayWireless Shop" id="tray_Wireless" style="display: none;">
+			<div class="firstColumn" style="width:210px";>
+				<div class="columnContent">
+					<a href="/smallbusiness/wireless/wirelessHome.jsp?prodType=wireless&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_Wireless&WT.svl=1" class="" ><img alt="Wireless" src="/smallbusiness/images/header/shop_wireless_tray_img.png"></a>
+				</div>
+			</div>
+			<table><tr>
+				<td>
+					<div class="secondColumn ">
+						<div class="columnContent">
+							<h3>Phones and Devices</h3>
+							<ul class="trayNoBullet">
+								<li><a name="All_Devices" href="/smallbusiness/wireless/devices.jsp?device=all&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_PhonesDevicesAllDevices&WT.svl=1" class="">All Devices</a></li>
+								<li><a name="Smartphones" href="/smallbusiness/wireless/devices.jsp?style=Smartphone&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_PhonesDevicesSmartphones&WT.svl=1" class="">Smartphones</a></li>
+								<li><a name="Tablets" href="/smallbusiness/wireless/devices.jsp?style=Tablets&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_PhonesDevicesTablets&WT.svl=1" class="">Tablets</a></li>
+								<li><a name="Mobile_Internet" href="/smallbusiness/wireless/devices.jsp?style=Mobile%20Internet&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_PhonesDevicesMobileInternet&WT.svl=1" class="">Mobile Internet</a></li>
+								<li><a name="Popular_Devices" href="/smallbusiness/wireless/devices.jsp?device=Popular&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_PhonesDevicesPopularDevices&WT.svl=1" class="">Popular Devices</a></li>
+								<li><a name="Apple" href="/smallbusiness/wireless/devices.jsp?manufacturer=Apple&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_PhonesDevicesApple&WT.svl=1" class="">Apple</a></li>
+								<li><a name="BlackBerry" href="/smallbusiness/wireless/devices.jsp?manufacturer=BlackBerry&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_PhonesDevicesBlackBerry&WT.svl=1" class="">BlackBerry</a></li>
+								<li><a name="Android_Phones" href="/smallbusiness/wireless/devices.jsp?os=Android&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_PhonesDevicesAndroidPhones&WT.svl=1" class="">Android Phones</a></li>
+								<!-- <li><a name="Transfer_Number" href="#">I Want to transfer a Number</a></li> -->
+							</ul>
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="secondColumn ">
+						<div class="columnContent">
+							<h3>Accessories</h3>
+							<ul class="trayNoBullet">
+								<li><a name="Cases" href="/smallbusiness/wireless/accessories.jsp?accessortType=Cases&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_AccessoriesCases&WT.svl=1" class="">Cases</a></li>
+								<li><a name="Chargers_Devices" href="/smallbusiness/wireless/accessories.jsp?accessortType=Chargers%20Devices&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_AccessoriesChargersBatteries&WT.svl=1" class="">Chargers and Batteries</a></li>
+								<li><a name="Screen_Protectors" href="/smallbusiness/wireless/accessories.jsp?accessortType=Screen%20Protectors&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_AccessoriesScreenProtectors&WT.svl=1" class="">Screen Protectors</a></li>
+								<li><a name="HotDeals_ClearanceItems" href="/smallbusiness/wireless/accessories.jsp?accessortType=HotDeals%20ClearanceItems&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_AccessoriesHotDealsClearanceItems&WT.svl=1" class="">Hot Deals and Clearance Items</a></li>
+								<li><a name="Apple" href="/smallbusiness/wireless/accessories.jsp?accessortType=Apple&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_AccessoriesApple&WT.svl=1" class="">Apple</a></li>
+								<li><a name="Data_Memory" href="/smallbusiness/wireless/accessories.jsp?accessortType=Data%20Memory&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_AccessoriesDataMemory&WT.svl=1" class="">Data and Memory</a></li>
+								<li><a name="Bluetooth" href="/smallbusiness/wireless/accessories.jsp?accessortType=Bluetooth&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_AccessoriesBluetooth&WT.svl=1" class="">Bluetooth</a></li>
+								<li><a name="Audio" href="/smallbusiness/wireless/accessories.jsp?accessortType=Audio&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_AccessoriesAudio&WT.svl=1" class="">Audio</a></li>
+								<li><a name="Special_Items" href="/smallbusiness/wireless/accessories.jsp?accessortType=Special%20Items&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_AccessoriesSpecialtyItems&WT.svl=1" class="">Special Items</a></li>
+								<li><a name="New_Arrivals" href="/smallbusiness/wireless/accessories.jsp?accessortType=New%20Arrivals&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_AccessoriesNewArrivals&WT.svl=1" class="">New Arrivals</a></li>
+								<li><a name="Wearables" href="/smallbusiness/wireless/accessories.jsp?accessortType=Wearables&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_AccessoriesNewArrivals&WT.svl=1" class="">Wearables</a></li>
+							</ul>
+						</div>
+					</div>
+				</td>
+				
+				
+				
+				
+				
+			</tr></table>
+		</div>
+		<div class="trayContentItem trayBusinessPhone Shop" id="tray_BusinessPhones" style="display: none;">
+			<div class="firstColumn">
+				<div class="columnContent">
+					<a href="/smallbusiness/productIndex.jsp?prodType=businessPhones&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_BusinessPhone&WT.svl=1""><img alt="Business Phone" src="/smallbusiness/images/header/shop_bizphone_tray_img.png"></a>
+				</div>
+			</div>
+			<table><tr>
+				<td>
+					<div class="secondColumn">
+						<div class="columnContent">
+							<h3>
+								Calling Plans
+							</h3>
+							<ul class="trayNoBullet">
+								<li><a href="/smallbusiness/businessPhones/localCallingLongDistance.jsp?cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_LocalAndLongDistance&WT.svl=1" name="localCalling" title="Select to learn more about local calling plans.">Local &amp; Long Distance</a></li>
+								<li><a href="/smallbusiness/businessPhones/tollFree.jsp?cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_CallingPlansTollFree&WT.svl=1" name="tollFree" title="Select to learn more about toll-free service.">Toll-Free</a></li>
+							</ul>
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="secondColumn">
+						<div class="columnContent">
+							<h3>
+								Related Products
+							</h3>
+							<ul class="trayNoBullet">
+								<li><a href="/smallbusiness/wireless/wirelessHome.jsp?cldp=true" name="Wireless_Calling" class="">Wireless Calling</a></li>
+							</ul>
+						</div>
+					</div>
+				</td>
+				
+					
+					
+				
+			</tr></table>
+		</div>
+		<div class="trayContentItem trayInternet Shop" id="tray_Internet" style="display: none;">
+			<div class="firstColumn">
+				<div class="columnContent">
+					<a href="/smallbusiness/productIndex.jsp?prodType=internet&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_Internet&WT.svl=1""><img alt="Internet" src="/smallbusiness/images/header/shop_internet_tray_img.png"></a>
+				</div>
+			</div>
+			<table><tr>
+				<td>
+					<div class="secondColumn">
+						<div class="columnContent">
+							<h3>
+								Internet
+							</h3>
+							<ul class="trayNoBullet">
+								<li><a href="/smallbusiness/internet/internet.jsp?cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_InternetInternetAccess&WT.svl=1" title="Download software and large files, research the Web, communicate with business associates" name="Internet_Access">Internet Access</a></li>
+								<li><a href="/smallbusiness/internet/wirelessInternetFamily.jsp?cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_InternetWirelessInternet&WT.svl=1" name="Wireless_Internet">Mobile Internet</a></li>
+							</ul>
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="secondColumn">
+						<div class="columnContent">
+							<h3>
+								Related Products
+							</h3>
+							<ul class="trayNoBullet">
+								<li><a href="/smallbusiness/businessServices/website-solutions/index.jsp?activeTab=shop&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_RelatedProductsWebHostingServices&WT.svl=1" name="Web_Hosting_Services">Website Solutions</a></li>
+								
+								<li><a href="/smallbusiness/businessServices/ts360/wirelessNetworkDetails.jsp?cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_RelatedProductsWirelessNetworkSetup&WT.svl=1" name="Wireless_Network_setup">Wireless Network Setup</a></li>
+								<li><a href="/smallbusiness/bundles/compTable.jsp?wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_RelatedProductsInternetBundles&WT.svl=1" name="internet_Bundles">Shop for bundles</a></li>
+							</ul>
+						</div>
+					</div>
+				</td>
+				
+					
+					
+				
+			</tr></table>
+		</div>
+		<div class="trayContentItem trayBusinessTv Shop" id="tray_BusinessTv" style="display: none;">
+			<div class="firstColumn">
+				<div class="columnContent">
+					<a href="/smallbusiness/productIndex.jsp?prodType=businessTv&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_BusinessTv&WT.svl=1""><img alt="Business TV" src="/smallbusiness/images/header/shop_biztv_tray_img.png"></a>
+				</div>
+			</div>
+			<table><tr>
+				<td>
+					<div class="secondColumn">
+						<div class="columnContent">
+							<h3>
+								Business TV
+							</h3>
+							<ul class="trayNoBullet">
+								<li><a href="/smallbusiness/businessTv/businessTvIndex.jsp?familyName=BusinessViewing&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_BusinessTvOptionsUVerseBusinessTv&WT.svl=1" title="Business Viewing" name="Business_Viewing">Business Viewing</a></li>
+								<li><a href="/smallbusiness/businessTv/businessTvIndex.jsp?familyName=PrivateViewing&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_BusinessTvOptionsDirectv&WT.svl=1" title="Private Viewing" name="Private_Viewing">Private Viewing</a></li>
+								<li><a href="/smallbusiness/businessTv/businessTvIndex.jsp?familyName=PublicViewing&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_BusinessTvOptionsPublicViewing&WT.svl=1" title="Public Viewing" name="Public_Viewing">Public Viewing</a></li>
+							</ul>
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="secondColumn">
+						<div class="columnContent">
+							<h3>
+								Related Products
+							</h3>
+							<ul class="trayNoBullet">
+								<li><a href="/smallbusiness/internet/internet.jsp?wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_RelatedProductsUVerseHighSpeedInternet&WT.svl=1" title="High Speed Internet" name="U-verse_High_Speed_Internet">High Speed Internet</a></li>
+							</ul>
+						</div>
+					</div>
+				</td>
+				
+				
+			</tr></table>
+		</div>
+		<div class="trayContentItem trayBusinessServices Shop" id="tray_Businessservices" style="display: none;">
+			<div class="firstColumn">
+				<div class="columnContent">
+					<a href="/smallbusiness/productIndex.jsp?prodType=businessServices&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_BusinessServices&WT.svl=1""><img alt="Apps and Services" src="/smallbusiness/images/header/shop_bizserv_tray_img.png"></a>
+				</div>
+			</div>
+			<table><tr>
+				<td>
+					<div class="secondColumn">
+						<div class="columnContent">
+							<h3>
+							Mobile Applications
+							</h3>
+							<ul class="trayNoBullet">
+								<li><a href="/smallbusiness/businessServices/mobileApplications/index.jsp?familyName=AllCategories&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_AllMobileApplications&WT.svl=1">All Mobile Applications</a></li>
+								<li><a href="/smallbusiness/businessServices/mobileApplications/index.jsp?familyName=MessagingSolutions&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_MessagingSolutions&WT.svl=1">Messaging Solutions</a></li>
+								<li><a href="/smallbusiness/businessServices/mobileApplications/index.jsp?familyName=PushToTalk&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_PushToTalk&WT.svl=1">Push to Talk</a></li>
+								<li><a href="/smallbusiness/businessServices/mobileApplications/index.jsp?familyName=WorkforceManagement&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_WorkforceManagement&WT.svl=1">Workforce Management</a></li>
+							</ul>
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="secondColumn">
+						<div class="columnContent">
+							<h3>
+								Website Products
+							</h3>
+							<ul class="trayNoBullet">
+								<li><a href="/smallbusiness/businessServices/website-solutions/index.jsp?cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_SharedWebHostingWebHostingServices&WT.svl=1" name="web_Hosting_Services">Website Solutions</a></li>
+								<li><a href="/smallbusiness/businessServices/website-solutions/productPlans.jsp?prodType=websitePlans&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_SharedWebHostingWebsitePlans&WT.svl=1" name="web_Hosting_Services">Website Plans</a></li>
+								<li><a href="/smallbusiness/businessServices/website-solutions/productPlans.jsp?prodType=buildItForMePlans&cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_SharedWebHostingSiteBuilding&WT.svl=1" name="web_Hosting_Services">Build It For Me Plans</a></li>
+								<li><a href="/smallbusiness/businessServices/website-solutions/businessTools.jsp?cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_SharedWebHostingBusinessTools&WT.svl=1" name="web_Hosting_Services">Business Tools</a></li>
+								<li><a href="/smallbusiness/businessServices/website-solutions/serverSolution.jsp?cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_SharedWebHostingServerSolutions&WT.svl=1" name="web_Hosting_Services">Server Solutions</a></li>
+							</ul>
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="secondColumn">
+						<div class="columnContent">
+							<h3>
+								 IT Products
+							</h3>
+							<ul class="trayNoBullet">
+								<li><a href="/smallbusiness/businessServices/ts360/techSupport.jsp?wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_TechnicalSupportTechSupport360&WT.svl=1" name="Tech_Support360"">Tech Support 360</a></li>
+								<li><a href="/smallbusiness/businessServices/ts360/subscriptionServices.jsp?cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_TechnicalSupportSubscriptionServices&WT.svl=1" name="Subscription_Services">Subscription Services</a></li>
+								<li><a href="/smallbusiness/businessServices/ts360/onetimeServices.jsp?cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_TechnicalSupportOneTimeServices&WT.svl=1" name="One_Time_Services">One-Time Services</a></li>
+								<li><a href="/smallbusiness/businessServices/ts360/databackup.jsp?cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_TechnicalSupportDataBackup&WT.svl=1" name="Data_Backup">Online Data Backup</a></li>
+								<li><a href="/smallbusiness/businessServices/ts360/serverSupport.jsp?cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_TechnicalSupportServerSupport&WT.svl=1" name="Server_Support">Server Support</a></li>
+							</ul>
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="secondColumn" style="width:210px;">
+						<div class="columnContent">
+							<h3>
+								Related Products
+							</h3>
+							<ul class="trayNoBullet">
+								<li><a href="https://aps.att.com/home"  target="_blank" class="externalLink">Microsoft Office 365 from AT&T</a></li>
+								<li><a href="/smallbusiness/businessServices/attconnect/attConnectChild.jsp?wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_BusinessServicesConferencingSolutions&WT.svl=1&cldp=true" name="ATT_Connect">Teleconferencing Solutions</a></li>						
+								<li><a href="/smallbusiness/businessServices/mobileworkplace/mobileWorkPlaceIndex.jsp" name="Mobile_Workplace">AT&amp;T Mobile Workplace&#8480;</a></li>
+								<li><a href="/smallbusiness/pages/splash/att-cloud-solutions.jsp" target="_blank" name="Cloud_Applications" rel="BusinessServicesCloudServices" class="externalLink">Cloud Solutions</a></li>						
+								<li><a href="/smallbusiness/businessServices/mplsDetails.jsp?cldp=true&wtLinkLoc=wtPN_TerNav&wtLinkName=wtPN_BusinessServicesMplsPrivateNetworkTransport&WT.svl=1" name="MPLS">MPLS Private Network Transport</a></li>
+								<li><a href="http://adsolutions.att.com" target="_blank" name="Small_Business_Advertising" rel="BusinessServicesSmallBusinessAdvertising" class="externalLink">Small Business Advertising </a></li>
+								<li><a href="http://creditcards.citicards.com/usc/ATT/Business/CreditCard/reward/default.htm" target="_blank"  name="Universal_Card" rel="AT&TUniversalCard" class="externalLink" >AT&amp;T Universal Business</br> Rewards Card</a></li>
+							</ul>
+						</div>
+					</div>
+				</td>
+				
+					
+					
+				
+			</tr></table>
+		</div>
+		<!-- Solutions Tab Secondary Navigation Begins -->
+		<div class="trayContentItem trayProducts Solutions" id="tray_Products" style="display: none;">
+			<div class="firstColumn">
+				<div class="columnContent">
+					<img src="/smallbusiness/images/header/sol_products_tray_img.png">
+				</div>
+			</div>
+			<table><tr>
+				<td>
+					<div class="secondColumn">
+						<div class="columnContent">
+							<h3>
+								Products
+							</h3>
+							<ul class="trayNoBullet">
+								<li><a href="/smallbusiness/solutions/pages/products/wireless.jsp" name="Wireless" >Wireless</a></li>
+								<li><a href="/smallbusiness/solutions/pages/products/bundles.jsp" name="Bundles" >Bundles</a></li>
+								<li><a href="/smallbusiness/solutions/pages/products/internet.jsp" name="Internet" >Internet</a></li>
+								<li><a href="/smallbusiness/solutions/pages/products/business-phone.jsp" name="Business_Phone" >Business Phone</a></li>
+								<li><a href="/smallbusiness/solutions/pages/products/business-tv.jsp" name="Business_TV">Business TV</a></li>
+								<li><a href="/smallbusiness/solutions/pages/products/business-services.jsp" name="Business_Services" >Apps and Services</a></li>
+							</ul>
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="secondColumn">
+						<div class="columnContent">
+							<ul class="trayNoBullet">
+								<li><a href="/smallbusiness/solutions/pages/products/messaging-toolkit/index.jsp" name="Messaging_Tookit" >AT&amp;T Messaging Toolkit</a></li>
+								<li><a href="/smallbusiness/solutions/pages/products/uverse-voice.jsp" name="Uverse" >U-verse Voice</a></li>
+							</ul>
+						</div>
+					</div>
+				</td>
+			</tr></table>
+		</div>
+		<div class="trayContentItem trayMobileProductivity Solutions" id="tray_MobileProductivity" style="display: none;">
+			<div class="firstColumn">
+				<div class="columnContent">
+					<img src="/smallbusiness/images/header/sol_mobileprod_tray_img.png">
+				</div>
+			</div>
+			<table><tr>
+				<td>
+					<div class="secondColumn">
+						<div class="columnContent">
+							<h3>
+								Mobile Productivity By Industry
+							</h3>
+							<ul class="trayNoBullet">
+								<li><a href="/smallbusiness/solutions/pages/mobile-productivity/construction.jsp" name="Construction" >Construction</a></li>
+								<li><a href="/smallbusiness/solutions/pages/mobile-productivity/healthcare.jsp" name="Healthcare" >Healthcare</a></li>
+								<li><a href="/smallbusiness/solutions/pages/mobile-productivity/financial-services.jsp" name="Finance" >Finance</a></li>
+								<li><a href="/smallbusiness/solutions/pages/mobile-productivity/legal.jsp" name="Legal" >Legal</a></li>
+								<li><a href="/smallbusiness/solutions/pages/mobile-productivity/retail.jsp" name="Retail" >Retail</a></li>
+								<li><a href="/smallbusiness/solutions/pages/mobile-productivity/transportation.jsp" name="Transportation" >Transportation</a></li>
+								<li><a href="/smallbusiness/solutions/pages/mobile-productivity/other-business.jsp" name="Businesses" >Other Businesses</a></li>
+							</ul>
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="secondColumn">
+						<div class="columnContent">
+							<h3>
+								Mobile Productivity For All Industries
+							</h3>
+							<ul class="trayNoBullet">
+								<li><a href="/smallbusiness/solutions/pages/mobile-productivity/mobile-applications.jsp" name="MobileApplications" >Mobile Applications</a></li>
+								<!-- <li><a href="/smallbusiness/solutions/pages/articles/mobile-marketing.jsp" name="MobileMarketing" >Mobile Marketing</a></li> -->
+								<li><a href="/smallbusiness/solutions/pages/articles/att-office-at-hand.jsp" name="Office@Hand" >Office@Hand</a></li>
+							</ul>
+						</div>
+					</div>
+				</td>
+			</tr></table>
+		</div>
+		<div class="trayContentItem trayStrategiesInsights Solutions" id="tray_StrategiesInsights" style="display: none;">
+			<div class="firstColumn">
+				<div class="columnContent">
+					<img src="/smallbusiness/images/header/sol_strategies_tray_img.png">
+				</div>
+			</div>
+			<table><tr>
+				<td>
+					<div class="secondColumn">
+						<div class="columnContent">
+							<h3>
+								Grow Revenue
+							</h3>
+							<ul class="trayNoBullet">
+								<li><a href="/smallbusiness/solutions/pages/strategies-and-insights/attract-customers.jsp" name="Attract_Customers" >Attract Customers</a></li>
+								<li><a href="/smallbusiness/solutions/pages/strategies-and-insights/build-relationships.jsp" name="Build_Relationships" >Build Relationships</a></li>
+								<li><a href="/smallbusiness/solutions/pages/strategies-and-insights/increase-sales.jsp" name="Increase_Sales" >Increase Sales</a></li>
+							</ul>
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="secondColumn">	
+						<div class="columnContent">
+							<h3>
+								Transform Work
+							</h3>
+							<ul class="trayNoBullet">
+								<li><a href="/smallbusiness/solutions/pages/strategies-and-insights/boost-productivity.jsp" name="Boost_Productivity" >Boost Productivity</a></li>
+								<li><a href="/smallbusiness/solutions/pages/strategies-and-insights/improve-experiences.jsp" name="Improve_Experiences" >Improve Experiences</a></li>
+							</ul>
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="secondColumn">	
+						<div class="columnContent">
+							<h3>
+								Simplify IT
+							</h3>
+							<ul class="trayNoBullet">
+								<li><a href="/smallbusiness/solutions/pages/strategies-and-insights/protect-assets.jsp" name="Protect_Assets" >Protect Assets</a></li>
+								<li><a href="/smallbusiness/solutions/pages/strategies-and-insights/manage-technology.jsp" name="Manage_Technology" >Manage Technology</a></li>
+								<li><a href="/smallbusiness/solutions/pages/strategies-and-insights/enable-recovery.jsp" name="Enable_Recovery" >Enable Recovery</a></li>
+							</ul>
+						</div>
+					</div>
+				</td>
+			</tr></table>
+		</div>
+		<div class="trayContentItem trayATTSites Solutions" id="tray_ATTSites" style="display: none;">
+			<div class="firstColumn">
+				<div class="columnContent">
+					<img src="/smallbusiness/images/header/sol_attsites_tray_img.png">
+				</div>
+			</div>
+			<table><tr>
+				<td>
+					<div class="secondColumn">
+						<div class="columnContent">
+							<h3>
+								News from AT&amp;T
+							</h3>
+							<ul class="trayNoBullet">
+								<li><a href="http://feeds.feedburner.com/AttAttWirelessRssFeeds" name="ATT_Wireless" >AT&amp;T Wireless News</a></li>
+								<li><a href="http://feeds.feedburner.com/AttAdvertisingAndPublishingRssFeeds" name="Publishing_Advertising_with_AT&T" >Publishing &amp; Advertising with AT&amp;T</a></li>
+								<li><a href="http://feeds.feedburner.com/AttEnterpriseAndSmallBusinessSolutionsRssFeeds" name="Enterprise_Small_Business_Solutions" >Enterprise &amp; Small Business Solutions</a></li>
+							</ul>
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="secondColumn">
+						<div class="columnContent">
+							<h3>
+								Business Circle
+							</h3>
+							<ul class="trayNoBullet">
+								<li><a href="http://networkingexchangeblog.att.com/small-business/" name="Networking_Exchange_Blog">Networking Exchange Blog</a></li>
+								<li><a href="/smallbusiness/solutions/pages/expert-home/mario.jsp" name="Mario_Armstrong">Mario Armstrong</a></li>
+								<li><a href="/smallbusiness/solutions/pages/expert-home/rieva.jsp" name="Rieva_Lesonsky">Rieva Lesonsky</a></li>
+								<li><a href="/smallbusiness/solutions/pages/expert-home/susan.jsp" name="Susan_Solovic">Susan Solovic</a></li>
+								<li><a href="/smallbusiness/solutions/pages/expert-home/alice.jsp" name="Alice_Bredin">Alice Bredin</a></li>
+								<li><a href="http://clk.atdmt.com/CNT/go/475846288/direct/01/" target="_blank" name="Business Circle">Business Circle</a></li>
+							</ul>
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="secondColumn">
+						<div class="columnContent">
+							<h3>
+								AT&amp;T Videos on YouTube
+							</h3>
+							<ul class="trayNoBullet">
+								<li><a href="http://www.youtube.com/attbusiness" target="_blank" name="ATT_Business_Channel_on_YouTube" >AT&amp;T Business Channel on YouTube</a></li>
+							</ul>
+						</div>
+					</div>
+				</td>
+			</tr></table>
+		</div>
+	</div>	
+	</form>
+
+                    
+                
+            </div>
+        </div>
+        <div id="globalNavShadows" style="height:15px;*height:40px;">
+			<!-- <div class="globalNavHasShadow"></div> -->
+		</div>
+    </div>
+    <div id="">
+        
+
+
+
+
+
+
+
+
+
+	
+		
+	
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+	
+	
+	<div id="miniCart" style="display:none;">
+		
+		
+		 <div class="header-empty"></div>
+		 <div class="body">
+		 	<div class="body-content" >
+		 		<div style="padding:20px 15px">
+				 	<div class="left" style="padding-top:7px;width:120px;"><strong>Your Cart is Empty.</strong></div>
+				 	<div class="left" style="width:60px;"><a href="/smallbusiness/index.jsp" class="shopNowReporting"><img src="/smallbusiness/images/buttons/btn_ShopNow_m.gif"  alt="Shop now"></a></div>
+				 	<div class="clearboth"></div>
+				 </div>
+		 	</div>
+			
+		</div>
+		  <div class="footer"></div>	
+		
+		
+		
+
+	</div>
+
+    </div>
+    <div>
+        
+
+
+
+	
+
+
+	<style type="text/css">
+	div#existing_customer .existing_customer_divider{
+	border-bottom: 1px dotted #CCCCCC;
+	height: 0px;
+	}
+	div#existing_customer .existing_customer_divider_solid{
+	border-bottom: 1px solid #CCCCCC;
+	height: 0px;
+	}
+	div#existing_customer div.existing_customer_body li strong{
+	font-size: 16px;
+	font-family: Arial;
+	color: #333333;
+	line-height: 19px;
+	}
+	div#existing_customer .border
+	{
+	}
+	#tooltip_inner p {
+	padding:8px 8px 8px 15px  !important;
+	}
+</style>
+	
+	<div id="existing_customer" class="existing_customer" style="display: none; margin-left:8px;">
+		<div class="existing_customer_header" style="float:right; margin-right:6px;">
+			<a href="#" class="existing_customer_header_content" title="Online account management for existing customers"><span>Log In to Your Account</span> <img src="/smallbusiness/images/icons/arrow_icon.png" border="0" style="text-decoration:none;" /></a>
+		</div>
+		<div class="existing_customer_body" style="height:95px;float:right; margin-right:6px;">  
+			<ul>
+				<li style="padding-bottom:3px;"><a href="https://www.wireless.att.com/business/" target="_blank" title="Manage wireless accounts.">AT&amp;T Premier</a><img style="padding-left:5px;margin-bottom:-2px;" class='tooltip' title="Manage wireless accounts." src='/smallbusiness/images/icons/icon_help_12x12.gif'></li>
+				<li style="padding-bottom:5px;"><a href="https://smb.att.com/olam/loginAction.olamexecute" title="Manage local, long distance, U-verse and Internet accounts" target="_blank">AT&amp;T Account Manager</a><img style="padding-left:5px;margin-bottom:-2px;" class='tooltip' title="Manage local, long distance, U-verse, and Internet accounts." src='/smallbusiness/images/icons/icon_help_12x12.gif'></li>
+	 			<li><a href="https://www.businessdirect.att.com/portal/smallbusiness/index.jsp" target="_blank" title="Manage small to large business phone and IP-based accounts.">AT&amp;T BusinessDirect&reg;</a><img style="padding-left:5px;margin-bottom:-2px;" class='tooltip' title="Manage small to large business phone and IP-based accounts." src='/smallbusiness/images/icons/icon_help_12x12.gif'></li>
+				
+			</ul>
+		</div>
+		<div class="existing_customer_footer" style="float:right; margin-right:6px;">
+			<div style="margin-bottom:8px; width:0px;" class="existing_customer_divider"></div>
+			<span style="margin-left:17px;"><a href="/smallbusiness/support/existingCustomer.jsp">Learn more</a> about these management tools.</span>
+		</div>
+	</div>
+
+    </div>
+  
+
+	<script type="text/javascript" src="/smallbusiness/javascript/globalSearch.js"></script>
+	<script type="text/javascript">
+	if (typeof jQuery != 'undefined') {
+		$.searchAutoSuggest({
+			fetchResultsUrl:'http://www.att.com/smallbusiness/search/p/search?N=0&type=application/json&Ntk=eps&Nty=1&Dk=1',
+			redirectUrl:'http://www.att.com/smallbusiness/search/?q='
+			
+		});
+	}
+	</script>
+	  
+
+			</div>	<div class="wrapper">			<div id="content">				<div id="banner">				<img class="banner" src="/smallbusiness/pages/promo/images/1445618_BID_PromoPage_3TAFLBundle_marquee1.jpg" alt="Select to shop bundles. High speed Internet starting at $24.99." />				</div>				<div class="phonenumber"><span class="call">Call</span> 888-533-8234<div class="timestamp">M-F, 8am-5pm</div></div>				<div id="share">					<img usemap="#sharemap" alt="Share" src="/smallbusiness/pages/promo/images/aflgo/1199810_verticalsharebarwithicons.png">					<map name="sharemap" id="sharemap">					<area title="Twitter" shape="rect" coords="11,64,31,84" target="_blank" href="http://www.twitter.com" onclick="this.href=meteor.sharing.href('Twitter',{'id':'custom','title':'#smallbiz save w/ All for Less bundles + get a $100 AT&amp;T Visa Reward Card w/ High Speed Internet. See offer restr. Via @ATTSmallBiz'});" alt="Tweet about this item on Twitter.">					<area title="Facebook" shape="rect" coords="11,88,31,107" onclick="this.href=meteor.sharing.href('Facebook',{'id':'custom','title':'Businesses save with AT&amp;T All for Less bundles'});" target="_blank" href="http://www.facebook.com" alt="Share this item on Facebook.">					<area title="LinkedIn" shape="rect" coords="11,111,32,131" target="_blank" href="http://www.linkedin.com" onclick="this.href=meteor.sharing.href('linkedin',{'id':'custom','title':'Businesses save with AT&amp;T All for Less bundles'});" alt="Share this item on LinkedIn.">					<area title="Email" shape="rect" coords="12,135,31,155" href="mailto:" onclick="this.href=meteor.sharing.href('email',{'id':'custom','title':'Save with All for Less bundles', 'desc': 'Businesses save with AT&amp;T All for Less® bundles. Pay only for the services you need. Plus, get a $100 AT&amp;T Visa® Reward Card with High Speed Internet. Reward Card req\'s 60 days of service. Subject to availability. See offer restr.'});" alt="Email this item.">					</map>				</div><!-- end share -->				<div style="width:100%;margin-top:-45px;">				<a href="/smallbusiness/bundles/compTable.jsp?bref=IBP3bi06800albbR" class=" learnmore"><img alt="Select to shop bundles. High speed Internet starting at $24.99." src="/smallbusiness/pages/promo/images/btn_BrowseBundles_l.gif" /></a>			<div class="clearfloat"></div>			<div id="belowBannerText">				<p>Help save money with customizable bundles built for your business. From basics to additional services, pay for only what your business needs. </p>			</div>			<div class="col1">				<div class="blueHeader"><p>AT&amp;T All for Less<sup>&reg;</sup> Basic Package includes:</p></div>				<div class="greyText">							<ul class="disc">								<li>Unlimited local and nationwide long distance calling with popular calling features </li>								<li>Business class High Speed Internet services with download speeds up to 45 Mbps<sup>3</sup></li>							</ul>				</div>			</div>			<div class="col2">				<div class="blueHeader"><p>Add your choice of enhanced services to AT&amp;T All for Less Basic Package:</p></div>				<div class="greyText">							<ul class="disc">								<li>Wireless smartphones, tablets or basic phones with service on the nation's most reliable 4G LTE network<sup>4</sup></li>								<li>Remote online data backup for your PC</li>								<li>U.S.-based 24/7 remote technical support</li>								<li>Website design, hosting and marketing services</li>							</ul>				</div>			</div>					<div class="clearfloat"></div>				<div class="hr">&nbsp;</div>						<div class="col3">					<div class="legal availability">						<p><strong><sup>1</sup>AT&amp;T U-verse<sup>&reg;</sup> High Speed Internet-Business Edition $30-$40-$50 for 6 months with All For Less or U-verse Essentials Offer. Offer expires 12/31/2014.</strong> Available to new AT&amp;T U-verse High Speed Internet-Business Edition customers and to customers adding additional U-verse-Business Edition lines at an existing location. Promotion is not available to customers migrating service from present AT&amp;T High Speed Internet&ndash;Business Edition (DSL) or FastAccess<sup>&reg;</sup> Business DSL to AT&amp;T U-verse High Speed Internet-Business Edition or for U-verse-Business Edition speed upgrades or AT&amp;T Business Fiber. Customer will receive one of the following discounted net prices for lineshare service (i.e. on a line that is shared with voice service provided by AT&amp;T) for the first six (6) months of service: $30 for AT&amp;T U-verse High Speed Internet Service Business Edition Basic, Express, Pro or Elite (downstream speeds of up to 6Mbps.), $40 for AT&amp;T U-verse High Speed Internet Service Business Edition Max or Max Plus (downstream speeds of up to 12Mbps. or up to 18Mbps.) or $50 for AT&amp;T U-verse High Speed Internet Service Business Edition Max Turbo or Power (downstream speeds of up to 24Mbps. or up to 45Mbps.) Rate without AT&amp;T local voice service is an additional $10/month. Beginning with the seventh month invoice, customer will be billed for contracted rates based on bundle plan purchased. Taxes and additional charges apply from time of first invoice. Purchase of AT&amp;T-provided U-verse router or modem is required for speeds up to 45Mbps. Customer is also eligible for 100% rebate on router or modem purchase. Rebate may be claimed following 60 calendar days of active service by visiting rewardcenter.att.com. Rebate check is sent approximately 4-6 weeks after redemption to customer(s) who retain qualified service. Geographic and service restrictions apply to U-verse services. Go to <a href="http://www.uverse.att.com" target="_blank">www.uverse.att.com</a> to see if you qualify. Acceptance of AT&amp;T High Speed Internet Terms of Service at <a href="http://att.com/internet-terms" target="_blank">att.com/internet-terms</a> is required. The Offer herein is subject to change without notification. Internet speed claim(s) represent maximum downstream and/or upstream speed capabilities. Speeds may vary and are not guaranteed. Many factors can affect actual speeds.</p>						<p><strong><sup>2</sup>$100 Broadband Reward Card Promotion. Offer expires 12/31/2014.</strong> Customer is also eligible for $100 AT&amp;T Visa<sup>&reg;</sup> Reward Card. Reward Card redemption required by visiting rewardcenter.att.com. Reward Card sent 4&ndash;6 weeks after redemption to customers who retain qualifying service(s). Not redeemable for cash, for use at automated gasoline pumps, or for cash withdrawals at ATMS. Reward Card expires 6 months after issuance. For cardholder agreement/terms and conditions, go to <a href="http://rewardcenter.att.com/myrewardcard/agreement.pdf" target="_blank">rewardcenter.att.com/myrewardcard/agreement.pdf</a>. Reward Card issued by U.S. Bank National Association, pursuant to license from Visa U.S.A. Inc. Customer must have active service for a minimum of 60 calendar days to qualify for $100.00 reward card. A maximum of one reward card may be issued per account (i.e. phone number to which AT&amp;T U-verse High Speed Internet Business Edition line(s) is/are billed).Visa U.S.A. Inc. is not affiliated with AT&amp;T or this offer. AT&amp;T is not responsible for lost, late, mutilated, misdirected or postage-due mail. Void where prohibited, taxed or restricted. See cardholder agreement and card carrier for other terms and conditions. Offers may be modified or discontinued at any time without notice.</p>						<p><sup>3</sup>Based on availability. Actual speeds are "up to" and are based on DSL synch rate, which may vary, and are not guaranteed. Many factors affect speed.</p>						<p>&nbsp;<br /><sup>4</sup>Reliability claim based on data transfer completion rates on nationwide 4G LTE networks. LTE is a trademark of ETSI. 4G LTE not available everywhere.</p>						</div>					</div>				</div>				</div><!-- end content -->							<iframe src="https://view.atdmt.com/iaction/ATT_SMBBID_AFLPromoPage" width="1" height="1" frameborder="0" scrolling="No" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0"></iframe>		</div>		<div class="alignCenter" id="footer">										
+
+
+
+
+
+
+
+
+
+
+<form id="pageLogoutForm" name="pageLogoutForm" action="/smallbusiness/pages/promo/AFLcampaign.jsp?_DARGS=/smallbusiness/footer/footer.jsp" method="POST"><input name="_dyncharset" value="UTF-8" type="hidden"></input><input name="_dynSessConf" value="9031030704716270745" type="hidden"></input>
+    <input name="/atg/userprofiling/ProfileFormHandler.logoutSuccessURL" value="/smallbusiness/index.jsp?sessionExpired=true" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.logoutSuccessURL" value=" " type="hidden">
+	<input id="logoutButton" style="display:none;" name="/atg/userprofiling/ProfileFormHandler.logout" width="0" type="submit" border="0"><input name="_D:/atg/userprofiling/ProfileFormHandler.logout" value=" " type="hidden">
+<input name="_DARGS" value="/smallbusiness/footer/footer.jsp" type="hidden"></input></form>
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+	<script> 
+        jQuery(document).ready(function() { 
+        	$('#optInEmailImg',$('#stayConnectedID')).click(function(e){
+        		e.preventDefault();
+        		$('#optInEmailSubmit',$('#stayConnectedID')).trigger('click');
+        	});
+        	
+        	$('#stayConnectedID :text').keypress(function(event){
+        	    var keycode = (event.keyCode ? event.keyCode : event.which);
+        		if(keycode == '13'){
+        			event.preventDefault();
+        			$('#optInEmailImg',$('#stayConnectedID')).trigger('click');
+        		}
+        	});
+        	
+			jQuery.ajaxSetup({accepts:'application/json'}) ;
+        	
+			jQuery('#optInEmailSubmit',$('#stayConnectedID')).click(function(event) {
+				if(window.WebMetrics){
+					var pageName = WebMetrics.getMetaTagValue('DCSext.wtPN');
+					dcsMultiTrack('DCSext.wtLinkLoc' , pageName+'_SocialMedia',
+							'DCSext.wtEvent' ,pageName +'_EnterYourEmail_Submit',
+							'DCSext.svl' ,'2');
+				}
+				
+			 	var data = {};
+		        jQuery('input',$('#stayConnectedID')).each(function(){
+		        	data[$(this).attr('name')] = $(this).val();
+		        });
+		        
+				//Pass the name/value pair of submit button as well.
+		        data[jQuery('#optInEmailSubmit').attr('name')] = jQuery('#optInEmailSubmit').attr('value');
+		        var url = '/smallbusiness/common/optInEmailAjax.jsp';
+					event.preventDefault();
+					jQuery.ajax({
+						url : url,
+						type : 'POST',
+						data : data,
+						success : optinEmailSuccess,
+						error : optinEmailError,
+						dataType : 'json',
+						beforeSend : function(xhr) {
+							xhr.setRequestHeader('Accept','application/json');
+						}
+					});
+					return false;
+			  });
+			
+			function optinEmailSuccess(data){
+				var $spanInContext, $arrowInContext;
+				if(data['emailSaved'] == 'true'){
+					$('#emailSuccessMsgHolder').show();
+					$('#emailErrorMsgHolder').hide();
+					$spanInContext = $('.optInEmailSuccess');
+					$arrowInContext = $('.footerConfirmMsgArrow');
+					$('#optInEmailOverlay').myplugin({
+			            'backDropId' : 'optInEmailDropBox',
+			            'lightBoxId' : 'optInEmailLightBox'
+				    });
+					$('#optInEmailOverlay').trigger('click');
+				}else{
+					$('#emailSuccessMsgHolder').hide();
+					$('#emailErrorMsgHolder').show();
+					$('#emailErrorMsgHolderInner').html("");
+					var errorMessage = data['errors'][0].split(":");
+					$('#emailErrorMsgHolderInner').html(errorMessage[2]);
+					$spanInContext = $('#emailErrorMsgHolderInner');
+					$arrowInContext = $('.footerErrorMsgArrow');
+				}
+				
+				var arrowPos = 0;
+				var useWidth = $spanInContext.width();
+				if(useWidth/100 > 1){useWidth = useWidth/2 + 16;}
+				arrowPos = useWidth + 20;
+				$arrowInContext.css('left',-arrowPos)
+			}
+			
+			function optinEmailError(jqXHR, textStatus, errorThrown){
+				
+			}
+        });
+        
+    </script>    
+	
+		
+		
+	
+		
+		
+			
+		
+	
+	<div class="padding5"></div>
+	<div id="emailSuccessMsgHolder" style="display:none;text-align: center;">
+		<span class="footerConfirmMsg optInEmailSuccess"  style="position:relative;top:-6px;margin-left: 5%;*margin-bottom:-13px;">
+					Got it! Watch for updates from AT&amp;T.
+		</span>
+		<span class="footerConfirmMsgArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+	</div>
+	<div id="emailErrorMsgHolder" style="display:none;text-align: center;">
+		<span class="footerErrorMsg"  style="position:relative;top:-6px;margin-left: 5%;*margin-bottom:-12px;" id="emailErrorMsgHolderInner">
+					
+		</span>
+		<span class="footerErrorMsgArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+	</div>
+	<a id="optInEmailOverlay" style="display:hidden;" href="#"></a>
+	<div id="stayConnectedID" style="*margin-top:-20px;">
+		<div style="float:left;padding:12px 0px 15px 20px;text-align: left;">Stay connected! Sign up for email updates about special online offers.</div>
+		<div style="float:left;margin-top:8px;width:273px;">
+			<form action="/smallbusiness/common/optInEmailAjax.jsp?_DARGS=/smallbusiness/footer/linkFarm.jsp" method="post"><input name="_dyncharset" value="UTF-8" type="hidden"></input><input name="_dynSessConf" value="9031030704716270745" type="hidden"></input>
+				<span style="float:left;padding:0px 5px;">
+					<input title="Enter email address" name="/com/att/b2b/commerce/order/info/EmailOptInInfo.email" value="" class="emailoptional" type="text" size="25"><input name="_D:/com/att/b2b/commerce/order/info/EmailOptInInfo.email" value=" " type="hidden">
+					<input name="/com/att/b2b/commerce/order/info/EmailOptInInfo.emailOptInSelected" value="true" type="hidden"><input name="_D:/com/att/b2b/commerce/order/info/EmailOptInInfo.emailOptInSelected" value=" " type="hidden">
+					<input name="/com/att/b2b/commerce/wireless/bean/WirelessInfo.optInEmail" value="true" type="hidden"><input name="_D:/com/att/b2b/commerce/wireless/bean/WirelessInfo.optInEmail" value=" " type="hidden">
+					<input id="optInEmailSubmit" style="display:none;" name="/com/att/b2b/commerce/wireless/formhandler/CustomWirelessBuyFlowFormHandler.submit" value="submit" type="submit"><input name="_D:/com/att/b2b/commerce/wireless/formhandler/CustomWirelessBuyFlowFormHandler.submit" value=" " type="hidden">
+					<input name="/com/att/b2b/commerce/wireless/formhandler/CustomWirelessBuyFlowFormHandler.ajaxSuccessUrl" value="/smallbusiness/common/optInEmailAjax.jsp" type="hidden"><input name="_D:/com/att/b2b/commerce/wireless/formhandler/CustomWirelessBuyFlowFormHandler.ajaxSuccessUrl" value=" " type="hidden">
+					<input name="/com/att/b2b/commerce/wireless/formhandler/CustomWirelessBuyFlowFormHandler.ajaxErrorUrl" value="/smallbusiness/common/optInEmailAjax.jsp" type="hidden"><input name="_D:/com/att/b2b/commerce/wireless/formhandler/CustomWirelessBuyFlowFormHandler.ajaxErrorUrl" value=" " type="hidden">
+				</span>
+				<span style="float: left; position: relative; left: -8px; padding-top: 2px;">&nbsp;
+					<a href="#"><img alt="OptInEmail" id="optInEmailImg" style="vertical-align:middle;" border="0" class="arrow" src="/smallbusiness/images/icons/btn_bluecaged_arrow.gif"></a>
+				</span>
+			<input name="_DARGS" value="/smallbusiness/footer/linkFarm.jsp" type="hidden"></input></form>
+		</div>
+		<div style="float: left;padding-top:10px;width: 20%;padding-left:70px;" class="SocialMedia"> 
+			<span style="font-weight:bold;float:left;color:#333333; margin-left:-40px;">Follow us:</span>
+			<span id="socialmediaMsie" style="float:left;margin-left:20px; margin-top:-18px; *margin-left:25px; *margin-top:-17px; *width:180px;">
+				<a href="https://www.facebook.com/ATTSmallBiz?bref=EBAb3300500SFU2C" rel="facebook" title="Facebook"><img src="/smallbusiness/images/socialMedia/icons_facebook.png"></a>
+				<a href="https://twitter.com/attsmallbiz?bref=EbAbt500500SFU1r" rel="twitter" title="Twitter"><img src="/smallbusiness/images/socialMedia/icons_twitter.png"></a>
+				<a href="http://www.youtube.com/user/attenterprise?BREF=EbAb6400500SFUYT" rel="YouTube" title="YouTube"><img src="/smallbusiness/images/socialMedia/icons_youtube.png"></a>
+				<a href="http://www.linkedin.com/company/at&t/products?bref=EbAb1F00500SFU41" rel="LinkedIn" title="LinkedIn"><img src="/smallbusiness/images/socialMedia/icons_linkedin.png"></a>
+				<a href="http://bizcommunity.att.com?bref=EbAb1B00500SFU3H" rel="AT&T Business Community" title="AT&T Business Community"><img src="/smallbusiness/images/socialMedia/icons_forum.png"></a>
+				<a href="https://plus.google.com/+ATT/posts?bref=EbAb1V00500SFUG0" rel="Google+" title="Google+"><img src="/smallbusiness/images/socialMedia/icons_googleplus.png"></a>
+				<a href="http://networkingexchangeblog.att.com/small-business?bref=EbAbNE00500SFU2E" rel="Networking Exchange Blog" title="Networking Exchange Blog"><img src="/smallbusiness/images/socialMedia/icons_neblog.png"></a>
+ 				<a href="http://www.att.com/gen/press-room?pid=21287" rel="AttBusinessCommunity" title="RSS Feed"><img src="/smallbusiness/images/socialMedia/icons_rss.png"></a>
+ 			</span>
+		</div>
+		<div class="clearBoth"></div>
+	</div>
+	<div style="padding-top: 10px;"></div>
+	<div class="linkFarmContainer">
+		<table><tr>
+		
+			<td class="linkFarmColum">
+				<div>
+					<div class="linkFarmColumHeader">
+						
+						<a href="/smallbusiness/wireless/wirelessHome.jsp?prodType=wireless&activeTab=shop&cldp=true&wtLinkLoc=wtPN_GlobalLinks&wtLinkName=wtPN_Wireless&WT.svl=2" >Wireless</a>
+					</div>
+					<ul>
+						<li>
+							<a href="/smallbusiness/wireless/devices.jsp?device=all&cldp=true&device=all&wtLinkName=wtPN_WirelessPhonesAndDevices&wtLinkLoc=wtPN_GlobalLinks&WT.svl=2"  class=""> Phones and Devices </a>	
+						</li>
+						<li>
+							<a href="/smallbusiness/wireless/accessories.jsp?cldp=true&isStandAlone=true&wtLinkName=wtPN_WirelessAccessories&wtLinkLoc=wtPN_GlobalLinks&WT.svl=2"  class=""> Accessories </a>	
+						</li>	
+						
+						<li>
+							<a href="/smallbusiness/bundles/productIndex.jsp?wtLinkName=wtPN_WirelessShopForBundles&wtLinkLoc=wtPN_GlobalLinks&WT.svl=2" >Shop for bundles</a>	
+						</li>		
+					</ul>
+				</div>
+			</td>
+			<td class="linkFarmColum" style="width: 155px;">
+				<div>
+					<div class="linkFarmColumHeader">
+						<a href="/smallbusiness/productIndex.jsp?prodType=businessServices&activeTab=shop&wtLinkLoc=GlobalLinks&wtLinkName=wtPN_AppsandServices&WT.svl=1">Apps and Services</a>
+					</div>
+			
+					<ul>
+						<li>
+							<a href="/smallbusiness/businessServices/mobileApplications/index.jsp?familyName=AllCategories&wtLinkLoc=GlobalLinks&wtLinkName=wtPN_MobileApplications&WT.svl=1">Mobile Applications</a>	
+						</li>
+						<li>
+							<a href="/smallbusiness/pages/splash/att-cloud-solutions.jsp" target="_blank" rel="BusinessServicesCloudServices" class="externalLink" >Cloud Solutions</a>	
+						</li>
+						<li>
+							<a href="/smallbusiness/businessServices/attconnect/attConnectChild.jsp?cldp=true&wtLinkName=wtPN_BusinessServicesConferencingSolutions&wtLinkLoc=wtPN_GlobalLinks&WT.svl=2" target="_blank">Teleconferencing Solutions</a>
+						</li>
+						<li><a href="/smallbusiness/businessServices/mobileworkplace/mobileWorkPlaceIndex.jsp" name="Mobile_Workplace">AT&amp;T Mobile Workplace&#8480;</a></li>
+						<li>
+							<a href="http://adsolutions.yp.com/" target="_blank" rel="BusinessServicesSmallBusinessAdvertising" class="externalLink">Small Business Advertising</a>	
+						</li>	
+						<li>
+							<a href="/smallbusiness/businessServices/ts360/techSupport.jsp?wtLinkName=wtPN_BusinessServicesTechSupport&wtLinkLoc=wtPN_GlobalLinks&WT.svl=2">Technical Support</a>	
+						</li>
+						<li>
+							<a href="/smallbusiness/businessServices/website-solutions/index.jsp?wtLinkName=wtPN_BusinessServicesWebHosting&wtLinkLoc=wtPN_GlobalLinks&WT.svl=2">Website Solutions</a>	
+						</li>	
+						<li>
+							<a href="/smallbusiness/bundles/productIndex.jsp?wtLinkName=wtPN_BusinessServicesShopForBundles&wtLinkLoc=wtPN_GlobalLinks&WT.svl=2">Shop for bundles</a>	
+						</li>		
+					</ul>
+				</div>
+			</td>
+			<td class="linkFarmColum">
+				<div>
+					<div class="linkFarmColumHeader">
+						<a href="/smallbusiness/productIndex.jsp?prodType=businessPhones&activeTab=shop"">Business Phone</a>
+					</div>
+			
+					<ul>
+						<li>
+							<a href="/smallbusiness/businessPhones/localCallingLongDistance.jsp?cldp=true" > Local and Long Distance</a>	
+						</li>	
+						<li>
+							<a href="/smallbusiness/businessPhones/tollFree.jsp?cldp=true&wtLinkName=wtPN_BusinessPhoneTollFree&wtLinkLoc=wtPN_GlobalLinks&WT.svl=2" >Toll-Free</a>	
+						</li>	
+						<li>
+							<a href="/smallbusiness/bundles/productIndex.jsp?wtLinkName=wtPN_BusinessPhoneShopForBundles&wtLinkLoc=wtPN_GlobalLinks&WT.svl=2" >Shop for bundles</a>	
+						</li>		
+					</ul>
+				</div>
+			</td>
+			<td class="linkFarmColum">
+				<div>
+					<div class="linkFarmColumHeader">
+						<a href="/smallbusiness/productIndex.jsp?prodType=internet&activeTab=shop"">Internet</a>
+					</div>
+			
+					<ul>
+						<li>
+							<a href="/smallbusiness/internet/internet.jsp?cldp=true&wtLinkName=wtPN_InternetInternetAccess&wtLinkLoc=wtPN_GlobalLinks&WT.svl=2" > Internet Access</a>	
+						</li>
+						<li>
+							<a href="/smallbusiness/internet/wirelessInternetFamily.jsp?wtLinkName=wtPN_InternetWirelessInternet&wtLinkLoc=wtPN_GlobalLinks&WT.svl=2" > Mobile Internet </a>	
+						</li>	
+						<li>
+							<a href="/smallbusiness/bundles/productIndex.jsp?wtLinkName=wtPN_InternetShopForBundles&wtLinkLoc=wtPN_GlobalLinks&WT.svl=2" >Shop for bundles</a>	
+						</li>		
+					</ul>
+				</div>
+			</td>
+			<td class="linkFarmColum">
+				<div>
+					<div class="linkFarmColumHeader">
+						<a href="/smallbusiness/productIndex.jsp?prodType=businessTv&activeTab=shop"">Business TV</a>
+					</div>
+			
+					<ul>
+						<li>
+							<a href="/smallbusiness/businessTv/businessTvIndex.jsp?cldp=true&familyName=BusinessViewing&wtLinkName=wtPN_BusinessTvBusinessViewing&wtLinkLoc=wtPN_GlobalLinks&WT.svl=2" > Business Viewing</a>	
+						</li>
+						<li>
+							<a href="/smallbusiness/businessTv/businessTvIndex.jsp?cldp=true&familyName=PrivateViewing&wtLinkName=wtPN_BusinessTvPrivateViewing&wtLinkLoc=wtPN_GlobalLinks&WT.svl=2" > Private Viewing</a>	
+						</li>	
+						<li>
+							<a href="/smallbusiness/businessTv/businessTvIndex.jsp?cldp=true&familyName=PublicViewing&wtLinkName=wtPN_BusinessTvPublicViewing&wtLinkLoc=wtPN_GlobalLinks&WT.svl=2" >Public Viewing</a>	
+						</li>		
+					</ul>
+				</div>
+			</td>
+			<td class="linkFarmColum">
+				<div>
+					<div class="linkFarmColumHeader" style="width: 160px;">
+						Additional Resources
+					</div>
+			
+					<ul>
+						<li>
+							<a href="/smallbusiness/offers/specialOffers.jsp?activeTab=shop&wtLinkName=wtPN_MoreAttServicesViewSpecialOffers&wtLinkLoc=wtPN_GlobalLinks&WT.svl=2"">Special Offers</a>	
+						</li>
+						<li>
+							<a href="http://www.att.com/smallbusiness/solutions/pages/index.jsp" rel="SmallBusinessSolutions" class="externalLink" >Small Business Solutions</a>	
+						</li>
+						<li>
+							<a href="http://networkingexchangeblog.att.com/smallbusiness/?" rel="MoreAttServicesNetworkExchangeBlog" class="externalLink">Networking Exchange</a>	
+						</li>	
+					</ul>
+					
+					<div class="linkFarmExistingHeader">
+						<a href="/smallbusiness/support/en/billing-account.page">Existing Customers</a>
+					</div>
+					
+					<ul>
+						<li>
+							<a href="/smallbusiness/orderStatus/orderNumberEntry.jsp?wtLinkName=wtPN_ExistingCustomersCheckOrderStatus&wtLinkLoc=wtPN_GlobalLinks&WT.svl=2"  >Check order status</a>	
+						</li>
+						
+							
+							
+						
+						
+						<li>
+							<a href="/smallbusiness/support/en/support-landing.page" >Support</a>	
+						</li>
+						<li>
+							<a href="http://localization.att.com/loc/controller?prodsnip=repair_troubleshooting_bus" rel="ExistingCustomersTroubleshootProblem" class="externalLink">Troubleshoot problem</a>	
+						</li>
+						<li>
+							<a href="http://localization.att.com/loc/controller?prodsnip=bus_report_check_problem&?" rel="ExistingCustomersReportCheckProblem" class="externalLink">Report/check problem</a>	
+						</li>	
+					</ul>
+			
+				</div> 
+			</td>
+		</tr></table>
+	</div>
+	
+
+		<div class="deviderLine"></div>
+	
+	
+	<div id="footer">
+		<div class="copyright constrained">
+			<div style="float:left;width:100px;"><a href="/smallbusiness/index.jsp" class="Globe"><img src="/smallbusiness/images/common/footer_att_logo.png" title="AT&T logo"/></a></div>
+			<div style="float:left;width:779px;">
+				<div class="bottomLinks" >
+				<a href="/smallbusiness/support/en/contact-us.page" class="ContactUs" target="_blank">Contact Us</a>|
+
+
+
+<!-- 					<a href="/smallbusiness/support/contact-us-home-28-states.jsp" class="ContactUs" target="_blank">Contact Us</a>| -->
+
+
+			
+
+
+
+
+
+
+<!-- 									<a href="http://smallbusiness.bellsouth.com/help.html#tab7" class="ContactUs" target="_blank">Contact Us</a>| -->
+
+
+<!-- 									<a href="http://www.att.com/gen/general?pid=5394#tab7" class="ContactUs" target="_blank">Contact Us</a>| -->
+
+
+
+						
+
+					<a href="http://www.att.com/gen/general?pid=11561" class="TermsOfUse" target="_blank"> Terms of Use </a>|
+					<a href="http://www.att.com/privacy" class="PrivacyPolicy" target="_blank"> Privacy Policy </a>|
+					<a href="http://www.att.com/yourchoices" class="PrivacyPolicy" target="_blank"> Your Choices </a>|
+					<a href="http://www.att.com/internal/adchoices" class="AdvertisingChoices" target="_blank"> Ad Choices </a>|
+					<a href="http://www.att.com/tollfreedirectoryassistance" class="TollFreeDirectoryAssistance" target="_blank"> Toll-Free Directory Assistance </a>|
+					<a href="http://www.anywho.com/reverse-lookup" class="ReversePhoneLookup" target="_blank"> Reverse Phone Lookup </a>|
+					<a href="http://www.att.com/internal/broadbandinfo" class="BroadbandInformation" target="_blank"> Broadband Info</a>
+				</div>
+				<div class="bottomLinks">
+					<a href="http://www.att.com/gen/corporate-citizenship?pid=5882" class="2012ATTIntellectualProperty" target="_blank">&copy;2014 AT&amp;T Intellectual Property.</a> 
+					All rights reserved. AT&amp;T, the AT&amp;T logo, and all other AT&amp;T marks contained herein are trademarks of AT&amp;T Intellectual Property and/or AT&amp;T affiliated companies. All other marks contained herein are the property of their respective owners. AT&amp;T 36USC220506
+				</div>
+				<div style="float:left;width:110px;">
+					<a href="http://www.yellowpages.com/" class="YellowPages" target="_blank"><img src="/smallbusiness/images/common/logoYP_transparent.png" title="The new YELLOWPAGES.COM" alt="YPlogo"/></a>
+				</div>
+				<div style="float:left;">
+					<a href="http://uverseonline.att.net/sports/network/teamusa" class="ProudSponsorOfTheUSOlympicTeam" target="_blank"><img src="/smallbusiness/images/common/usa3.gif" title="AT&T is a proud sponsor of the U.S. Olympic Team." alt="YPlogo"/></a>
+				</div>
+			</div>
+			<div style="float:left;width:50px;">
+				<a href="http://www.ctia.org/" class="WirelessQualityConsumerInformationCode" target="_blank"><img src="/smallbusiness/images/common/logo_wls_cnsmr_code.gif" title="Wireless Quality Consumer Information Code" alt="CTIAlogo"/></a>
+			</div>
+		</div>
+	</div>
+
+
+	<script> 
+        jQuery(document).ready(function() { 
+        	$('a',$('.copyright')).click(function(){
+        		if(window.WebMetrics){
+        			var pageName = WebMetrics.getMetaTagValue('DCSext.wtPN');
+        			dcsMultiTrack('DCSext.wtLinkLoc' , pageName+'_Footer',
+    						'DCSext.wtLinkName' ,pageName + $(this).attr('class'),
+    						'DCSext.svl' ,'2');
+				}
+        	});
+                
+        $('input.emailoptional').each(function(){
+			if(this.value == ''){
+				this.value='Enter your email address'; 
+			}
+		});
+        $('input.emailoptional').click(function(){
+			var inputvalue= this.value;
+			if(inputvalue == 'Enter your email address'){
+				this.value='';
+			}
+		});
+        });
+	</script> 
+	
+	<script type="text/javascript" src="/smallbusiness/javascript/globalSearch.js"></script>
+	<script type="text/javascript">
+		$.searchAutoSuggest({
+			fetchResultsUrl:'http://www.att.com/smallbusiness/search/p/search?N=0&type=application/json&Ntk=eps&Nty=1&Dk=1',
+			redirectUrl:'http://www.att.com/smallbusiness/search/?q='
+			
+		});
+	</script>
+	
+	
+	
+	 
+	
+	   
+
+
+
+	
+	
+	
+		
+		
+		
+	
+		
+		
+		
+			<script type="text/javascript" src="https://www.wireless.att.com/webtrends/scripts/dcs_tag.js" ></script>
+		
+	
+
+
+
+	
+	<!-- <script type="text/javascript">
+		var isMSIE = /*@cc_on!@*/0;
+		
+		if (isMSIE) {
+			if (/enableAAinclude/g.test(window.location.search)) {
+				_satellite.pageBottom();
+			}
+		} else {
+			_satellite.pageBottom();
+		}
+	</script> -->
+		<script type="text/javascript">
+			_satellite.pageBottom();
+		</script> 
+		</div>			<div id="scrollingDiv">			
+
+
+	
+	<div id="scrollingDiv">
+		
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	 
+	
+	
+	
+	<style>
+	.ieSpecificWidth{
+		width:345px\9 !important;
+		}
+	@media screen and (-webkit-min-device-pixel-ratio:0){
+	.ieSpecificWidth{
+	width:346px !important;
+	}
+	}	
+	</style>
+	<script>
+	
+	function checkOverlay()
+	 {
+		 if( $('#addressButton1').is(':visible')) {
+			 if(window.WebMetrics){
+					WebMetrics.Overlay.DCSext.wtSuccessFlag	= "-1";
+					WebMetrics.overlayEventDispatch("SMBID_AddressValidation_Address_Enter");
+				}		
+			}
+			if( $('#phoneBTN').is(':visible')) {
+				if(window.WebMetrics){
+					WebMetrics.Overlay.DCSext.wtSuccessFlag	= "-1";
+					WebMetrics.overlayEventDispatch("SMBID_AddressValidation_TelephoneNumber_Enter");
+				}
+			}
+			if( $('#singleCorrectedAddress').is(':visible')) {
+				if(window.WebMetrics){
+					WebMetrics.Overlay.DCSext.wtSuccessFlag	= "-1";
+					WebMetrics.overlayEventDispatch("SMBID_AddressValidation_Single_Accept");
+				}
+			}
+	 }
+
+	function createAddressCookie(data){
+		/*Code for July release - Save location data in Cookies start*/
+		var postalCodeZip;
+		var city;
+		var stateCode;
+		var stateFullName;
+		var region;
+		var cookieName = "address_overlay_cookie";
+
+		postalCodeZip = data['postalCode'];
+		city = data['city'];
+		stateCode = data['state'];
+		stateFullname = data['stateFullName'];
+		region = data['geoLocation'];
+		if(region == "13states" || region == "9states" || region  == "" || region  == null){
+			region = "22states";
+		}
+		else{
+			region = "28states";
+		}
+		var cookieString = "";
+		
+		if(city != null && city != ""){
+			cookieString += "cookie_city%"+city+"|";
+		}
+		
+		if(stateCode != null && stateCode != ""){
+			cookieString += "cookie_state%"+stateCode+"|";
+		}
+		
+		if(postalCodeZip != null && postalCodeZip != ""){
+			cookieString += "cookie_postalcode%"+postalCodeZip+"|";
+		}
+		
+		if(cookieString == ""){
+			cookieString = "cookie_city%Dallas|cookie_state%TX|cookie_postalcode%75202|";
+		}
+		
+		if(region != null && region != ""){
+			cookieString += "cookie_geolocation%"+region;
+		}
+		
+		address_overlay_cookie.checkAddress(cookieName, cookieString);
+		
+		
+        /*Code for July release - Save location data in Cookies end*/		
+
+	}
+	
+	
+		jQuery(document).ready(function() { 
+			
+			
+			$('input',$('#serviceAddress')).bind('keypress',function (event){
+				if (event.keyCode === 13){
+					if( $('#optionalAddressBtn').is(':visible')) {
+					$('#optionalAddressBtn').trigger('click');
+					}
+				}
+			});
+			
+			
+			$('#btnEnableGo').click(function(e){
+				
+				if(window.WebMetrics){
+					WebMetrics.Overlay.DCSext.wtSuccessFlag	= "1";
+					WebMetrics.overlayEventDispatch("SMBID_AddressValidation_TelephoneNumber_Enter");
+				}
+			});	
+			
+			$('#enableGo').click(function(e){
+				
+				if(window.WebMetrics){
+					WebMetrics.Overlay.DCSext.wtSuccessFlag	= "1";
+					WebMetrics.overlayEventDispatch("SMBID_AddressValidation_Address_Enter");
+				}
+			});	
+			
+			
+			
+			$('input',$('#showphoneNumber')).bind('keypress',function (event){
+				if (event.keyCode === 13){
+					if( $('#btnChangeAddress').is(':visible')) {
+					$('#btnChangeAddress').trigger('click');
+					}
+				}
+			});
+			
+			$('input.optional').each(function(){
+				if(this.value == ''){
+					this.value='Optional'; 
+				}
+			});
+			
+			$('input.optional').click(function(){
+				var inputvalue= this.value;
+				if(inputvalue == 'Optional'){
+					this.value='';
+				}
+			});
+			
+			$('#loading1').hide();
+			
+			$('#optionalWireless').click(function(e){
+  				e.preventDefault();
+ 				var pCode = $("#postalCode").val();
+				if('60290' == pCode){
+					$('#validateAddressBtn').trigger('click');	
+				}else{
+					$('#addressValidationContent').hide();
+					$('#serviceAddress').hide();
+					$('#locationprovider').hide();
+					$('#wirelesspresent').addClass('wirelessPresentInSession');
+					$('#wirelesspresent').removeClass('continueWarning');
+					$('#warningSaveCart').hide();
+ 					$('#warningSaveCartwithwireless').show();
+					$('.wirelessPresentInSession').unbind('click');
+					$('.wirelessPresentInSession').click(function(e){
+						$('#validateAddressBtn').trigger('click');
+						$('#saveCartOverlay').hide();
+						$('#warningSaveCart').hide();
+						$('#warningSaveCartwithwireless').hide();
+						$('#saveCartOverlayZip').hide();
+						$('#warningSaveCartZip').hide();
+						$('#showphoneNumber').hide();
+					});
+				}
+				
+			});
+			
+			
+			$('#optionalAddressBtn').click(function(e){
+				e.preventDefault();
+				$('#validateAddressBtn').trigger('click');
+			});
+		
+			$('#btnChangeAddress').click(function(e){
+				var pageName = WebMetrics.getMetaTagValue('DCSext.wtPN');
+				WebMetrics.Overlay.DCSext.wtB2BTelephoneNum = $("#telephoneNumber_text").val();
+				WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+				WebMetrics.overlayEventDispatch(pageName+"_OverlayAddressModalBusinessTelephoneNumberEntry_Go");
+				
+				e.preventDefault();
+				$('#validateAddressBtn').trigger('click');
+			});
+
+			$('.wirelessPresentInSession').click(function(e){
+				$('#validateAddressBtn').trigger('click');
+				$('#saveCartOverlay').hide();
+				$('#warningSaveCart').hide();
+				$('#saveCartOverlayZip').hide();
+				$('#warningSaveCartZip').hide();
+				$('#showphoneNumber').hide();
+ 			});
+			
+			// gear implementation 
+			 function checkNumber() {
+				 if($('#telephoneNumber_text').val().indexOf('_') >-1 || $('#telephoneNumber_text').val() == "" || $('#telephoneNumber_text').val().length < 12) {
+					 $('.goButton_enable').hide();
+						$('.goButton_disable').show();
+					}
+					else{
+						$('#telephoneNumber_text').val().replace( /(\d{3})(\d{3})(\d{4})/, '$1-$2-$3' );
+						 telephoneNumber = $('#telephoneNumber_text').val();
+						 var array_tel_num=telephoneNumber.split("");
+						 if(array_tel_num[11] == array_tel_num[10])
+							{	
+								//alert("phone number field cannot have same value for all the 10 digits");
+								}
+							
+						 else{
+						$('.goButton_enable').show();
+						$('.goButton_disable').hide();
+				}
+			}
+				}
+			
+			
+			 $('#telephoneNumber_text').bind('keydown keyup change focus',function(event){
+					if($('#telephoneNumber_text').val().indexOf('_') >-1 || $('#telephoneNumber_text').val() == "" || $('#telephoneNumber_text').val().length < 12) {
+						
+						 $('.goButton_enable').hide();
+							$('.goButton_disable').show();
+						}
+						else{
+							
+							$('#telephoneNumber_text').val().replace( /(\d{3})(\d{3})(\d{4})/, '$1-$2-$3' );
+							 telephoneNumber = $('#telephoneNumber_text').val();
+							 var array_tel_num=telephoneNumber.split("");
+							 var flag = true;
+							 for (count=1;count<12;count++){
+								 if(array_tel_num[count]!='-'){
+								 if(array_tel_num[0] != array_tel_num[count])
+									 {
+									 	flag=false;
+									 }
+								 }
+								}
+							 if(flag && event.type!= 'focus' && ((event.keyCode>=48 && event.keyCode<=68)||(event.keyCode>=96 && event.keyCode<=105)))
+									{
+								 	//alert("event code#####"+event.keyCode);
+									alert("Business Telephone number field cannot have all the 10 digits same.");
+									$('.goButton_enable').hide();
+									$('.goButton_disable').show();
+									}
+								
+							 else{
+								$('.goButton_enable').show();
+								$('.goButton_disable').hide();
+							 }
+				}	
+				});
+			$('#telephoneNumber_text').mask("?999-999-9999");
+			
+			
+			$('#addressReturnBtn').click(function(e){
+				e.preventDefault();
+				var selectedAddressOption = $('input:checked',$('#addressOptionsContainer'));
+				$('#address1').val($(selectedAddressOption).data('streetAddress').replace("&#039;","'"));
+				$('#address2').val($(selectedAddressOption).data('addressLine2'));
+				$('#rangedAddressOption').val($(selectedAddressOption).data('streetAddress'));
+				$('#city').val($(selectedAddressOption).data('city'));
+				$('#state').val($(selectedAddressOption).data('state'));
+				$('#postalCode').val($(selectedAddressOption).data('postalCode'));
+				var selectedRadioid = $('input:checked',$('#addressOptionsContainer'))[0].id;
+				selectedRadioid = selectedRadioid.replace('optionalAddressRadio','');
+				if($('#streetOption'+selectedRadioid).length >0){
+					var enteredStreetNumber=$('#streetOption'+selectedRadioid).val();
+					var addrress1 =$('#rangedAddressOption').val()
+					addrress1 =new String(addrress1);
+					var addSub = addrress1.split(' ');
+					addSub[0] = enteredStreetNumber;
+					$('#address1').val(addSub.join(' '));
+				}
+				$('#validateAddressBtn').trigger('click');
+			});
+			
+			$("#multiAddressErrorBtn").click(function(e){
+				e.preventDefault();
+				$('#addressErrorBtn').click();
+			});
+			
+			$("#multiAttemptAddressErrorBtn").click(function(e){
+				e.preventDefault();
+				$('#addressErrorBtn').click();
+			});
+			
+			$('#addressErrorBtn').click(function(e){
+				e.preventDefault();
+				$('input.optional').each(function(){
+					if(this.value == ''){
+						this.value='Optional'; 
+					}
+				});
+				$('#errorContainer').hide();
+				$('#addressOptions').hide();
+				$('#attemptFailure').hide();
+				$('#serviceAddress').show();
+				
+				 var pageName = WebMetrics.getMetaTagValue('DCSext.wtPN');
+				if($('#multiAddressErrorBtn').hasClass('singleReturnAddress')){
+					WebMetrics.Overlay.DCSext.wtLinkLoc = pageName + '_Overlay_AddressModalSingleCorrectedAddressReturned_Body';
+					WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+					WebMetrics.Overlay.DCSext.wtSuccessFlag="0";
+					WebMetrics.overlayEventDispatch('SMBID_AddressValidation_Single_Accept');
+				}else if($('#multiAddressErrorBtn').hasClass('rangedAddressReturn')){
+					WebMetrics.Overlay.DCSext.wtLinkLoc = pageName + '_Overlay_AddressModalMultipleAddressRangesReturned_Body';
+					WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+					WebMetrics.Overlay.DCSext.wtSuccessFlag="0";
+					WebMetrics.overlayEventDispatch('SMBID_AddressValidation_MultipleRanges_Accept');
+				}else if($('#multiAddressErrorBtn').hasClass('multipleAddressReturn')){
+					WebMetrics.Overlay.DCSext.wtLinkLoc = pageName + '_Overlay_AddressModalMultipleAddressesReturned_Body';
+					WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+					WebMetrics.Overlay.DCSext.wtSuccessFlag="0";
+					WebMetrics.overlayEventDispatch('SMBID_AddressValidation_Multiple_Accept');
+				}else if($("#multiAttemptAddressErrorBtn").hasClass('13states')){
+					WebMetrics.Overlay.DCSext.wtLinkLoc = pageName + '_Overlay_AddressModalContactOptions13States_Body';
+					WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+					WebMetrics.Overlay.DCSext.wtSuccessFlag="0";
+					WebMetrics.overlayEventDispatch('SMBID_AddressValidation_FailedAddressCheck_Accept');
+				}else if($("#multiAttemptAddressErrorBtn").hasClass('28states')){
+					WebMetrics.Overlay.DCSext.wtLinkLoc = pageName + '_Overlay_AddressModalContactOptions28States_Body';
+					WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+					WebMetrics.Overlay.DCSext.wtSuccessFlag="0";
+					WebMetrics.overlayEventDispatch('SMBID_AddressValidation_FailedAddressCheck_Accept');
+				}else if($("#multiAttemptAddressErrorBtn").hasClass('9states')){
+					WebMetrics.Overlay.DCSext.wtLinkLoc = pageName + '_Overlay_AddressModalContactOptions9States_Body';
+					WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+					WebMetrics.Overlay.DCSext.wtSuccessFlag="0";
+					WebMetrics.overlayEventDispatch('SMBID_AddressValidation_FailedAddressCheck_Accept');
+				}else{
+					WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+					WebMetrics.Overlay.DCSext.wtSuccessFlag="0";
+					WebMetrics.overlayEventDispatch('SMBID_AddressValidation_NotFound_Accept');
+				}
+				
+			});
+			
+			jQuery.ajaxSetup({accepts:'application/json'}) ;
+			jQuery('#validateAddressBtn',$('#changeAdreesEligibility')).click(function(event) {
+				$('input.optional').each(function(){
+					if(this.value == 'Optional'){
+						this.value=''; 
+					}
+				});
+				var data = {};
+				jQuery('input',$('#changeAdreesEligibility')).each(function(){
+					data[$(this).attr('name')] = $(this).val();
+				});
+				
+				jQuery('input[type="checkbox"]',$('#changeAdreesEligibility')).each(function(index,thisCheckbox){
+					if(thisCheckbox.checked){
+						data[$(thisCheckbox).attr('name')]="true";
+					}else{
+						data[$(thisCheckbox).attr('name')]="false";
+					}
+				});
+				
+				jQuery('select',$('#changeAdreesEligibility')).each(function(){
+					data[$(this).attr('name')] = $(this).val();
+				});
+				//Pass the name/value pair of submit button as well.
+				data[jQuery('#validateAddressBtn').attr('name')] = jQuery('#validateAddressBtn').attr('value');
+				var url = '/smallbusiness/common/serviceAvailabilitySuccess.jsp';
+					event.preventDefault();
+					jQuery.ajax({
+						url : url,
+						type : 'POST',
+						data : data,
+						success : validationSuccess,
+						error : validationError,
+						dataType : 'json',
+						beforeSend : function(xhr) {
+							$('#addressValidationContent').hide();
+							$('#loading1').show();
+							/* In formhandler check value of this header to figure out if its 
+							a normal submiission or its a AJAX request and take nacessary action.*/
+							xhr.setRequestHeader('Accept','application/json');
+						}
+					});
+					return false;
+				});
+			
+			/* Adding the reporing tags for address eligibility */
+			var knownAddress = false;
+			if($('#postalCode').val()!== ""){
+				knownAddress=true;
+			}
+			$('#optionalAddressBtn').click(function(e){
+				var pageName = WebMetrics.getMetaTagValue('DCSext.wtPN');
+				if(window.WebMetrics)
+				{
+					WebMetrics.Overlay.DCSext.wtB2BAddressModalCheckState= $('#state').val();
+					WebMetrics.Overlay.DCSext.wtB2BAddressModalCheckCity=$('#city').val(); 
+					WebMetrics.Overlay.DCSext.wtB2BAddressModalCheckZipCode= $('#postalCode').val();
+						
+					//pass this var only when fedTaxID is visible
+					if($('#federalTaxId:visible').length > 0){
+						if($('#federalTaxId').is(':checked')){
+							WebMetrics.Overlay.DCSext.wtB2BHaveFederalTaxIDInd = "true";
+						}else{
+							WebMetrics.Overlay.DCSext.wtB2BHaveFederalTaxIDInd = "false";
+						}
+					}
+					
+					if($('#existCustomer').is(':checked')){
+						WebMetrics.Overlay.DCSext.wtB2BExistingCustomerInd = "true";
+						dcsMultiTrack('DCSext.wtB2BBusinessValidationMethod',"Existing customer"
+					      );
+					}else{
+						WebMetrics.Overlay.DCSext.wtB2BExistingCustomerInd = "false";
+					}
+										
+					WebMetrics.Overlay.DCSext.wtB2BAddressConfirmationMethod = "Full Address";
+					WebMetrics.Overlay.DCSext.wtB2BBIDProductFilterMethod    = "Confirmed by Address";
+					//WebMetrics.Overlay.DCSext.wtB2BEstimatedZipCode		  = " ";
+					WebMetrics.Overlay.DCSext.wtB2BConfirmedZipCode		  = '60290';
+					WebMetrics.Overlay.DCSext.wtSuccessFlag				  = "1";
+					
+					WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+					WebMetrics.overlayEventDispatch("SMBID_AddressValidation_Address_Enter");
+					
+				}
+			});
+			
+			$('#addressReturnBtn').click(function(){
+				var pageName = WebMetrics.getMetaTagValue('DCSext.wtPN');
+				if($(this).hasClass('singleReturnAddress')){
+					if(window.WebMetrics)
+					{ 	
+						WebMetrics.Overlay.DCSext.wtLinkLoc = pageName + '_Overlay_AddressModalSingleCorrectedAddressReturned_Body';
+						WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+						WebMetrics.Overlay.DCSext.wtSuccessFlag="1";
+						WebMetrics.overlayEventDispatch('SMBID_AddressValidation_Single_Accept');
+						
+						
+					}
+				}
+				if($(this).hasClass('rangedAddressReturn')){
+					if(window.WebMetrics)
+					{ 	
+						WebMetrics.Overlay.DCSext.wtLinkLoc = pageName + '_Overlay_AddressModalMultipleAddressRangesReturned_Body';
+						WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+						WebMetrics.Overlay.DCSext.wtSuccessFlag="1";
+						WebMetrics.overlayEventDispatch('SMBID_AddressValidation_MultipleRanges_Accept');
+						
+					}
+				}
+				if($(this).hasClass('multipleAddressReturn')){
+					if(window.WebMetrics)
+					{ 	
+						WebMetrics.Overlay.DCSext.wtLinkLoc = pageName + '_Overlay_AddressModalMultipleAddressesReturned_Body';
+						WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+						WebMetrics.Overlay.DCSext.wtSuccessFlag="1";
+						WebMetrics.overlayEventDispatch('SMBID_AddressValidation_Multiple_Accept');
+						
+					}
+				} 
+				
+			});
+			
+			
+			
+		});
+		
+		function validationSuccess(data){
+			
+			$('#evaluateForBTNNumber').val("");
+			if(data['errors'] != undefined || data['systemError'] != undefined)
+			{
+				/* console.log(data['failureCount']); */
+				var failureCount = data['failureCount'];
+				/* console.log(data['geoLocation']); */
+				$('#addressReturnBtn').removeClass();
+				$('#multiAddressErrorBtn').removeClass()
+				var geoLocation = data['geoLocation'];
+				if(failureCount > 3){
+					$('#loading1').hide();
+					$('#serviceAddress').hide();
+					$('#addressOptions').hide();
+					$('#errorContainer').hide();
+					$('#showphoneNumber').hide();
+					$('#addressValidationContent').show();
+					$('#multiAttemptAddressErrorBtn').removeClass();
+					$('#multiAttemptAddressErrorBtn').addClass(geoLocation);
+					$('#attemptFailure').show().find("div[id$=states]").hide().parent().find('div#'+geoLocation).show();
+					if(geoLocation == "13states"){
+						WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+		        		WebMetrics.overlayPageDispatch(WebMetrics.getPageName() + "  Overlay Address Modal Contact Options 13 States");
+					}else if(geoLocation == "28states"){
+						WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+		        		WebMetrics.overlayPageDispatch(WebMetrics.getPageName() + "  Overlay Address Modal Contact Options 28 States");
+					}else if(geoLocation == "9states"){
+						WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+		        		WebMetrics.overlayPageDispatch(WebMetrics.getPageName() + "  Overlay Address Modal Contact Options 9 States");
+					}
+					return;
+				}else{
+					$('#addressErrorContainer').html("");
+					var city = $('#city').val();
+					city=city.replace("&#039;","'");
+					for( i=0;i<data['errors'].length;i++ ){
+						var errorMsg= data['errors'][i].split(':');
+						if(errorMsg[1])
+							$('#addressErrorContainer').append('<div>'+errorMsg[1]+'</div>');
+					}
+					$('#addressValidationContent').show();
+					$('#loading1').hide();
+					
+					$('#errorAddress1').text($.trim($('#address1').val()));
+					$('#errorAddress2').text($.trim($('#address2').val()));
+					$('#errorCitySateZip').text($.trim(city) + ", " + $('#state').val() + " " + $('#postalCode').val());
+					$('#attemptFailure').hide();
+					$('#serviceAddress').hide();
+					$('#addressOptions').hide();
+					$('#errorContainer').show();
+					$('#showphoneNumber').hide();
+					
+					WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+	        		WebMetrics.overlayPageDispatch(WebMetrics.getPageName() + " Overlay Address Modal Address Not Found Pg");
+							
+				}
+			}else if(data['showPhoneNumber']=== 'true'){
+				$('#loading1').hide();
+				$('#attemptFailure').hide();
+				$('#serviceAddress').hide();
+				$('#addressOptions').hide();
+				$('#errorContainer').hide();
+				$('#addressValidationContent').show();
+				$('#showphoneNumber').show();
+				
+				WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+        		WebMetrics.overlayPageDispatch(WebMetrics.getPageName() + " Overlay Address Modal Business Telephone Number Entry");
+        		createAddressCookie(data);
+				$('#telephoneNumber_text').focus();
+			}else if(!$.isArray(data)){
+				var isFamilyPage = $('#FAMILY_PAGE').val();
+				var isChildURL = false;
+				var targetURL = $('#SeviceEligibiltyLightBox').data('srcURL');
+				if(targetURL == undefined)
+					targetURL=window.location.href.replace("changeLocation=true","");
+				
+				var geoLocation = data['geoLocation'];
+				
+				if(geoLocation == "13states"){
+					WebMetrics.Overlay.DCSext.wtB2BStateGroupName = "13 State";
+				}else if(geoLocation == "28states"){
+					WebMetrics.Overlay.DCSext.wtB2BStateGroupName = "28 State";
+				}else if(geoLocation == "9states"){
+					WebMetrics.Overlay.DCSext.wtB2BStateGroupName = "9 State";
+				}
+				WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+				//WebMetrics.overlayEventDispatch(WebMetrics.getPageName() +"_Overlay_AddressModalValidation_Complete");
+				
+				$('.locationOverlay,.zipCodeOverlayChangeLoc').data('myplugin').closeOverlay();
+				createAddressCookie(data);
+				$('.close',$('#SeviceEligibiltyLightBox')).trigger("click");
+				$('#processProducts').click();
+				var src = "/smallbusiness/common/processing.jsp?successURL="+targetURL;
+				$('#processingPage').attr("src",src);
+	
+			}else if ($.isArray(data)){
+				$('#addressOptionsContainer').html("");
+				if(data.length >15){
+					$('#addressOptionsContainerMain').css('overflow-y','scroll');
+					$('#addressOptionsContainerMain').css('max-height','400px');
+					}
+				for(var count = 0 ; count < data.length ; count++){
+					var streetAddressString = data[count]['addressLine1'];
+					var city = data[count]['city'];
+					city=city.replace("&#039;","'");
+					var state = data[count]['state'];
+					var postalCode = data[count]['postalCode'];
+					var addressLine2= data[count]['addressLine2'];
+					addressLine2 = $.trim(addressLine2);
+					var addressString = "";
+					if( addressLine2 == ''){
+						addressString = streetAddressString + ", " + city + ", " + state + " " + postalCode;
+					} else {
+						addressString = streetAddressString + ", " + addressLine2 + ", " + city + ", " + state + " " + postalCode;
+					}
+					var radioElement = $('<input>').attr({type: 'radio', name: 'addressInput', value: '', id: 'optionalAddressRadio'+count});
+						radioElement.data('city',city);
+						radioElement.data('state',state);
+						radioElement.data('postalCode',postalCode);
+						radioElement.data('streetAddress',streetAddressString);
+					 	radioElement.data('addressLine2',addressLine2);
+						radioElement.data('isRangedAddress','false');
+					var radioLabel = $('<span>').html(addressString).addClass('label');
+					if(data[count]['isRangedAddress'] == true){
+						var streetInput = $('<span style="margin-left:10px;">').append($('<input>').attr({type: 'text', style:'width:80px;',name: 'streetInput', value: '',id: 'streetOption'+count}));
+						var streetLabel = $('<span>').html('Updated Street Address').addClass('label');
+						var streetElement =$('<div style="display:none;padding:10px;">').attr({id: 'streetElement'+count}).append(streetLabel).append(streetInput);
+						radioElement.data('streetElement',streetElement);
+						radioElement.data('isRangedAddress',data[count]['isRangedAddress']);
+					}
+					radioElement.click(function(){   
+						if($(this).data('isRangedAddress') == true){
+							$('div[id^=streetElement]').each(function(){
+								$(this).hide();
+							});
+							$(this).data('streetElement').show();
+						}
+						$('input[id^="optionalAddressRadio"]').attr('checked',false);
+						$(this).attr('checked',true);
+					});
+					
+					$('#addressValidationContent').show();
+					$('#loading1').hide();
+
+					$('#addressOptionsContainer').append($('<div>').append(radioElement).append(radioLabel));
+					if(data[count]['isRangedAddress'] == true){
+						$('#addressOptionsContainer').append(streetElement);
+					}	
+					if(count == 0){
+						if(data[count]['isRangedAddress'] == true){
+							$('#addressReturnBtn').addClass('rangedAddressReturn');
+							$('#multiAddressErrorBtn').addClass('rangedAddressReturn');
+						}else{
+							$('#addressReturnBtn').addClass('multipleAddressReturn');
+							$('#multiAddressErrorBtn').addClass('multipleAddressReturn');
+						}
+						radioElement.attr('checked',true);
+						radioElement.trigger('click');	
+					}
+					
+				}
+				$('#serviceAddress').hide();
+				$('#errorContainer').hide();
+				$('#attemptFailure').hide();
+				$('#showphoneNumber').hide();
+				if((data.length == 1) && (data[0]['isRangedAddress'] != true)){	
+					$('#addressOptionsContainerMain').hide();
+					var streetAddressString = data[0]['addressLine1'];
+					var city = data[0]['city'];
+					city=city.replace("#039;","'");
+					var state = data[0]['state'];
+					var postalCode = data[0]['postalCode'];  
+					var addressLine2= data[0]['addressLine2'];
+					addressLine2 = $.trim(addressLine2);
+					var addressString = "";
+					addressString = city + ", " + state + " " + postalCode;
+					$('#singleCorrectedAddressDetails').html("");
+					$('#singleCorrectedAddressDetails').append($('<div>').append("<strong>"+streetAddressString+"</strong>"));
+					if( addressLine2 != ''){
+						$('#singleCorrectedAddressDetails').append($('<div>').append("<strong>"+addressLine2+"</strong>"));
+					}
+					$('#singleCorrectedAddressDetails').append($('<div>').append("<strong>"+addressString+"</strong>"));
+					$('#addressReturnBtn').removeClass();
+					$('#multiAddressErrorBtn').removeClass();
+					$('#addressReturnBtn').addClass('singleReturnAddress');
+					$('#multiAddressErrorBtn').addClass('singleReturnAddress')
+					$('#singleCorrectedAddress').show();
+					
+					WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+	        		WebMetrics.overlayPageDispatch(WebMetrics.getPageName() + " Overlay Address Modal Single Corrected Address Returned");
+					
+				}else{
+					$('#addressOptions').show();
+					$('#singleCorrectedAddress').hide();
+					$('#addressOptionsContainerMain').show();
+					WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+	        		WebMetrics.overlayPageDispatch(WebMetrics.getPageName() + "  Overlay Address Modal Address Multiple Addresses Returned");
+				}
+				$('#addressOptions').show();
+				
+				
+
+			}
+
+		}
+		function validationError(jqXHR, textStatus, errorThrown) {
+			
+		}
+	</script>
+
+
+	<div id="SeviceEligibiltyBackDrop" class="backdrop"></div>
+	<div id="SeviceEligibiltyStrictBackDrop" class="backdrop"></div>
+	<div id="SeviceEligibiltyLightBox" class="overlaybox" style="width:506px;">
+		<div class="close">
+			<a href="#" id="telephoneImageClose"><img border="0" src="/smallbusiness/images/buttons/btn_overlay_close.png" width="28" height="28" style="float: right;" onclick="checkOverlay();" /></a>
+		</div>
+		<div id="changeAdreesEligibility">
+			
+				
+				
+				
+			
+				
+				
+					<input id="isCartEmpty" type="hidden" name="cartEmpty" value="true" />
+				
+				
+			
+			<input id="flowType" type="hidden" name="flowtype" value=""/>	
+			<div id="loading1" align="center" style="display:none">
+				<div><div class="header" style="padding:20px 20px 20px 12px">&nbsp;</div></div>
+				<img src="/smallbusiness/images/common/Pre_Loader_SA_Long_Implemented.gif"  />
+			</div>
+			<div id="addressValidationContent">
+				<form name="AddressValidationForm" action="/smallbusiness/overlay/addressEligibility.jsp"><input name="_dyncharset" value="UTF-8" type="hidden"></input><input name="_dynSessConf" value="9031030704716270745" type="hidden"></input>
+				
+					<input name="/com/att/b2b/common/external/formhandler/ServiceAvailabilityForLocationFormHandler.ajaxSuccessUrl" value="/smallbusiness/common/serviceAvailabilitySuccess.jsp" type="hidden"><input name="_D:/com/att/b2b/common/external/formhandler/ServiceAvailabilityForLocationFormHandler.ajaxSuccessUrl" value=" " type="hidden">
+					<input name="/com/att/b2b/common/external/formhandler/ServiceAvailabilityForLocationFormHandler.ajaxErrorUrl" value="/smallbusiness/common/serviceAvailabilityError.jsp" type="hidden"><input name="_D:/com/att/b2b/common/external/formhandler/ServiceAvailabilityForLocationFormHandler.ajaxErrorUrl" value=" " type="hidden">
+					
+					<input type="hidden" id="evaluateForBTNNumber" name="evaluateForBTNNumber" value="true"/>
+					
+					<input type="hidden" value="" name="rangedAddressOption" id="rangedAddressOption" />
+					<div><div id="locationprovider" class="header" style="padding:20px 20px 20px 12px">Provide Your Location</div></div>
+					<div id="errorContainer" >
+						<div id="errorMessage" style="width:95%;border: 2px solid red;border-radius:5px;padding:10px;">
+							<div style="float:left;margin-right:10px;">
+								<img src="/smallbusiness/images/icons/icon_alert_28x23.png">
+							</div>
+							<div style="float:left;width:90%;">
+								<p>We couldn't validate the address you provided:</p>
+								<br/><br/>
+								<div id="addressErrorContainer"></div>
+								<div id="errorAddress1"></div>
+								<div id="errorAddress2"></div>
+								<div id="errorCitySateZip"></div>
+								<br/><br/>
+								<p> 
+									We need a valid address to display the products and services available in your area. 
+									The address cannot be a P.O. box. To return to the previous page and correct the address, 
+									click <strong>Change</strong>.
+								</p>
+							</div>
+							<div class="clearBoth"></div>
+						</div>
+						
+						<div class="padding10"><hr color="#dddddd"></div>
+						
+						<div style="float: right;">
+							<a href="#" id="addressErrorBtn"><img src="/smallbusiness/images/buttons/btn_Wht_change_s.gif"/></a>
+						</div>
+						<div class="clearBoth"></div>
+					</div>
+					<div id="addressOptions"  style="display:none;padding:20px;">
+						<div id="addressOptionsContainerMain" style="width: 95%;padding:10px;border-radius:10px;border: 2px solid skyBlue;">
+					 		<div style="float:left;margin-right:10px;">
+								<img src="/smallbusiness/images/icons/icon_info_24x24.png">
+							</div>
+							<div style="float:left;width:92%;">
+								<p style="padding-top : 0px;">
+									We found multiple address ranges that match your entry. Select the correct range and enter your exact street number, and then 
+									click <strong>Continue</strong>. Otherwise, click <strong>Change</strong> to return to the previous page and 
+									correct the address.
+								</p>
+								<div id="addressOptionsContainer"></div>
+								<div class="clearBoth"></div>
+							</div>
+							<div class="clearBoth"></div>
+						</div>
+						
+						<div id="singleCorrectedAddress" style="width: 95%;padding:10px;border-radius:10px;border: 2px solid skyBlue;display:none;">
+							<div style="float:left;margin-right:10px;">
+								<img src="/smallbusiness/images/icons/icon_info_24x24.png">
+							</div>
+							<div style="float:left;width:92%;">
+								We validated your address with corrections and highlighted the changes below. 
+								<div id="singleCorrectedAddressDetails" style="font-weight:bold;padding:10px 0px;"></div>
+								If the address is incorrect, click <strong>Change</strong> to return to the previous page and correct the address. Otherwise, click <strong>Continue</strong>.
+							</div>	
+							<div class="clearBoth"></div>
+						</div>
+						<div class="padding10"><hr color="#dddddd"></div>
+						
+						<div>
+							<div style="float:left;"><a href="#" id="multiAddressErrorBtn"><img src="/smallbusiness/images/buttons/btn_Wht_change_s.gif"/></a></div>
+							<div style="float:right;"><a href="#" class="" id="addressReturnBtn"><img src="/smallbusiness/images/buttons/btn_Continue_s.gif"/></a></div>
+							<div class="clearBoth"></div>
+						</div>	
+						<div class="clearBoth"></div>
+					</div>
+					<div id="showphoneNumber" class="content" style="display:none;padding:20px;">
+						<div style="padding:10px 0px 10px 0px;">
+							<p>
+								Tell us where you want service, and we'll show you what's available in your area.
+							</p>
+						</div>
+						<div style="border-top: 1px solid #cccccc;border-bottom: 1px solid #cccccc;padding: 10px 0px 10px 0px;">	
+							<p style="padding-bottom:10px;">
+							We validated your address and now need a business phone number to complete the service availability check. 
+							If you already have a business phone number at your location, enter it below. 
+							If you need a business phone number at your location, we can help you get one. 
+							For now, please enter the phone number of your nearest neighboring business.
+
+							</p>
+						
+							
+							
+								
+								
+							
+								
+								
+									
+								
+							
+							<span style="padding-right: 80px;"><strong>Business Phone Number:</strong></span>
+							<input id="telephoneNumber_text" name="/com/att/b2b/common/external/csi/services/isa/ServiceAvailabilityForLocationInfo.telephoneNumber" value="" type="text" size="25"><input name="_D:/com/att/b2b/common/external/csi/services/isa/ServiceAvailabilityForLocationInfo.telephoneNumber" value=" " type="hidden">
+						</div>
+						<div style="padding:10px 0px 10px 0px;">
+						<div class="buttonContainer" id="phoneBTN">
+							<div style="float: right;display:none;" id="btnEnableGo" class="goButton_enable">
+								<a href="#"  id="btnChangeAddress" class="changeClassButton" ><img  src="/smallbusiness/images/buttons/btn_Go_s.gif"/></a> 
+							</div>
+							<div style="float: right;" id="btnDisabledGo" class="goButton_disable">
+								<img   src="/smallbusiness/images/buttons/btn_disabled_go_s.gif"/>
+							</div>
+						</div>
+						</div>
+						<div class="clearBoth"></div>
+					</div>
+					<div class="padding15" id="serviceAddress">
+						<div >
+							<p style="padding-bottom:10px;">
+								To proceed, provide your address. We respect your privacy and won't share this information with third parties.
+							</p>
+						</div>
+						
+						<input id="hasWirelessZip" style="display:none" name="/com/att/b2b/common/external/csi/services/isa/ServiceAvailabilityForLocationInfo.wirelessZipAvailable" value="false" type="checkbox"><input name="_D:/com/att/b2b/common/external/csi/services/isa/ServiceAvailabilityForLocationInfo.wirelessZipAvailable" value=" " type="hidden">
+						
+							
+							
+						
+							
+							
+							
+							
+							
+							
+							
+								
+								
+							
+							
+						
+						
+						
+						
+							
+							
+						
+							
+							
+								
+									
+									
+									
+						
+									
+									
+									
+						
+								
+							
+							
+							
+						
+							
+							
+							
+							
+						<div>
+							<div class="locPadding6">Street Address</div>
+							<input id="address1" maxlength="50" style="width:339px;" name="/com/att/b2b/common/external/csi/services/isa/ServiceAvailabilityForLocationInfo.userAddress.addressLine1" value="" class="toBeValidated ieSpecificWidth" type="text" size="45"><input name="_D:/com/att/b2b/common/external/csi/services/isa/ServiceAvailabilityForLocationInfo.userAddress.addressLine1" value=" " type="hidden">
+							<div style="padding-bottom: 10px;"></div>
+							<div class="locPadding6">Additional Address Info (Example: floor, room, suite, bldg #)</div>
+							<input id="address2" maxlength="50" style="width:339px;" name="/com/att/b2b/common/external/csi/services/isa/ServiceAvailabilityForLocationInfo.userAddress.addressLine2" value="" class="ieSpecificWidth" type="text" size="45"><input name="_D:/com/att/b2b/common/external/csi/services/isa/ServiceAvailabilityForLocationInfo.userAddress.addressLine2" value=" " type="hidden">
+							<br>
+							<div style="padding-top: 10px;">
+								
+								<div style="float: left;width:165px;">
+														<div class="locPadding6">City</div>
+														<input id="city" maxlength="25" name="/com/att/b2b/common/external/csi/services/isa/ServiceAvailabilityForLocationInfo.userAddress.city" value="" class="toBeValidated" type="text"><input name="_D:/com/att/b2b/common/external/csi/services/isa/ServiceAvailabilityForLocationInfo.userAddress.city" value=" " type="hidden">
+													</div>
+														
+														<div style="float: left;width:72px;padding-left:10px;">
+															<div class="locPadding6">State</div>
+															<span class="selectWrapper">
+															<input name="_D:state" value=" " type="hidden"></input><select id="state" name="state" class="toBeValidated">
+																<option value="">Select
+																
+																	
+																
+																	
+																		
+																			
+																			
+																		
+																			
+																			
+																				<option value="AK">AK
+																			
+																		
+																			
+																			
+																				<option value="AL">AL
+																			
+																		
+																			
+																			
+																				<option value="AR">AR
+																			
+																		
+																			
+																			
+																				<option value="AZ">AZ
+																			
+																		
+																			
+																			
+																				<option value="CA">CA
+																			
+																		
+																			
+																			
+																				<option value="CO">CO
+																			
+																		
+																			
+																			
+																				<option value="CT">CT
+																			
+																		
+																			
+																			
+																				<option value="DC">DC
+																			
+																		
+																			
+																			
+																				<option value="DE">DE
+																			
+																		
+																			
+																			
+																				<option value="FL">FL
+																			
+																		
+																			
+																			
+																				<option value="GA">GA
+																			
+																		
+																			
+																			
+																				<option value="HI">HI
+																			
+																		
+																			
+																			
+																				<option value="IA">IA
+																			
+																		
+																			
+																			
+																				<option value="ID">ID
+																			
+																		
+																			
+																			
+																				<option selected value="IL">IL
+																			
+																		
+																			
+																			
+																				<option value="IN">IN
+																			
+																		
+																			
+																			
+																				<option value="KS">KS
+																			
+																		
+																			
+																			
+																				<option value="KY">KY
+																			
+																		
+																			
+																			
+																				<option value="LA">LA
+																			
+																		
+																			
+																			
+																				<option value="MA">MA
+																			
+																		
+																			
+																			
+																				<option value="MD">MD
+																			
+																		
+																			
+																			
+																				<option value="ME">ME
+																			
+																		
+																			
+																			
+																				<option value="MI">MI
+																			
+																		
+																			
+																			
+																				<option value="MN">MN
+																			
+																		
+																			
+																			
+																				<option value="MO">MO
+																			
+																		
+																			
+																			
+																				<option value="MS">MS
+																			
+																		
+																			
+																			
+																				<option value="MT">MT
+																			
+																		
+																			
+																			
+																				<option value="NC">NC
+																			
+																		
+																			
+																			
+																				<option value="ND">ND
+																			
+																		
+																			
+																			
+																				<option value="NE">NE
+																			
+																		
+																			
+																			
+																				<option value="NH">NH
+																			
+																		
+																			
+																			
+																				<option value="NJ">NJ
+																			
+																		
+																			
+																			
+																				<option value="NM">NM
+																			
+																		
+																			
+																			
+																				<option value="NV">NV
+																			
+																		
+																			
+																			
+																				<option value="NY">NY
+																			
+																		
+																			
+																			
+																				<option value="OH">OH
+																			
+																		
+																			
+																			
+																				<option value="OK">OK
+																			
+																		
+																			
+																			
+																				<option value="OR">OR
+																			
+																		
+																			
+																			
+																				<option value="PA">PA
+																			
+																		
+																			
+																			
+																				<option value="RI">RI
+																			
+																		
+																			
+																			
+																				<option value="SC">SC
+																			
+																		
+																			
+																			
+																				<option value="SD">SD
+																			
+																		
+																			
+																			
+																				<option value="TN">TN
+																			
+																		
+																			
+																			
+																				<option value="TX">TX
+																			
+																		
+																			
+																			
+																				<option value="UT">UT
+																			
+																		
+																			
+																			
+																				<option value="VA">VA
+																			
+																		
+																			
+																			
+																				<option value="VT">VT
+																			
+																		
+																			
+																			
+																				<option value="WA">WA
+																			
+																		
+																			
+																			
+																				<option value="WI">WI
+																			
+																		
+																			
+																			
+																				<option value="WV">WV
+																			
+																		
+																			
+																			
+																				<option value="WY">WY
+																			
+																		
+																	
+																
+															</select>
+															</span>
+														</div>
+												<div style="float: left;width:80px;padding-left:10px;padding-bottom:20px;padding-right:130px;">
+													
+													<div class="locPadding6">ZIP Code</div>
+													<input id="postalCode" maxlength="5" name="/com/att/b2b/common/external/csi/services/isa/ServiceAvailabilityForLocationInfo.userAddress.postalCode" value="60290" class="toBeValidated" type="text" size="10"><input name="_D:/com/att/b2b/common/external/csi/services/isa/ServiceAvailabilityForLocationInfo.userAddress.postalCode" value=" " type="hidden">
+												</div>
+								<br/>
+								<div style="width:476px">
+								
+							
+							<input id="existCustomer" name="/com/att/b2b/common/external/csi/services/isa/ServiceAvailabilityForLocationInfo.existingCustomerIndicator" value="true" type="checkbox"><input name="_D:/com/att/b2b/common/external/csi/services/isa/ServiceAvailabilityForLocationInfo.existingCustomerIndicator" value=" " type="hidden">
+							<label>I'm already an AT&amp;T small business customer</label>
+							<img src="/smallbusiness/images/icons/icon_help_12x12.gif" class="tooltip" title="If you're an existing small business customer you can modify your current services."><br>
+						</div>
+							<input id="validateAddressBtn" style="padding-top:10px; border:none;" name="/com/att/b2b/common/external/formhandler/ServiceAvailabilityForLocationFormHandler.submit" value="Submit" type="hidden"><input name="_D:/com/att/b2b/common/external/formhandler/ServiceAvailabilityForLocationFormHandler.submit" value=" " type="hidden">		 
+								
+							</div>
+							<div class="clearBoth"></div>	
+						</div>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						<div class="buttonContainer1" id="addressButton1">
+							<div style="float: right;display:none;" id="enableGo">
+							
+							
+							
+							 <a href="#" id="optionalAddressBtn"><img src="/smallbusiness/images/buttons/btn_Go_s.gif"/></a> 
+							
+							
+							</div>
+							<div style="float: right;" id="disabledGo">
+							 	<img   src="/smallbusiness/images/buttons/btn_disabled_go_s.gif"/>
+							</div>
+						</div>
+						<div class="clearBoth"></div>
+					</div>
+					<div id="attemptFailure" class="padding10" style="display:none;">
+						<div id="9states" class="padding10" style="border: 2px solid #0099FF;border-radius:5px;margin:10px;">
+							<div style="float:left;margin-right:10px;">
+								<img src="/smallbusiness/images/icons/icon_info_24x24.png">
+							</div>
+							<div style="float:left;width:80%;">
+								<p>
+									We need a valid address to display the products and services available 
+									in your area, and we couldn't validate the address you provided. 
+									You can:
+									<br/>
+									<ul class="bullet-list">
+										<li>
+											Change your address.
+										</li>
+										<li>
+											Call a representative at AT&amp;T Small Business Sales, 
+											1-877-253-0009, Monday through Friday, 8:00 a.m. to 6:00 p.m. 
+											Eastern.
+										</li>
+									</ul>
+								</p>
+							</div>
+							<div class="clearBoth"></div>
+						</div>
+						
+						<div id="13states" class="padding10" style="border:2px solid #0099FF;border-radius:5px;margin:10px;display:none;">
+							<div style="float:left;margin-right:10px;">
+								<img src="/smallbusiness/images/icons/icon_info_24x24.png">
+							</div>
+							<div style="float:left;width:80%;">
+								<p>
+									We need a valid address to display the products and services available 
+									in your area, and we couldn't validate the address you provided. 
+									You can:
+									<br/>
+									<ul class="bullet-list">
+										<li>
+											Change your address.
+										</li>
+										<li>
+											Call a representative at  AT&amp;T Small Business Sales, 
+											1-888-944-0447, Monday through Friday 8:00 a.m. to 6:00 p.m. 
+											Eastern.
+										</li>
+									</ul>
+								</p>
+							</div>
+							<div class="clearBoth"></div>
+						</div>
+						
+						<div id="28states" class="padding10" style="border:2px solid #0099FF;border-radius:5px;margin:10px;display:none;">
+							<div style="float:left;margin-right:10px;">
+								<img src="/smallbusiness/images/icons/icon_info_24x24.png">
+							</div>
+							<div style="float:left;width:80%;">
+								<p>
+									We need a valid address to display the products and services available 
+									in your area, and we couldn't validate the address you provided. 
+									You can:
+									<br/>
+									<ul class="bullet-list">
+										<li>
+											Change your address.
+										</li>
+										<li>
+											Call a representative at AT&amp;T Small Business Sales,
+											 1-888-944-0447, Monday through Friday 8:00 a.m. to 6:00 p.m. Eastern.
+										</li>
+									</ul>
+								</p>
+							</div>
+							<div class="clearBoth"></div>
+						</div>
+						
+						<div class="padding10"><hr color="#dddddd"></div>
+						
+						<div style="float: right;">
+							<a href="#" id="multiAttemptAddressErrorBtn"><img src="/smallbusiness/images/buttons/btn_Wht_change_s.gif"/></a>
+						</div>
+						<div class="clearBoth"></div>
+					</div>
+				<input name="_DARGS" value="/smallbusiness/overlay/addressEligibility.jsp" type="hidden"></input></form>
+			</div>
+		</div>
+		
+		<div id="saveCartOverlay" style="display:none;">
+			
+
+ 
+
+	
+	
+	
+	
+	<script> 
+        jQuery(document).ready(function() { 
+        	//Added for Adobe fix
+        	$('input.eeemail15').each(function(){
+    			if(this.value == ''){
+    				this.value='Enter your email address'; 
+    			}
+    		});
+            $('input.eeemail15').click(function(){
+    			var inputvalue= this.value;
+    			if(inputvalue == 'Enter your email address'){
+    				this.value='';
+    			}
+    		});
+			
+        	$('.btnSaveCartImg',$('#saveCartOverlay')).click(function(e){
+        		e.preventDefault();
+        		$('#btnSaveCart',$('#saveCartSubmit')).trigger('click');
+        	});
+        	$('#btnSaveCartOkImg',$('#saveCartOverlay')).click(function(e){
+        		e.preventDefault();
+        		if(false){
+    				$('#flowType').val("withwireless");
+    			}
+        		if($('#flowType').val() == 'changeLocation'){
+        			$('#changeAdreesEligibility').show();
+					$('#saveCartOverlay').hide();
+					$('#warningSaveCart').hide();
+					$('#showphoneNumber').hide();
+					$('#warningSaveCartwithwireless').hide();
+        		}else if($('#flowType').val() == 'cancelCheckout'){
+        			$('#cancelCheckoutSubmit',$('#cancelCheckoutLightBox')).trigger("click");
+        		}else if($('#flowType').val() == 'macFlow'){
+        			var srcURL = $('#SeviceEligibiltyLightBox').data('srcURL');
+        			$('#urlforMac').val(srcURL);
+        			$('#btnMacredirect').trigger("click");
+        		}else if($('#flowType').val() == 'changeLocationwithWireless'){
+        			$('.close',$('#SeviceEligibiltyLightBox')).trigger("click");
+        		}
+        		else{
+        			$('.close',$('#SeviceEligibiltyLightBox')).trigger("click");
+        		}
+        	});
+        	
+        	jQuery.ajaxSetup({accepts:'application/json'}) ;
+        	
+			jQuery('#btnSaveCart',$('#saveCartSubmit')).click(function(event) {
+			 	var data = {};
+		        jQuery('input',$('#saveCartSubmit')).each(function(){
+		        	data[$(this).attr('name')] = $(this).val();
+		        });
+		        jQuery('select',$('#saveCartSubmit')).each(function(){
+		        	data[$(this).attr('name')] = $(this).val();
+		        });
+				//Pass the name/value pair of submit button as well.
+		        data[jQuery('#btnSaveCart').attr('name')] = jQuery('#btnSaveCart').attr('value');
+		        var url = '/smallbusiness/cart/saveCartResult.jsp';
+					event.preventDefault();
+					jQuery.ajax({
+						url : url,
+						type : 'POST',
+						data : data,
+						success : validationSuccess,
+						error : validationError,
+						dataType : 'json',
+						beforeSend : function(xhr) {
+							xhr.setRequestHeader('Accept','application/json');
+							$('#loading').show();
+							$('#saveCartContainer').hide();
+						}
+					});
+					
+					var wtPN = WebMetrics.getMetaTagValue('DCSext.wtPN');
+					var email = $('#emailAddCart').val();
+					if(email != undefined && email != null){
+						WebMetrics.DCSext.wtB2BSaveCartEmailAddress = $('#emailAddCart').val();
+						WebMetrics.dispatchReport( wtPN + "_SaveCartAndContinueLater");
+					}
+					return false;
+			  });
+			function validationSuccess(data){
+				$('#loading').hide();
+				$('#saveCartContainer').show();
+				var responseData = data['errors'];
+				var isCartSaved = data['alreadyCartSaved'];
+				if(responseData != undefined){
+					if(isCartSaved == true)
+					{
+						$('#infoDisplay').html("");
+					    var infoMsg = responseData[0];
+					    var infoArray= infoMsg.split(":");
+						if(infoArray.length > 1){
+							var infoMsgShow = '<div  class="infoMsgDiv" >'+infoArray[1]+'</div>';
+						}else{
+							var infoMsgShow = '<div  class="infoMsgDiv" >'+infoArray[0]+'</div>';
+						}
+						$('#infoDisplay').html(infoMsgShow);
+						$('#serverReponse').html("");
+						$('#alreadySaved').show();
+						$('#defaultSubmit').hide();
+						$('#isUpdateFlag').val('true');
+						isCartSaved = false;
+					}
+					else{
+						$('#serverReponse').html("");
+						var errorMsg =responseData[0]
+						var errorArray= errorMsg.split(":");
+						if(errorArray.length > 1){
+							var errorMsgShow = '<span class="inlineErrorMsg" style="color:red;">'+errorArray[1]+'</span>';
+						}else{
+							var errorMsgShow = '<span class="inlineErrorMsg" style="color:red;">'+errorArray[0]+'</span>';
+						}
+						$('#serverReponse').html(errorMsgShow);
+						$('#infoDisplay').html("");
+						$('#alreadySaved').hide();
+						$('#defaultSubmit').show();
+						/* $('#btnSaveCartImg').hide(); */
+						$('#isUpdateFlag').val('false');
+					}
+				}
+				else{
+					$('#loading').hide();
+					$('#saveCartContainer').show();
+					$('#infoDisplay').html("");
+					$('#initSavedCartMsg').hide();
+					$('#savedCartMsg').show();
+					
+            		_satellite.track('Save Cart');
+				}
+			}
+			
+			function validationError(jqXHR, textStatus, errorThrown) {
+			}
+        	
+        });
+    </script>
+
+
+	
+		<div id="loading" align="center" style="margin:20px 20px 20px 20px;display:none">
+			<p style="font-size: 20px;margin:120px 0px 120px 0px;">Loading.. <img src="/smallbusiness/images/common/loading.png" align="center"></p>
+		</div>
+		<div id="saveCartContainer">
+			<div id="saveCartSubmit">
+				<form name="save_cart" action="/smallbusiness/overlay/saveCart.jsp"><input name="_dyncharset" value="UTF-8" type="hidden"></input><input name="_dynSessConf" value="9031030704716270745" type="hidden"></input>
+		
+				       <div>
+						<div class="header"></div>
+					</div>
+					<div style="float:left;margin:1px 5px;" id="infoDisplay"></div>
+					<input name="/com/att/b2b/commerce/cart/formHandler/CustomCartModifierFormHandler.ajaxSuccessUrl" value="/smallbusiness/cart/saveCartResult.jsp" type="hidden"><input name="_D:/com/att/b2b/commerce/cart/formHandler/CustomCartModifierFormHandler.ajaxSuccessUrl" value=" " type="hidden">
+				
+				    <input name="/com/att/b2b/commerce/cart/formHandler/CustomCartModifierFormHandler.ajaxErrorUrl" value="/smallbusiness/cart/saveCartResult.jsp" type="hidden"><input name="_D:/com/att/b2b/commerce/cart/formHandler/CustomCartModifierFormHandler.ajaxErrorUrl" value=" " type="hidden">
+					<div style="padding: 20px;" id="initSavedCartMsg">
+					
+						<p>Enter your email address. We'll send you a message that tells how to retrieve your shopping cart.</p> 
+						<p>Your cart will be saved for 30 days.</p>
+		                <br/>
+						<div>
+							<div style="float:left;">
+								<strong>Email address :</strong>
+								<input type="text" iclass="eeemail15" name="email" id="emailAddCart"/>
+							</div>
+							<div style="float:left;margin:1px 5px;width:180px;" id="serverReponse"></div>
+							<div class="clearBoth"></div>
+						</div>
+		               <input id="yesBtn" name="/com/att/b2b/commerce/cart/bean/AddToCartInfo.saveCartVo.saveCart" value="true" type="hidden"><input name="_D:/com/att/b2b/commerce/cart/bean/AddToCartInfo.saveCartVo.saveCart" value=" " type="hidden">
+		               <div style="padding-top:5px;">
+			               <input type="hidden" name="isUpdateFlag" value="false" id="isUpdateFlag" />
+			               <input id="btnSaveCart" name="/com/att/b2b/commerce/cart/formHandler/CustomCartModifierFormHandler.submit" value="Submit" type="hidden"><input name="_D:/com/att/b2b/commerce/cart/formHandler/CustomCartModifierFormHandler.submit" value=" " type="hidden">
+			               <!-- <div class="padding5"></div> -->
+			               <div id="defaultSubmit">
+			                 <a href="#" class="btnSaveCartImg SaveCartSubmitBtnReporting"><img src="/smallbusiness/images/buttons/btn_Submit_s.gif"/></a>
+			               </div>
+			                 <div id="alreadySaved" style="display:none;padding-top:5px;">
+				                <div style="float: right;">
+						    		<a href="#" id="cancelImg" class="close"><img style="margin-right:10px;"  src="/smallbusiness/images/buttons/btn_Wht_Cancel_s.gif"></a>
+						        </div>
+						        <div>
+						        	<a href="#" id="continueSaveCartAlreadySaved" class="btnSaveCartImg "><img  style="margin-left:10px;"  src="/smallbusiness/images/buttons/btn_Continue_s.gif"/></a>
+						        </div>
+			               </div>
+		               </div>					
+					</div>
+				<input name="_DARGS" value="/smallbusiness/overlay/saveCart.jsp" type="hidden"></input></form>
+			</div>
+			<div id="savedCartMsg"  style="display:none;padding:20px;" >
+				<p>We've saved your shopping cart. Your cart will be available for 30 days. You can retrieve it using the instructions in the confirmation email that we sent you.</p>
+				<!-- <div class="padding5"></div> -->
+				<a href="#" id="btnSaveCartOkImg" class="SaveCartOkBtnReporting"><img src="/smallbusiness/images/buttons/btn_OK_s.gif"/></a>
+			</div>
+				<!-- <div class="clearBoth"></div> -->
+			<div id="macRedirectForm">	
+				<form name="macRedirect" action="/smallbusiness/pages/promo/AFLcampaign.jsp?_DARGS=/smallbusiness/overlay/saveCart.jsp.1" method="post"><input name="_dyncharset" value="UTF-8" type="hidden"></input><input name="_dynSessConf" value="9031030704716270745" type="hidden"></input>
+					<input type="hidden" name="macFlowPage" value="" id="urlforMac"/>
+					<input id="yesMacredirect" name="/com/att/b2b/commerce/cart/bean/AddToCartInfo.saveCartMacVO.saveCartMac" value="true" type="hidden"><input name="_D:/com/att/b2b/commerce/cart/bean/AddToCartInfo.saveCartMacVO.saveCartMac" value=" " type="hidden">
+					<input id="btnMacredirect" style="display:none" name="/com/att/b2b/commerce/cart/formHandler/CustomCartModifierFormHandler.submit" value="Submit" src="/smallbusiness/images/buttons/btn_BuildItNow.gif" type="image"><input name="_D:/com/att/b2b/commerce/cart/formHandler/CustomCartModifierFormHandler.submit" value=" " type="hidden">
+				<input name="_DARGS" value="/smallbusiness/overlay/saveCart.jsp.1" type="hidden"></input></form>
+			</div>
+		</div>
+	
+
+		</div>
+		<div id="warningSaveCart" style="display:none;">
+			
+
+ 
+
+<script> 
+	
+        jQuery(document).ready(function() {
+        	
+        	$('.continueWarning').click(function(){
+        			$('#changeAdreesEligibility').show();
+            		$('#changeZipEligibility').show();
+            		$('#saveCartOverlay').hide();
+    				$('#warningSaveCart').hide();
+    				$('#saveCartOverlayZip').hide();
+    				$('#warningSaveCartZip').hide();
+    				$('#showphoneNumber').hide();	
+				
+        	});
+        	
+        	$('.saveCartWarning').click(function(){
+        		$('#changeAdreesEligibility').hide();
+        		$('#changeZipEligibility').hide();
+				$('#saveCartOverlay').show();
+				$('#warningSaveCart').hide();
+				$('#saveCartOverlayZip').show();
+				$('#warningSaveCartZip').hide();
+        	});
+        	$('.wirelessPresentInSession').click(function(e){
+				$('#validateAddressBtn').trigger('click');
+				$('#saveCartOverlay').hide();
+				$('#warningSaveCart').hide();
+				$('#saveCartOverlayZip').hide();
+				$('#warningSaveCartZip').hide();
+				$('#showphoneNumber').hide();
+			});
+        	
+        });
+</script>        
+
+	
+	
+	<div>
+		<div id="warningEmptyCartMsg">
+			<div>
+				<div class="header">Caution</div>
+			</div>
+			<div style="padding:15px;">
+			<div style="width:95%;float:left;padding:10px;">
+				<div style="float:left;margin-right:10px;">
+					<img src="/smallbusiness/images/icons/icon_alert_28x23.png">
+				</div>
+				Changing your location will empty your shopping cart.
+			</div>
+		
+			<div style="width:95%;float:left;padding:10px;">
+				<div style="float:left;margin-right:10px;width:75%;">
+					You may want to save your shopping cart before you make this change. To save your shopping cart, click <strong>Save Cart </strong> .
+				</div>
+				<div style="float:right;width:18%;padding-right: 15px;">
+					<a href="#" class="saveCartWarning"><img alt="save cart" src="/smallbusiness/images/buttons/btn_SaveCart_s.gif"> </a>
+				</div>
+			</div>
+		
+			<div style="width:95%;float:left;padding:10px;">
+				<div>
+					To proceed with this change, click <strong>Continue</strong>. To return to your shopping cart, click <strong>Cancel</strong>.
+				</div>
+				<div>
+					<span style="float:right;margin-left:10px;padding-right:2px;">
+						<a href="#" class="continueWarning"><img  alt="continue" src="/smallbusiness/images/buttons/btn_Continue_s.gif"> </a>
+					</span>
+					<span style="float:right;margin-right:10px;">
+						<a href="#" class="close"><img alt="continue" src="/smallbusiness/images/buttons/btn_Wht_Cancel_s.gif"> </a>
+					</span>
+				</div>
+			</div>
+			</div>
+			<div class="clearBoth"></div>
+		</div>
+		<div id="macMsg" style="display:none;">
+			<div>
+				<div class="header">Caution!</div>
+			</div>
+			<div style="padding: 10px;">
+				<p>Continuing to the Existing Customers page will empty your cart.</p><br />
+				<p>You may want to save your shopping cart before you make this change. To save your shopping cart, click Save Cart.</p>
+				<br/><br/>
+				
+				<div style="float: right;">
+					<form action="/smallbusiness/pages/promo/AFLcampaign.jsp?_DARGS=/smallbusiness/overlay/warningEmptyCart.jsp" method="post"><input name="_dyncharset" value="UTF-8" type="hidden"></input><input name="_dynSessConf" value="9031030704716270745" type="hidden"></input>
+						<a href="#" class="saveCartWarning"><img src="/smallbusiness/images/buttons/btn_SaveCart_s.gif" alt="" style="float: left; padding-top: 0px; padding-right: 10px;"></a>
+						<input id="macOrderType" name="/com/att/b2b/commerce/cart/bean/AddToCartInfo.emptyCartForMACNavigationVO.macOrderType" value="" type="hidden"><input name="_D:/com/att/b2b/commerce/cart/bean/AddToCartInfo.emptyCartForMACNavigationVO.macOrderType" value=" " type="hidden">
+						<input name="/com/att/b2b/commerce/cart/bean/AddToCartInfo.emptyCartForMACNavigationVO.emptyCart" value="true" type="hidden"><input name="_D:/com/att/b2b/commerce/cart/bean/AddToCartInfo.emptyCartForMACNavigationVO.emptyCart" value=" " type="hidden">
+						<a href="#"><input name="/com/att/b2b/commerce/cart/formHandler/CustomCartModifierFormHandler.submit" src="/smallbusiness/images/buttons/btn_Continue_s.gif" type="image"><input name="_D:/com/att/b2b/commerce/cart/formHandler/CustomCartModifierFormHandler.submit" value=" " type="hidden"> </a>
+					<input name="_DARGS" value="/smallbusiness/overlay/warningEmptyCart.jsp" type="hidden"></input></form>
+				</div>
+				<div class="clearBoth"></div>
+			</div>
+		</div>	
+	</div>	
+
+		</div>
+		<div id="warningSaveCartwithwireless" style="display:none;">
+			
+
+ 
+
+<script> 
+	
+        jQuery(document).ready(function() {
+        	
+        	$('.continueWarning').click(function(){
+        			$('#changeAdreesEligibility').show();
+            		$('#changeZipEligibility').show();
+            		$('#saveCartOverlay').hide();
+    				$('#warningSaveCart').hide();
+    				$('#saveCartOverlayZip').hide();
+    				$('#warningSaveCartZip').hide();
+    				$('#showphoneNumber').hide();	
+				
+        	});
+        	
+        	$('.saveCartWarning').click(function(){
+        		$('#changeAdreesEligibility').hide();
+        		$('#changeZipEligibility').hide();
+				$('#saveCartOverlay').show();
+				$('#warningSaveCart').hide();
+				$('#saveCartOverlayZip').show();
+				$('#warningSaveCartZip').hide();
+				$('#warningSaveCartwithwireless').hide();
+        	});
+        	$('.wirelessPresentInSession').click(function(e){
+				$('#validateAddressBtn').trigger('click');
+				$('#saveCartOverlay').hide();
+				$('#warningSaveCart').hide();
+				$('#saveCartOverlayZip').hide();
+				$('#warningSaveCartZip').hide();
+				$('#showphoneNumber').hide();
+			});
+        	
+        });
+</script>        
+
+	
+	
+	<div>
+		<div id="warningSaveCartforwireless">
+			<div>
+				<div class="header">Change Your Location</div>
+			</div>
+			<div style="padding:20px;">
+			<div style="width:92%;float:left;margin-left:5px;padding:10px;background-color: #FFFCCC;border-radius:10px; border:2px solid #FF7200;">
+				<div style="float:left;margin-right:10px;">
+					<img src="/smallbusiness/images/icons/icon_alert_28x23.png">
+				</div>
+				Because your new location includes a different ZIP Code, your cart will be emptied.
+			</div>
+		
+			<div style="width:95%;float:left;padding:10px;">
+				<div style="float:left;margin-right:10px;width:75%;padding-top:10px;">
+					If you want to save your shopping cart before you make this change, click <strong>Save Cart </strong> .
+				</div>
+				<div style="float:right;width:18%;padding-right: 15px;padding-top:10px;">
+					<a href="#" class="saveCartWarning"><img alt="save cart" src="/smallbusiness/images/buttons/btn_SaveCart_s.gif"> </a>
+				</div>
+			</div>
+		
+			<div style="width:95%;float:left;padding:10px;">
+				<div style="padding-bottom:20px;">
+					To change your location, click  <strong>Continue</strong>. To close this window without changing your location, click <strong>Cancel</strong>.
+				</div>
+				<div class="h_line">&nbsp;</div>
+				<div style="padding:18px 0px;">
+					<span style="float:right;margin-left:10px;padding-right:2px;">
+						<a href="#" id="wirelesspresent" class="continueWarning"><img  alt="continue" src="/smallbusiness/images/buttons/btn_Blue_Continue_s.gif"></a>
+					</span>
+					<span style="float:left;margin-left:10px;">
+						<a href="#" class="close"><img alt="cancel" src="/smallbusiness/images/buttons/btn_Wht_Cancel_s3.gif"></a>
+					</span>
+				</div>
+			</div>
+			</div>
+			<div class="clearBoth"></div>
+		</div>
+		<div id="macMsg" style="display:none;">
+			<div>
+				<div class="header">Caution!</div>
+			</div>
+			<div style="padding: 10px;">
+				<p>Continuing to the Existing Customers page will empty your cart.</p><br />
+				<p>You may want to save your shopping cart before you make this change. To save your shopping cart, click Save Cart.</p>
+				<br/><br/>
+				
+				<div style="float: right;">
+					<form action="/smallbusiness/pages/promo/AFLcampaign.jsp?_DARGS=/smallbusiness/overlay/warningEmptyCartwithwireless.jsp" method="post"><input name="_dyncharset" value="UTF-8" type="hidden"></input><input name="_dynSessConf" value="9031030704716270745" type="hidden"></input>
+						<a href="#" class="saveCartWarning"><img src="/smallbusiness/images/buttons/btn_SaveCart_s.gif" alt="" style="float: left; padding-top: 0px; padding-right: 10px;"></a>
+						<input id="macOrderType" name="/com/att/b2b/commerce/cart/bean/AddToCartInfo.emptyCartForMACNavigationVO.macOrderType" value="" type="hidden"><input name="_D:/com/att/b2b/commerce/cart/bean/AddToCartInfo.emptyCartForMACNavigationVO.macOrderType" value=" " type="hidden">
+						<input name="/com/att/b2b/commerce/cart/bean/AddToCartInfo.emptyCartForMACNavigationVO.emptyCart" value="true" type="hidden"><input name="_D:/com/att/b2b/commerce/cart/bean/AddToCartInfo.emptyCartForMACNavigationVO.emptyCart" value=" " type="hidden">
+						<a href="#"><input name="/com/att/b2b/commerce/cart/formHandler/CustomCartModifierFormHandler.submit" src="/smallbusiness/images/buttons/btn_Continue_s.gif" type="image"><input name="_D:/com/att/b2b/commerce/cart/formHandler/CustomCartModifierFormHandler.submit" value=" " type="hidden"> </a>
+					<input name="_DARGS" value="/smallbusiness/overlay/warningEmptyCartwithwireless.jsp" type="hidden"></input></form>
+				</div>
+				<div class="clearBoth"></div>
+			</div>
+		</div>	
+	</div>	
+
+		</div>
+		
+	</div>
+
+		
+
+
+
+	<div id="productProcessingBackDrop" class="backdrop"></div>
+	<div id="productProcessingLightBox" class="overlaybox" style="width: 600px;" >
+		<div id="loading-block">
+		<div class="close">
+			<img border="0" src="/smallbusiness/images/buttons/btn_overlay_close.png" width="28" height="28" style="float: right;" />
+		</div>
+			<div class="header" style="text-align:center;">
+				We're searching for products and services available in your area.
+			</div>
+			<div style="width:600px;text-align:center;height:180px;paddng:50px 0px;">
+				<img src="/smallbusiness/images/common/Pre_Loader_Long_Implemented.gif" />
+			</div>
+			<div style="padding:0px 20px"> 
+				<div style="padding:30px 0px;border-top:1px solid #E5E5E5;">    
+					AT&T makes business run better! Whether you need smartphones for your employees, high-speed Internet for your office, or help building a website for your customers, you can get it and much more from AT&T.<br/><br/>
+					<!-- "We designed our product to be easy to use and integrate into the provider's existing workflow. Physicians expect our services to work every time, flawlessly. AT&amp;T and the IP services help us keep our customers very happy."<br/>
+					Web ChartMD | Health<br/><br/>
+	
+					"An advantage of using Voice DNA is that it is always evolving-adding new capabilities to help our company further evolve and stay competitive. Our customers expect us to produce a quality product and be there when they need us. Voice DNA helps us be the kind of company they want to do business with."<br/>
+					 Beauty Elite Group | Manufacturing<br/><br/>
+	
+					"In our business, there was always a lot of paperwork regardless of the season. With Xora, we will save significant time in the spring and summer when it comes to scheduling and meeting our customers' weekly demands. And it will come in very handy during rainy weeks, when our schedules could go awry. Xora GPS TimeTrack from AT&amp;T helps us perform better in an industry that is highly competitive. We save time and more confidently serve our customers. Everything about it is good."<br/> 
+					Lawn Ranger | Landscaping -->
+				</div>
+			</div>
+		</div>
+		
+	</div>
+	
+	<input type="button"  id="processProducts" class="productProcessingOverlay" style="display: none;"/>
+	<iframe id="processingPage" src="" style="display:none;"></iframe>
+	
+	<script>
+	 jQuery(document).ready(function() { 
+		$('.productProcessingOverlay').myplugin({
+	        'backDropId' : 'productProcessingBackDrop',
+	        'lightBoxId' : 'productProcessingLightBox'
+	    },{});
+	 });
+	</script>
+
+		
+
+
+
+	
+	
+		
+		  	
+		
+		
+	
+	 <script type="text/javascript">
+			 $(document).ready(function() {
+				 $('.sessionSaveCart').click( function(e){
+						if(window.WebMetrics)
+								{
+									var wtPN = WebMetrics.getMetaTagValue('DCSext.wtPN');
+									WebMetrics.dispatchReport( wtPN + "_OverlayWarningCartTimeOut_SaveCart");
+									
+								}
+								
+					});
+					$('.sessionSaveContinue').click( function(e){
+						if(window.WebMetrics)
+								{
+									var wtPN = WebMetrics.getMetaTagValue('DCSext.wtPN');
+									WebMetrics.dispatchReport( wtPN + "_OverlayWarningCartTimeOut_ContinueAndSaveLater");
+									
+								}
+								
+					});
+	 });		
+   </script>
+ 
+		
+
+
+
+	<div id="optInEmailDropBox" class="backdrop"></div>
+	<div id="optInEmailLightBox" class="overlaybox" style="width: 400px;">
+		<div class="close">
+			<img border="0" src="/smallbusiness/images/buttons/btn_overlay_close.png" width="28" height="28" style="float: right;" />
+		</div>
+		<div>
+			<div class="header">Confirmation</div>
+		</div>
+		<div style="padding: 20px;">
+			<p>Got it! Watch for updates from AT&T.
+				
+			</p>
+		</div>
+		<div class="clearBoth"></div>
+		
+	</div>
+
+		
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	 
+	<script>
+		function createCookie(data){
+			/*Code for July release - Save location data in Cookies start*/
+			var cookieName = "address_overlay_cookie";
+			var postalCodeZip;
+			var region;
+			var stateCode;
+			var stateFullName;
+			
+			postalCodeZip = data['postalCode'];
+			stateCode = data['state'];
+			stateFullName = data['stateFullName'];
+			
+			region = data['geoLocation'];
+			
+			if(region == "13states" || region == "9states" || region  == "" || region  == null){
+				region = "22states";
+			}
+			else{
+				region = "28states";
+			}
+			
+			var cookieString = "";
+			
+			if(stateCode != null && stateCode != "")
+			{
+				cookieString += "cookie_state%"+stateCode+"|";
+			}
+			
+			if(postalCodeZip != null && postalCodeZip != ""){
+				cookieString += "cookie_postalcode%"+postalCodeZip+"|";
+			}
+			
+			if(cookieString == ""){
+				cookieString = "cookie_city%Dallas|cookie_state%TX|cookie_postalcode%75202|";
+			}
+			
+			if(region != null && region != ""){
+				cookieString += "cookie_geolocation%"+region;
+			}
+			
+			address_overlay_cookie.checkAddress(cookieName, cookieString);
+            /*Code for July release - Save location data in Cookies end*/	
+		}
+		
+		jQuery(document).ready(function() { 
+			var filterMethod = "No Estimated Zip";
+			var estimatedZipCode = "";
+			
+				
+				
+				
+			
+				
+				
+					
+				
+					
+						
+						
+					
+						
+						
+							
+							
+								
+								
+							
+							
+								
+								
+									filterMethod	   = "Estimated by Zip";
+									estimatedZipCode = '60290';
+									// DISABLED FOLLOWING LINE FOR PROD:
+									   //dcsMultiTrack('DCSext.wtB2BEstimatedZipCode',estimatedZipCode,
+											         //'DCSext.wtB2BBIDProductFilterMethod', filterMethod,
+											         //'DCSext.wtNoHit',"1");
+									//WebMetrics.DCSext.wtB2BBIDProductFilterMethod = filterMethod;
+									//WebMetrics.DCSext.wtB2BEstimatedZipCode = estimatedZipCode;
+									
+								
+							
+						
+					
+			
+			
+			
+			$('#overlayClose').click(function(e){
+				
+				if(window.WebMetrics){
+					WebMetrics.Overlay.DCSext.wtSuccessFlag	= "-1";
+					WebMetrics.overlayEventDispatch("SMBID_AddressValidation_Address_Enter");
+				}				
+			});
+			$('#zipcodeOverlayBackDrop').click(function(e){
+				
+				if(window.WebMetrics){
+					WebMetrics.Overlay.DCSext.wtSuccessFlag	= "-1";
+					WebMetrics.overlayEventDispatch("SMBID_AddressValidation_Address_Enter");
+				}
+			});
+			
+			
+			
+			
+			$('input',$('#serviceZip')).bind('keypress',function (event){
+				if (event.keyCode === 13){
+					if( $('#optionalzipBtn').is(':visible')) {
+					$('#optionalzipBtn').trigger('click');
+					}
+				}
+			});
+			
+			$('input',$('#showphoneNumberZip')).bind('keypress',function (event){
+				if (event.keyCode === 13){
+					if( $('#btnChangeAddressZip').is(':visible')) {
+					$('#btnChangeAddressZip').trigger('click');
+					}
+				}
+			});
+			
+			$('input.optional').each(function(){
+				if(this.value == ''){
+					this.value='Optional'; 
+				}
+			});
+			
+			$('input.optional').click(function(){
+				var inputvalue= this.value;
+				if(inputvalue == 'Optional'){
+					this.value='';
+				}
+			});
+			
+			$('#loadingZipPocessing').hide();
+			
+			$('#optionalzipBtn').click(function(e){
+				//alert("11");
+				e.preventDefault();
+				$('#validateZipBtn').trigger('click');
+			});
+			 $('#btnChangeAddressZip').click(function(e){
+				
+				e.preventDefault();
+				$('#validateZipBtn').trigger('click');
+			}); 
+			
+			// gear implementation 
+			 function checkNumber() {
+				 if($('#telephoneNumber_text_zip').val().indexOf('_') >-1 || $('#telephoneNumber_text_zip').val() == "" || $('#telephoneNumber_text_zip').val().length < 12) {
+					 $('.goButton_enable').hide();
+						$('.goButton_disable').show();
+					}
+					else{
+						$('#telephoneNumber_text_zip').val().replace( /(\d{3})(\d{3})(\d{4})/, '$1-$2-$3' );
+						$('.goButton_enable').show();
+						$('.goButton_disable').hide();
+				}
+			}
+			
+			$('#telephoneNumber_text_zip').bind('keydown keyup change focus',checkNumber);
+			$('#telephoneNumber_text_zip').mask("?999-999-9999");
+			
+			
+			/* $('#addressReturnBtn').click(function(e){
+				e.preventDefault();
+				var selectedAddressOption = $('input:checked',$('#addressOptionsContainer'));
+				
+				$('#postalCode').val($(selectedAddressOption).data('postalCode'));
+				var selectedRadioid = $('input:checked',$('#addressOptionsContainer'))[0].id;
+				selectedRadioid = selectedRadioid.replace('optionalAddressRadio','');
+				$('#validateZipBtn').trigger('click');
+			}); */
+			/* 
+			$("#multiAddressErrorBtn").click(function(e){
+				e.preventDefault();
+				$('#addressErrorBtn').click();
+			}); */
+			
+			/* $("#multiAttemptAddressErrorBtn").click(function(e){
+				e.preventDefault();
+				$('#addressErrorBtn').click();
+			}); */
+			
+		/* 	$('#addressErrorBtn').click(function(e){
+				e.preventDefault();
+				$('input.optional').each(function(){
+					if(this.value == ''){
+						this.value='Optional'; 
+					}
+				});
+				$('#errorContainerZipCode').hide();
+				//$('#addressOptions').hide();
+			//	$('#attemptFailure').hide();
+				$('#serviceZip').show();
+				}); */
+			
+			jQuery.ajaxSetup({accepts:'application/json'}) ;
+			jQuery('#validateZipBtn',$('#changeZipEligibility')).click(function(event) {
+					
+				if(!($('#existCustomerZip').is(':checked'))){
+					$('#existCustomerZipChkbx').val('false');
+					WebMetrics.Overlay.DCSext.wtB2BExistingCustomerInd = "false";
+				}
+				else{
+					$('#existCustomerZipChkbx').val('true');
+					WebMetrics.Overlay.DCSext.wtB2BExistingCustomerInd = "true";
+				}
+				$('input.optional').each(function(){
+					if(this.value == 'Optional'){
+						this.value=''; 
+					}
+				});
+				var data = {};
+				jQuery('input',$('#changeZipEligibility')).each(function(){
+					data[$(this).attr('name')] = $(this).val();
+				});
+				
+				
+				//Pass the name/value pair of submit button as well.
+				data[jQuery('#validateZipBtn').attr('name')] = jQuery('#validateZipBtn').attr('value');
+				var url = '/smallbusiness/common/zipCodeAvailabilitySucess.jsp';
+					event.preventDefault();
+					jQuery.ajax({
+						url : url,
+						type : 'POST',
+						data : data,
+						success : validationSuccess,
+						error : validationError,
+						dataType : 'json',
+						beforeSend : function(xhr) {
+							$('#zipValidationContent').hide();
+							$('#loadingZipPocessing').show();
+							/* In formhandler check value of this header to figure out if its 
+							a normal submiission or its a AJAX request and take nacessary action.*/
+							xhr.setRequestHeader('Accept','application/json');
+						}
+					});
+					return false;
+				});
+			
+			
+		
+		function validationSuccess(data){
+			$('#evaluateForBTNNumberZipOVerlay').val("");
+			if(data['errors'] != undefined || data['systemError'] != undefined)
+			{
+				var failureCount = data['failureCount'];
+				//$('#addressReturnBtn').removeClass();
+				//$('#multiAddressErrorBtn').removeClass()
+				var geoLocation = data['geoLocation'];
+				if(failureCount > 3){
+					$('#loadingZipPocessing').hide();
+					$('#serviceZip').hide();
+					//$('#addressOptions').hide();
+					$('#errorContainerZipCode').hide();
+					$('#showphoneNumberZip').hide();
+					$('#zipValidationContent').show();
+					//$('#multiAttemptAddressErrorBtn').removeClass();
+					//$('#multiAttemptAddressErrorBtn').addClass(geoLocation);
+					//$('#attemptFailure').show().find("div[id$=states]").hide().parent().find('div#'+geoLocation).show();
+					if(geoLocation == "13states"){
+						WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+						WebMetrics.Overlay.DCSext.wtSuccessFlag="0";
+		        		WebMetrics.overlayEventDispatch("SMBID_AddressValidation_FailedAddressCheck_Accept");
+					}else if(geoLocation == "28states"){
+						WebMetrics.Overlay.DCSext.wtSuccessFlag="0";
+						WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+		        		WebMetrics.overlayEventDispatch("SMBID_AddressValidation_FailedAddressCheck_Accept");
+					}else if(geoLocation == "9states"){
+						WebMetrics.Overlay.DCSext.wtSuccessFlag="0";
+						WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+		        		WebMetrics.overlayEventDispatch("SMBID_AddressValidation_FailedAddressCheck_Accept");
+					}
+					return;
+				}else{
+					//$('#addressErrorContainer').html("");
+					
+					/* for( i=0;i<data['errors'].length;i++ ){
+						var errorMsg= data['errors'][i].split(':');
+						if(errorMsg[1])
+							$('#addressErrorContainer').append('<div>'+errorMsg[1]+'</div>');
+					} */
+					$('#zipValidationContent').show();
+					$('#loadingZipPocessing').hide();
+					$('#errorContainerZipCode').show();
+					$('#showphoneNumberZip').hide();
+					WebMetrics.Overlay.DCSext.wtSuccessFlag="0";
+					WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+	        		WebMetrics.overlayEventDispatch("SMBID_AddressValidation_NotFound_Accept");
+							
+				}
+			}else if(data['showphoneNumberZip']=== 'true'){
+				$('#loadingZipPocessing').hide();
+				//$('#attemptFailure').hide();
+				$('#serviceZip').hide();
+			//	$('#addressOptions').hide();
+				$('#errorContainerZipCode').hide();
+				$('#zipValidationContent').show();
+				$('#showphoneNumberZip').show();
+				
+				WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+        		WebMetrics.overlayEventDispatch("SMBID_AddressValidation_TelephoneNumber_Enter");
+				createCookie(data);
+				$('#telephoneNumber_text_zip').focus();
+			}else if(!$.isArray(data)){
+				var isFamilyPage = $('#FAMILY_PAGE').val();
+				var isChildURL = false;
+				var targetURL = $('#zipcodeOverlayLightBox').data('srcURL');
+				if(targetURL == undefined)
+					targetURL=window.location.href.replace("changeLocation=true","");
+				
+				var geoLocation = data['geoLocation'];
+				
+				if(geoLocation == "13states"){
+					WebMetrics.Overlay.DCSext.wtB2BStateGroupName = "13 State";
+				}else if(geoLocation == "28states"){
+					WebMetrics.Overlay.DCSext.wtB2BStateGroupName = "28 State";
+				}else if(geoLocation == "9states"){
+					WebMetrics.Overlay.DCSext.wtB2BStateGroupName = "9 State";
+				}
+				
+				var estZip = " ";
+				var confZip = " ";
+				var postalCode = $('input.toBeValidated:last').val();
+				var pageName = WebMetrics.getMetaTagValue('DCSext.wtPN');
+				
+				'filter '+'true';
+				'cookie '+'true';
+				/* 
+				
+					
+					
+				
+					
+					
+						
+						
+							
+						
+						
+							
+								filterMethod	   = "Confirmed by Zip";
+								
+								
+									
+									
+								
+									
+									
+										
+										
+											
+										
+										
+											 */
+												/* filterMethod = "Estimated by Zip";
+												estZip = postalCode; */
+											/* 
+										
+									
+								
+								confZip = postalCode;
+							
+						
+					
+				
+				 */			
+				
+				/* if(confZip.length < 5)
+					estZip = postalCode;
+				
+				
+				 */
+				WebMetrics.Overlay.DCSext.wtB2BAddressConfirmationMethod = "Zip Only";
+				WebMetrics.Overlay.DCSext.wtB2BBIDProductFilterMethod    = "Confirmed by ZIP";
+				WebMetrics.Overlay.DCSext.wtB2BConfirmedZipCode		  = postalCode;
+				WebMetrics.Overlay.DCSext.wtSuccessFlag				  = "1";
+				WebMetrics.Overlay.DCSext.wtLinkName					= pageName + " _ChangeLocation";
+				WebMetrics.Overlay.DCSext.wtLinkLoc						= pageName + "_ChangeLocation_Body";
+				
+				WebMetrics.Overlay.DCS.dcsuri = "/smallbusiness/overlay/addressEligibility.jsp";
+				WebMetrics.overlayEventDispatch("SMBID_AddressValidation_Address_Enter");
+							
+				//alert("overlay type"+$('#currentOverlay').val());
+				if($('#currentOverlay').val() == 'verifyLocationOverlay'){
+					$('.zipCodeOverlayChangeLoc').data('myplugin').closeOverlay();
+				}
+				else if($('#currentOverlay').val() == 'wirelessZipOverlay'){
+					$('.zipCodeOverlay').data('myplugin').closeOverlay();
+				}
+				createCookie(data);
+				$('#processProducts').click();
+				
+				var src = "/smallbusiness/common/processing.jsp?wireless=true&successURL="+targetURL;
+				$('#processingPage').attr("src",src);
+	
+			}else if ($.isArray(data)){
+				
+				$('#serviceZip').hide();
+				$('#errorContainerZipCode').hide();
+				//$('#attemptFailure').hide();
+				$('#showphoneNumberZip').hide();
+				
+		}
+		}
+		 function validationError(jqXHR, textStatus, errorThrown) {
+			
+		} });
+	</script>
+
+
+	<div id="zipcodeOverlayBackDrop" class="backdrop"></div>
+	<div id="SeviceEligibiltyStrictBackDrop" class="backdrop"></div>
+	<div id="zipcodeOverlayLightBox" class="overlaybox" style="width:506px;">
+		<div class="close" id="overlayClose">
+			<img border="0" src="/smallbusiness/images/buttons/btn_overlay_close.png" width="28" height="28" style="float: right;" id="count_decrease" class="closeZipOverlay"/>
+		</div>
+		<div id="changeZipEligibility">
+			
+				
+				
+				
+			
+				
+				
+					<input id="isCartEmptyZip" type="hidden" name="cartEmpty" value="true" />
+				
+				
+			
+			<input id="flowType" type="hidden" name="flowtype" value=""/>	
+			<div id="loadingZipPocessing" align="center" style="display:none">
+				<div><div class="header" style="padding:20px 20px 20px 12px">&nbsp;</div></div>
+				<img src="/smallbusiness/images/common/Pre_Loader_SA_Long_Implemented.gif"  />
+			</div>
+			<div id="zipValidationContent">
+				<form name="AddressValidationForm" action="/smallbusiness/overlay/zip-code-overlay.jsp"><input name="_dyncharset" value="UTF-8" type="hidden"></input><input name="_dynSessConf" value="9031030704716270745" type="hidden"></input>
+				
+					<input name="/com/att/b2b/common/external/formhandler/ServiceAvailabilityForLocationFormHandler.ajaxSuccessUrl" value="/smallbusiness/common/zipCodeAvailabilitySucess.jsp" type="hidden"><input name="_D:/com/att/b2b/common/external/formhandler/ServiceAvailabilityForLocationFormHandler.ajaxSuccessUrl" value=" " type="hidden">
+					<input name="/com/att/b2b/common/external/formhandler/ServiceAvailabilityForLocationFormHandler.ajaxErrorUrl" value="/smallbusiness/common/serviceAvailabilityError.jsp" type="hidden"><input name="_D:/com/att/b2b/common/external/formhandler/ServiceAvailabilityForLocationFormHandler.ajaxErrorUrl" value=" " type="hidden">
+					
+					<input type="hidden" id="evaluateForBTNNumberZipOVerlay" name="evaluateForBTNNumber" value="true"/>
+					
+					<input type="hidden" value="" name="rangedAddressOption" id="rangedAddressOption" />
+					<div><div class="header headertext" style="padding:20px 20px 20px 12px">Check Availability</div></div>
+					
+					<div id="showphoneNumberZip" class="content" style="display:none;padding:20px;">
+						<div style="padding:10px 0px 10px 0px;">
+							<p>
+								Tell us where you want service, and we'll show you what's available in your area.
+							</p>
+						</div>
+						<div style="border-top: 1px solid #cccccc;border-bottom: 1px solid #cccccc;padding: 10px 0px 10px 0px;">	
+							<p style="padding-bottom:10px;">
+							We validated your address and now need a business phone number to complete the service availability check. 
+							If you already have a business phone number at your location, enter it below. 
+							If you need a business phone number at your location, we can help you get one. 
+							For now, please enter the phone number of your nearest neighboring business.
+
+							</p>
+						
+							
+							
+								
+								
+							
+								
+								
+									
+								
+							
+							<span style="padding-right: 80px;"><strong>Business Phone Number:</strong></span>
+							<input id="telephoneNumber_text_zip" name="/com/att/b2b/common/external/csi/services/isa/ServiceAvailabilityForLocationInfo.telephoneNumber" value="" type="text" size="25"><input name="_D:/com/att/b2b/common/external/csi/services/isa/ServiceAvailabilityForLocationInfo.telephoneNumber" value=" " type="hidden">
+						</div>
+						<div style="padding:10px 0px 10px 0px;">
+						<div class="buttonContainer">
+							<div style="float: right;" id="btnEnableGo" class="goButton_enable">
+								<a href="#"  id="btnChangeAddressZip" ><img  src="/smallbusiness/images/buttons/btn_Go_s.gif"/></a> 
+							</div>
+							<div style="float: right;display:none" id="btnDisabledGo" class="goButton_disable">
+								<img   src="/smallbusiness/images/buttons/btn_disabled_go_s.gif"/>
+							</div>
+						</div>
+						</div>
+						<div class="clearBoth"></div>
+					</div>
+					<div class="padding15" id="serviceZip">
+						<div>
+							<p class="onScreenDirection">
+								Confirm your ZIP Code and we'll show you what's available in your area.
+							</p>
+						</div>
+						
+						<div>
+							
+							<div style="padding-top: 10px;">
+								
+							   
+								<div style="float: left;width:80px;padding-left:0px;padding-right:130px;width:476px;">
+									<div class="locPadding6" style="float:left;padding:0px;">ZIP Code</div><br>
+									<div style="float:left;width:300px;margin-top: 5px;"><input id="postalCode" maxlength="5" style="margin-left:-3px;" name="/com/att/b2b/common/external/csi/services/isa/ServiceAvailabilityForLocationInfo.userAddress.wirelessZIP" value="60290" class="toBeValidated" type="text" size="10"><input name="_D:/com/att/b2b/common/external/csi/services/isa/ServiceAvailabilityForLocationInfo.userAddress.wirelessZIP" value=" " type="hidden"></div>
+									  								
+									 <input id="hasWirelessZip" style="display:none" name="/com/att/b2b/common/external/csi/services/isa/ServiceAvailabilityForLocationInfo.wirelessZipAvailable" value="true" type="checkbox" checked><input name="_D:/com/att/b2b/common/external/csi/services/isa/ServiceAvailabilityForLocationInfo.wirelessZipAvailable" value=" " type="hidden">
+									<br/>
+									<br/>
+									<div style="border-bottom:2px solid #E5E5E5;width:100%;">&nbsp;</div><br/>
+									<div id="errorContainerZipCode" style="dispay:none;padding-top: 20px;width:505px;"><span class="inlineErrorMsg" style="color:red;padding-bottom:0px;">Enter a valid ZIP Code.</span><br /></div>
+								</div><br/>
+								<br/>
+								<br/>
+								
+								
+								
+								
+								
+								<div style="width:476px;margin-top:5px;" class="existingCustDiv">
+									<div>	
+										<input id="existCustomerZip" style="margin-left:0px;" name="/com/att/b2b/common/external/csi/services/isa/ServiceAvailabilityForLocationInfo.existingCustomerIndicator" value="true" type="checkbox"><input name="_D:/com/att/b2b/common/external/csi/services/isa/ServiceAvailabilityForLocationInfo.existingCustomerIndicator" value=" " type="hidden">
+										<label>I'm already an AT&amp;T small business customer</label>
+										<img src="/smallbusiness/images/icons/icon_help_12x12.gif" class="tooltip" title="If you're an existing small business customer you can modify your current services."><br>
+									</div>
+								</div>
+								
+								<input id="existCustomerZipChkbx" name="/com/att/b2b/common/external/csi/services/isa/ServiceAvailabilityForLocationInfo.existingCustomerIndicator" value="false" type="hidden"><input name="_D:/com/att/b2b/common/external/csi/services/isa/ServiceAvailabilityForLocationInfo.existingCustomerIndicator" value="." type="hidden">
+							<input type="hidden" id="currentOverlay" value=""/>
+							<input id="validateZipBtn" style="padding-top:10px; border:none;" name="/com/att/b2b/common/external/formhandler/ServiceAvailabilityForLocationFormHandler.submit" value="Submit" type="hidden"><input name="_D:/com/att/b2b/common/external/formhandler/ServiceAvailabilityForLocationFormHandler.submit" value=" " type="hidden">		 
+								
+							</div>
+							<div class="clearBoth"></div>	
+						</div>
+						
+						
+						 
+						<div class="buttonContainer1">
+							<div style="float: right;display:none" id="enableGoZip" >
+							 	<a href="#"  id="optionalzipBtn"><img  src="/smallbusiness/images/buttons/btn_Go_s.gif"/></a> 
+							</div>
+							<div style="float:right;" id="disabledGoZip">
+							 	<img   src="/smallbusiness/images/buttons/btn_disabled_go_s.gif"/>
+							</div>
+						</div>
+						<div class="clearBoth"></div>
+					</div>
+					
+				<input name="_DARGS" value="/smallbusiness/overlay/zip-code-overlay.jsp" type="hidden"></input></form>
+			</div>
+		</div>
+		
+		<div id="saveCartOverlayZip" style="display:none;">
+			
+
+
+
+	
+	
+	<script> 
+        jQuery(document).ready(function() { 
+        	$('input.eeemail16').each(function(){
+    			if(this.value == ''){
+    				this.value='Enter your email address'; 
+    			}
+    		});
+            $('input.eeemail16').click(function(){
+    			var inputvalue= this.value;
+    			if(inputvalue == 'Enter your email address'){
+    				this.value='';
+    			}
+    		});
+
+        	
+        	$('.btnSaveCartImgZip',$('#saveCartOverlayZip')).click(function(e){
+        		e.preventDefault();
+        		$('.btnSaveCartZip',$('.saveCartSubmitZip')).trigger('click');
+        	});
+        	$('.btnSaveCartOkImgZip',$('#saveCartOverlayZip')).click(function(e){
+        		e.preventDefault();
+        		/* if($('#flowType').val() == 'changeLocation'){
+        		 */	$('#changeZipEligibility').show();
+					$('#saveCartOverlayZip').hide();
+					$('#warningSaveCartZip').hide();
+				/* }else{
+        			$('.close',$('#zipcodeOverlayLightBox')).trigger("click");
+        		} */
+        	});
+        	
+        	
+        	jQuery.ajaxSetup({accepts:'application/json'}) ;
+        	
+			jQuery('.btnSaveCartZip',$('.saveCartSubmitZip')).click(function(event) {
+			 	var data = {};
+		        jQuery('input',$('.saveCartSubmitZip')).each(function(){
+		        	data[$(this).attr('name')] = $(this).val();
+		        });
+		        jQuery('select',$('.saveCartSubmitZip')).each(function(){
+		        	data[$(this).attr('name')] = $(this).val();
+		        });
+				//Pass the name/value pair of submit button as well.
+		        data[jQuery('.btnSaveCartZip').attr('name')] = jQuery('.btnSaveCartZip').attr('value');
+		        var url = '/smallbusiness/cart/saveCartResult.jsp';
+					event.preventDefault();
+					jQuery.ajax({
+						url : url,
+						type : 'POST',
+						data : data,
+						success : validationSuccess,
+						error : validationError,
+						dataType : 'json',
+						beforeSend : function(xhr) {
+							xhr.setRequestHeader('Accept','application/json');
+							$('.loadingZip').show();
+							$('.saveCartContainerZip').hide();
+						}
+					});
+					
+					var wtPN = WebMetrics.getMetaTagValue('DCSext.wtPN');
+					var email = $('#emailAddCartZip').val();
+					if(email != undefined && email != null){
+						WebMetrics.DCSext.wtB2BSaveCartEmailAddress = $('#emailAddCartZip').val();
+						WebMetrics.dispatchReport( wtPN + "_SaveCartAndContinueLater");
+					}
+					return false;
+			  });
+			function validationSuccess(data){
+				$('.loadingZip').hide();
+				$('.saveCartContainerZip').show();
+				var responseData = data['errors'];
+				var isCartSaved = data['alreadyCartSavedZip'];
+				if(responseData != undefined){
+					if(isCartSaved == true)
+					{
+						$('#infoDisplayZip').html("");
+					    var infoMsg = responseData[0];
+					    var infoArray= infoMsg.split(":");
+						if(infoArray.length > 1){
+							var infoMsgShow = '<div  class="infoMsgDiv" >'+infoArray[1]+'</div>';
+						}else{
+							var infoMsgShow = '<div  class="infoMsgDiv" >'+infoArray[0]+'</div>';
+						}
+						$('#infoDisplayZip').html(infoMsgShow);
+						$('#serverReponseZip').html("");
+						$('#alreadySavedZip').show();
+						$('#defaultSubmitZip').hide();
+						$('#isUpdateFlagZip').val('true');
+						isCartSaved = false;				
+						
+					}
+					else{
+						$('#serverReponseZip').html("");
+						var errorMsg =responseData[0]
+						var errorArray= errorMsg.split(":");
+						if(errorArray.length > 1){
+							var errorMsgShow = '<span class="inlineErrorMsg" style="color:red;">'+errorArray[1]+'</span>';
+						}else{
+							var errorMsgShow = '<span class="inlineErrorMsg" style="color:red;">'+errorArray[0]+'</span>';
+						}
+						$('#serverReponseZip').html(errorMsgShow);
+						$('#infoDisplayZip').html("");
+						$('#alreadySavedZip').hide();
+						$('#defaultSubmitZip').show();
+						/* $('#btnSaveCartImg').hide(); */
+						$('#isUpdateFlagZip').val('false');
+					}
+				}
+				else{
+					$('.loadingZip').hide();
+					$('.saveCartContainerZip').show();
+					$('#infoDisplayZip').html("");
+					$('#initSavedCartMsgZip').hide();
+					$('#savedCartMsgZip').show();
+				}
+			}
+			function validationError(jqXHR, textStatus, errorThrown) {
+			}
+        	
+        });
+    </script>
+
+
+	
+		<div class="loadingZip" align="center" style="margin:20px 20px 20px 20px;display:none">
+			<p style="font-size: 20px;margin:120px 0px 120px 0px;">Loading.. <img src="/smallbusiness/images/common/loading.png" align="center"></p>
+		</div>
+		<div class="saveCartContainerZip">
+			<div class="saveCartSubmitZip">
+				<form name="save_cart_" action="/smallbusiness/overlay/saveCartForZipOverlay.jsp"><input name="_dyncharset" value="UTF-8" type="hidden"></input><input name="_dynSessConf" value="9031030704716270745" type="hidden"></input>
+		
+				       <div>
+						<div class="header"></div>
+					</div>
+					<div style="float:left;margin:1px 5px;" id="infoDisplayZip" class="userInfoZip"></div>
+					<input name="/com/att/b2b/commerce/cart/formHandler/CustomCartModifierFormHandler.ajaxSuccessUrl" value="/smallbusiness/cart/saveCartResult.jsp" type="hidden"><input name="_D:/com/att/b2b/commerce/cart/formHandler/CustomCartModifierFormHandler.ajaxSuccessUrl" value=" " type="hidden">
+				
+				    <input name="/com/att/b2b/commerce/cart/formHandler/CustomCartModifierFormHandler.ajaxErrorUrl" value="/smallbusiness/cart/saveCartResult.jsp" type="hidden"><input name="_D:/com/att/b2b/commerce/cart/formHandler/CustomCartModifierFormHandler.ajaxErrorUrl" value=" " type="hidden">
+					<div style="padding: 20px;" id="initSavedCartMsgZip">
+					
+						<p>Enter your email address. We'll send you a message that tells how to retrieve your shopping cart.</p> 
+						<p>Your cart will be saved for 30 days.</p>
+		                <br/>
+						<div>
+							<div style="float:left;">
+								<strong>Email address :</strong>
+								<input type="text" iclass="eeemail16"  name="email" id="emailAddCartZip"/>
+							</div>
+							<div style="float:left;margin:1px 5px;width:180px;" id="serverReponseZip" class="userInfoZip"></div>
+							<div class="clearBoth"></div>
+						</div>
+		               <input id="yesBtn_" name="/com/att/b2b/commerce/cart/bean/AddToCartInfo.saveCartVo.saveCart" value="true" type="hidden"><input name="_D:/com/att/b2b/commerce/cart/bean/AddToCartInfo.saveCartVo.saveCart" value=" " type="hidden">
+		               <div style="padding-top:5px;">
+			               <input type="hidden" name="isUpdateFlag" value="false" id="isUpdateFlagZip" />
+			               <input name="/com/att/b2b/commerce/cart/formHandler/CustomCartModifierFormHandler.submit" value="Submit" class="btnSaveCartZip" type="hidden"><input name="_D:/com/att/b2b/commerce/cart/formHandler/CustomCartModifierFormHandler.submit" value=" " type="hidden">
+			               <!-- <div class="padding5"></div> -->
+			               <div id="defaultSubmitZip">
+			                 <a href="#" class="btnSaveCartImgZip SaveCartSubmitBtnReporting"><img src="/smallbusiness/images/buttons/btn_Submit_s.gif"/></a>
+			               </div>
+			                 <div id="alreadySavedZip" style="display:none;padding-top:5px;">
+				                <div style="float: right;">
+						    		<a href="#" id="cancelImgZip" class="close"><img style="margin-right:10px;"  src="/smallbusiness/images/buttons/btn_Wht_Cancel_s.gif"></a>
+						        </div>
+						        <div>
+						        	<a href="#" class="btnSaveCartImgZip"><img  style="margin-left:10px;"  src="/smallbusiness/images/buttons/btn_Continue_s.gif"/></a>
+						        </div>
+			               </div>
+		               </div>					
+					</div>
+				<input name="_DARGS" value="/smallbusiness/overlay/saveCartForZipOverlay.jsp" type="hidden"></input></form>
+			</div>
+			<div id="savedCartMsgZip"  style="display:none;padding:20px;" >
+				<p>We've saved your shopping cart. Your cart will be available for 30 days. You can retrieve it using the instructions in the confirmation email that we sent you.</p>
+				<!-- <div class="padding5"></div> -->
+				<a href="#" class="btnSaveCartOkImgZip" class="SaveCartOkBtnReporting"><img src="/smallbusiness/images/buttons/btn_OK_s.gif"/></a>
+			</div>
+				<!-- <div class="clearBoth"></div> -->
+			
+		</div>
+	
+
+		</div>
+		<div id="warningSaveCartZip" style="display:none;">
+			
+
+ 
+
+<script> 
+	
+        jQuery(document).ready(function() {
+        	
+        	$('.continueWarning').click(function(){
+        			$('#changeAdreesEligibility').show();
+            		$('#changeZipEligibility').show();
+            		$('#saveCartOverlay').hide();
+    				$('#warningSaveCart').hide();
+    				$('#saveCartOverlayZip').hide();
+    				$('#warningSaveCartZip').hide();
+    				$('#showphoneNumber').hide();	
+				
+        	});
+        	
+        	$('.saveCartWarning').click(function(){
+        		$('#changeAdreesEligibility').hide();
+        		$('#changeZipEligibility').hide();
+				$('#saveCartOverlay').show();
+				$('#warningSaveCart').hide();
+				$('#saveCartOverlayZip').show();
+				$('#warningSaveCartZip').hide();
+        	});
+        	$('.wirelessPresentInSession').click(function(e){
+				$('#validateAddressBtn').trigger('click');
+				$('#saveCartOverlay').hide();
+				$('#warningSaveCart').hide();
+				$('#saveCartOverlayZip').hide();
+				$('#warningSaveCartZip').hide();
+				$('#showphoneNumber').hide();
+			});
+        	
+        });
+</script>        
+
+	
+	
+	<div>
+		<div id="warningEmptyCartMsg">
+			<div>
+				<div class="header">Caution</div>
+			</div>
+			<div style="padding:15px;">
+			<div style="width:95%;float:left;padding:10px;">
+				<div style="float:left;margin-right:10px;">
+					<img src="/smallbusiness/images/icons/icon_alert_28x23.png">
+				</div>
+				Changing your location will empty your shopping cart.
+			</div>
+		
+			<div style="width:95%;float:left;padding:10px;">
+				<div style="float:left;margin-right:10px;width:75%;">
+					You may want to save your shopping cart before you make this change. To save your shopping cart, click <strong>Save Cart </strong> .
+				</div>
+				<div style="float:right;width:18%;padding-right: 15px;">
+					<a href="#" class="saveCartWarning"><img alt="save cart" src="/smallbusiness/images/buttons/btn_SaveCart_s.gif"> </a>
+				</div>
+			</div>
+		
+			<div style="width:95%;float:left;padding:10px;">
+				<div>
+					To proceed with this change, click <strong>Continue</strong>. To return to your shopping cart, click <strong>Cancel</strong>.
+				</div>
+				<div>
+					<span style="float:right;margin-left:10px;padding-right:2px;">
+						<a href="#" class="continueWarning"><img  alt="continue" src="/smallbusiness/images/buttons/btn_Continue_s.gif"> </a>
+					</span>
+					<span style="float:right;margin-right:10px;">
+						<a href="#" class="close"><img alt="continue" src="/smallbusiness/images/buttons/btn_Wht_Cancel_s.gif"> </a>
+					</span>
+				</div>
+			</div>
+			</div>
+			<div class="clearBoth"></div>
+		</div>
+		<div id="macMsg" style="display:none;">
+			<div>
+				<div class="header">Caution!</div>
+			</div>
+			<div style="padding: 10px;">
+				<p>Continuing to the Existing Customers page will empty your cart.</p><br />
+				<p>You may want to save your shopping cart before you make this change. To save your shopping cart, click Save Cart.</p>
+				<br/><br/>
+				
+				<div style="float: right;">
+					<form action="/smallbusiness/pages/promo/AFLcampaign.jsp?_DARGS=/smallbusiness/overlay/warningEmptyCart.jsp" method="post"><input name="_dyncharset" value="UTF-8" type="hidden"></input><input name="_dynSessConf" value="9031030704716270745" type="hidden"></input>
+						<a href="#" class="saveCartWarning"><img src="/smallbusiness/images/buttons/btn_SaveCart_s.gif" alt="" style="float: left; padding-top: 0px; padding-right: 10px;"></a>
+						<input id="macOrderType" name="/com/att/b2b/commerce/cart/bean/AddToCartInfo.emptyCartForMACNavigationVO.macOrderType" value="" type="hidden"><input name="_D:/com/att/b2b/commerce/cart/bean/AddToCartInfo.emptyCartForMACNavigationVO.macOrderType" value=" " type="hidden">
+						<input name="/com/att/b2b/commerce/cart/bean/AddToCartInfo.emptyCartForMACNavigationVO.emptyCart" value="true" type="hidden"><input name="_D:/com/att/b2b/commerce/cart/bean/AddToCartInfo.emptyCartForMACNavigationVO.emptyCart" value=" " type="hidden">
+						<a href="#"><input name="/com/att/b2b/commerce/cart/formHandler/CustomCartModifierFormHandler.submit" src="/smallbusiness/images/buttons/btn_Continue_s.gif" type="image"><input name="_D:/com/att/b2b/commerce/cart/formHandler/CustomCartModifierFormHandler.submit" value=" " type="hidden"> </a>
+					<input name="_DARGS" value="/smallbusiness/overlay/warningEmptyCart.jsp" type="hidden"></input></form>
+				</div>
+				<div class="clearBoth"></div>
+			</div>
+		</div>	
+	</div>	
+
+		</div>
+	</div>
+
+		
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	<div id="preOrderOverlayDropBox" class="backdrop"></div>
+	<div id="preOrderOverlayLightBox" class="overlaybox" style="width: 506px;" >
+		
+		<div>
+			
+					<div class="header">Important Pre-Order Information</div>
+					
+					<p style="padding:20px 0px 10px 20px;margin:0px;">
+						<strong>
+						Thank you for shopping with AT&amp;T.</strong>
+					</p>
+					<p style="padding:0px 0px 10px 20px;margin:0px;">
+						You're just a few clicks away from pre-ordering your new device.
+					</p>
+					<p class="padding20" style="padding-top:0px;margin-bottom: 0px">
+							Here's some information you should know:<br/>
+ 
+							We process all pre-orders on a first-come, first-served basis. 
+							The date of actual shipment and receipt of your order is not guaranteed and may be subject to delays.
+						
+						<strong>Important:</strong> After you complete your order, we may immediately place a hold on your credit or debit card for the pre-order amount, and these funds may not be available for other use. We will charge your card at the time of shipment.
+
+					</p>
+					<div class="h_line" style="margin-top:0px;"></div>
+					<div style="float:left;margin:15px;"><a href="#" id="cancelButton" class="btnBack preOrderOverlayCancelBtn">Cancel</a></div>
+					<div style="float:right;width:98px;margin:15px;"><a href="#" class="btnBack preOrderOverlayContBtn continueButton"><img alt="continueButton" src="/smallbusiness/images/buttons/btn_Continue_s.gif"> </a></div>
+				
+		</div>
+	</div>
+	
+
+
+		
+
+
+<script>
+<!-- OPTIMOST GLOBAL MODULE AND COUNTER CODE -->
+if (typeof(opModulesArray)!='undefined' && opModulesArray.length>0 && typeof(optimost)=='object') {
+     for(var i=0;i<opModulesArray.length;i++){
+         optimost.displayModule(opModulesArray[i]);   
+     }
+    }
+    else {
+     if(typeof(optimost)=='object'){optimost.modulesPassed=true;}
+     else{var __optimostModulesPassed=true;}
+    }
+<!-- END OPTIMOST GLOBAL MODULE AND COUNTER CODE-->
+</script>
+
+	</div>			
+		</div>			<script src="https://cdnt.meteorsolutions.com/metsol.js" type="text/javascript"></script>	<script type="text/javascript">		meteor.tracking.track('34c1a66c-d7c4-4275-a832-65c22ee2ea6f',		{'url_storage_source': 'hash', 'query_string_tag_key':		['mtag', 'bref']});		var shareBref = 'EB0m0000009albsmL';		if(shareBref == '') {			meteor.sharing.configure('34c1a66c-d7c4-4275-a832-65c22ee2ea6f',{'id':'custom'});		} else {			var url = document.location.protocol +'//' +						document.location.host +						document.location.pathname;			srch = document.location.search;			srch = srch.replace(/(bref)=(.*?)(&|$)/ig, "").replace(/&$/g,"").replace(/^\?$/g, "");			if (srch !== "") {			  url = url + srch + "&bref=" + shareBref;			} else {			  url = url + "?bref=" + shareBref;			}			url = url + document.location.hash;			meteor.sharing.configure('34c1a66c-d7c4-4275-a832-65c22ee2ea6f',{'id':'custom', 'url': url, 'safe_meteor_keys': ['bref']});							}		</script>		<script type="text/javascript">		$(document).ready(function(){			$('.popupTS').click(function (e) {e.preventDefault();window.open($(this).attr("href"), "popupWindow", "left=0,top=0,width=750,height=600,status=0,resizable=0,scrollbars=1", style="background:none;padding:0px;margin:0px"); });			});</script>	</html>

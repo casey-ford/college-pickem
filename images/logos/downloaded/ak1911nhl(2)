@@ -1,0 +1,2672 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head xml:lang="en">
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="content-language" content="en" />
+    <meta name="distribution" content="Global" />
+    <meta name="rating" content="General" />
+
+    <link rel="Stylesheet" type="text/css" href="/css/wide/global.css?v=5.5.1.26373" />
+    <link href="/css/partnercss/nhl_usa.css?v=5.5.1.26373" rel="stylesheet" type="text/css" />
+    <style type='text/css'>body{background-color:#000}</style>
+    <script type="text/javascript">
+        var visiSiteID = "12724";
+        var productImageBasePath = "nhl.frgimages.com";
+        var maxQuantityAllowed = "99";
+    </script>
+    <script type="text/javascript">
+        var TCS = {}; TCS.Settings = {}; TCS.Site = {}; TCS.Data = {};
+        TCS.Site.SiteID = "12724";
+        TCS.Settings.ClearanceSaleLabelText = "(extra 30% off)";
+        TCS.Settings.ProductImageBasePath = "nhl.frgimages.com";
+        TCS.Settings.MaxQuantityAllowed = "2";
+        TCS.Settings.AlertIconImage = '//images.footballfanatics.com/jQuery-ui/ui-alert-icon.png';
+        TCS.Settings.InfoIconImage = '//images.footballfanatics.com/jQuery-ui/ui-info-icon.png';
+        TCS.Settings.PDPMainProductZoomImageWidth = "600";
+        TCS.Settings.PDPAltProductZoomImageWidth = "60";
+        TCS.Settings.PDPMainProductImageWidth = "400";
+        TCS.Settings.PDPAltProductImageWidth = "35";
+        TCS.Settings.RelatedProductsImageWidth = 108;
+        TCS.Settings.EnableAddToCartFromRelatedProducts = false;
+        TCS.Settings.PowerReviewsShowReviewsContentOnRecommendedProducts = true;
+        TCS.Settings.EnableQuickLookSuggested = true;
+    </script>
+
+    <script type="text/javascript" src="//nhl.frgimages.com/js/jquery.tcs.bundle.v1.0.js?v=5.5.1.26373"></script>
+
+    
+    <script type="text/javascript" src="/js/shoprunner/shoprunner_init.js?srvars=$retailerID|NHL$environmentID|2?v=5.5.1.26373"></script>
+    <script type="text/javascript" src="/js/shoprunner/edutl.js?v=5.5.1.26373"></script>
+    <script type="text/javascript">storeSREDID();</script>
+    
+
+    <script type="text/javascript" src="/js/wide/global.js?v=5.5.1.26373"></script>
+    <script type="text/javascript" src="/js/wide/util.js?v=5.5.1.26373"></script>
+    
+    <script type="text/javascript" src="//nhl.frgimages.com/js/jquery_plugins/jquery.selectboxes.pack.js?v=5.5.1.26373"></script>
+
+    <script type="text/javascript" src="//nhl.frgimages.com/js/jquery_plugins/tcs-jquery-plugins-0.2.min.js?v=5.5.1.26373"></script>
+    
+    <script type="text/javascript" src="/pwr/engine/js/full.js?v=5.5.1.26373"></script>
+    
+    <!-- <scr ipt type="text/javascript" src="/js/wide/cookies.js?v=5.5.1.26373"></scr ipt> -->
+
+    
+
+    
+    <!-- Title PageMetaID: 8068248 -->
+    <title>NHL Jerseys - Hockey Jerseys, Authentic, Premier, Practice, Replica Jerseys - Shop.NHL.com</title>
+    <script type="text/javascript">
+        var TCSSettings = new Object();
+        TCSSettings.checkoutDomain = 'https://shop.nhl.com/';
+        TCSSettings.miniBagCheckoutURL = 'http://shop.nhl.com/cart/view';
+        TCSSettings.miniBagPayPal = false;
+    </script>
+    <!-- Keywords PageMetaID: 8068248 -->
+    <meta name="keywords" content="NHL Jerseys" />
+    <!-- Description PageMetaID: 8068248 -->
+    <meta name="description" content="Buy NHL Jerseys at the official online store of the NHL. We carry the widest variety of new NHL hockey jerseys including home, away, third, replica, authentic, & practice jerseys online. " />
+
+ 
+    <link rel="canonical" href="http://shop.nhl.com/Jerseys" />
+ 
+
+    
+    <meta property="og:url" content="http://shop.nhl.com/Jerseys" />
+    
+
+    <link href="//nhl.frgimages.com/partners/Leagues/NHL_USA/favicon.ico" rel="icon" type="image/vnd.microsoft.icon"></link>
+<link href="//nhl.frgimages.com/partners/Leagues/NHL_USA/favicon.ico" rel="shortcut icon" type="image/x-icon"></link>
+
+    
+    
+    <script type="text/javascript">
+        var Maxymiser = {};
+        Maxymiser.PSID = "12724";
+        Maxymiser.PageType = "Browse";
+        Maxymiser.League = "";
+        Maxymiser.Team = "";
+        Maxymiser.Department = "Jerseys";
+        Maxymiser.SubDepartment = "";
+    </script>
+    
+    <!--Maxymiser script -->
+    <script type="text/javascript" src="//service.maxymiser.net/cdn/footballfanatics/north/js/mmcore.js?v=5.5.1.26373"></script>
+    
+    <meta name="robots" content="noodp, index, follow" />
+    
+</head>
+<body class="">
+    <a class="ADAhidden" id="skipLinkTopPage">Top of Page</a>
+    <ul class="ADAhidden">
+        <li><a href="#skipLinkTopNav" onclick="jQuery('a#skipLinkTopNav').focus();">Skip to Top Navigation</a></li>
+        <li id="leftnavskipblock"><a href="#skipLinkLeftNav" onclick="jQuery('a#skipLinkLeftNav').focus();">Skip to Left Navigation</a></li>
+        
+        <li><a href="#skipLinkMainContent" onclick="jQuery('a#skipLinkMainContent').focus();">Skip to Main Content</a></li>
+    </ul>
+    <div id="mainOutsideBGContainer" class="">
+
+        <div id="mainOutsideFrameContainer">
+            <div id="mainOutsideFrameTopContainer">
+                &nbsp;
+            </div>
+            <div id="mainOutsideFrameMiddleContainer">
+                <div id="mainOutsideContentContainer">
+
+                    <!-- Begin Header -->
+                    
+<div id="headerFrameContainer">
+    <div id="headerFrameTop">
+        <!-- begin header_top -->
+        
+        <!-- end header_top -->
+    </div>
+    <div id="headerFrameTopContainer">
+        <div id="headerFrameSectionOne">
+            <div id="headerHome">
+                <a href="/" id="headerHomeLink" title="Home Page">Home</a>
+            </div> 
+        </div>
+        <div id="headerFrameSectionTwo">
+            <!-- begin headerSectionTwoContent -->
+            <!-- Content Text ID: 1301607 and Content Target ID: 1566150 -->
+<style type="text/css">
+  body {
+      background: url(//nhlshop.frgimages.com/partners/leagues/NHL_USA/redesign/HP_US_BG3.jpg) no-repeat fixed center top #000000 !important;
+  padding-bottom: 1px;
+  }
+  div#headerFrameContainer div#headerFrameTopContainer {height: 114px !important;}
+  div#mainOutsideContentContainer div#headerFrameContainer {
+      background:url(//nhlshop.frgimages.com/partners/leagues/NHL_USA/redesign/NHL_header3.jpg) no-repeat !important;
+  }
+  div#headerFrameSearchRowOne div.headerSearchSubmitContainer input.searchSubmit {
+  background-image: url(//nhlshop.frgimages.com/partners/leagues/NHL_USA/redesign/NHL_search.png) !important;
+  height: 23px !important;
+  width: 71px !important;
+  }
+  
+  li#nhlShopByTeam, li#nhlJerseys, li#nhlHats, li#nhlMens, li#nhlWomens, li#nhlKids, li#nhlCollectibles, li#nhlHomeOffice, li#nhlPlayers, li#nhlNHLVintage {
+      background-image: url(//nhlshop.frgimages.com/partners/leagues/NHL_USA/redesign/NHL_HP_Main_Nav2.jpg) !important;
+      height:30px !important;
+      transition: all .1s ease-in-out;
+      -moz-transition: all .1s ease-in-out;
+      -webkit-transition: all .1s ease-in-out
+  }
+  
+  li#nhlShopByTeam:hover, li#nhlJerseys:hover, li#nhlHats:hover, li#nhlMens:hover, li#nhlWomens:hover, li#nhlKids:hover, li#nhlCollectibles:hover, li#nhlHomeOffice:hover, li#nhlPlayers:hover, li#nhlNHLVintage:hover {
+      transition: all .1s ease-in-out;
+      -moz-transition: all .1s ease-in-out;
+      -webkit-transition: all .1s ease-in-out
+  }
+  
+  li#nhlShopByTeam{background-position: -0px -30px !important;}
+  li#nhlShopByTeam:hover{background-position: -0px 0px !important;}
+  li#nhlShopByTeam, div#headerNavContainer li#nhlShopByTeam a{width:123px !important;}
+  
+  li#nhlJerseys {background-position: -123px -30px !important;}
+  li#nhlJerseys:hover {background-position: -123px 0px !important;}
+  li#nhlJerseys, div#headerNavContainer li#nhlJerseys a{width:84px !important;}
+  
+  li#nhlHats {background-position: -207px -30px !important;}
+  li#nhlHats:hover {background-position: -207px 0px !important;}
+  li#nhlHats, div#headerNavContainer li#nhlHats a{width:54px !important;}
+  
+  li#nhlMens {background-position: -261px -30px !important;}
+  li#nhlMens:hover {background-position: -261px 0px !important;}
+  li#nhlMens, div#headerNavContainer li#nhlMens a{width:62px !important;}
+  
+  li#nhlWomens {background-position: -323px -30px !important;}
+  li#nhlWomens:hover {background-position: -323px 0px !important;}
+  li#nhlWomens, div#headerNavContainer li#nhlWomens a{width:84px !important;}
+  
+  li#nhlKids {background-position: -407px -30px !important;}
+  li#nhlKids:hover {background-position: -407px 0px !important;}
+  li#nhlKids, div#headerNavContainer li#nhlKids a{width:54px !important;}
+  
+  li#nhlCollectibles {background-position: -461px -30px !important;}
+  li#nhlCollectibles:hover {background-position: -461px 0px !important;}
+  li#nhlCollectibles, div#headerNavContainer li#nhlCollectibles a{width:124px !important;}
+  
+  li#nhlHomeOffice {background-position: -585px -30px !important;}
+  li#nhlHomeOffice:hover {background-position: -585px 0px !important;}
+  li#nhlHomeOffice, div#headerNavContainer li#nhlHomeOffice a{width:129px !important;}
+  
+  li#nhlPlayers {background-position: -714px -30px !important;}
+  li#nhlPlayers:hover {background-position: -714px 0px !important;}
+  li#nhlPlayers, div#headerNavContainer li#nhlPlayers a{width:124px !important;}
+  
+  li#nhlNHLVintage {background-position: -838px -30px !important;}
+  li#nhlNHLVintage:hover {background-position: -838px 0px !important;}
+  li#nhlNHLVintage, div#headerNavContainer li#nhlVintage a{width:136px !important;}
+  
+  .navPositionWrapper {margin-top:6px;}
+  
+  div#headerFrameContainer div#headerNavContainer ul#headerUL li ul li a {width: auto !important;}
+  div#headerFrameSectionTwo div#link-holder > a{
+  display:block;
+  position:relative;
+  float:left;
+  transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  -webkit-transition: all .2s ease-in-out;
+  }
+  div#headerFrameSectionTwo div#link-holder > a:hover{
+  -webkit-box-shadow: inset 0px -20px 25px -2px rgba(255, 255, 255, 0.2);
+  -moz-box-shadow:    inset 0px -20px 25px -2px rgba(255, 255, 255, 0.2);
+  box-shadow:         inset 0px -20px 25px -2px rgba(255, 255, 255, 0.2);
+  }
+  div#headerFrameSectionTwo div#link-holder a#signup-link {
+  width:149px;
+  height:26px;
+  top: 7px;
+  left: 62px;
+  }
+  div#headerFrameSectionTwo div#link-holder a#giftcard-link {
+  width:73px;
+  height:19px;
+  top: 14px;
+  left: 65px;
+  }
+  div#headerFrameSectionTwo div#link-holder a#outlet-link {
+  width:52px;
+  height:19px;
+  top: 14px;
+  left: 68px;
+  }
+  div#headerFrameSectionTwo a#canadaLink {		
+    height: 23px;
+    width: 104px;
+    display: block;
+    color: transparent;
+    text-indent: -9999px;
+    pointer: cursor;
+    position: absolute;
+    bottom: 13px;
+    right: 674px;
+    cursor: pointer;
+  }
+  div#headerFrameSectionTwo a#canadaLink:hover {		
+    background-image: url(//nhlshop.frgimages.com/partners/leagues/NHL_USA/header_canada_hover.jpg);
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+  }
+ 
+</style>
+
+<div id="link-holder">
+  <a href="/pages/EmailOptions" id="signup-link"></a>
+  <a href="/pages/Gift_Cards" id="giftcard-link"></a>
+  <a href="/pages/Outlet" id="outlet-link"></a>
+</div>
+
+<script>
+function myFunction()
+{
+var r=confirm("You are about to leave Shop.NHL.com with US currency and enter Shop.NHL.com. with Canadian currency.\nPlease be aware that any items you may have put into your Shop.NHL.com shopping cart with US currency will not appear in your Shop.NHL.com cart with Canadian currency.\nWe apologize for any inconvenience.");
+if (r==true)
+  {  
+  window.location.assign("http://shop.canada.nhl.com/home/index.jsp")
+  }
+else
+  {
+  } 
+}
+</script>
+<a id="canadaLink" title="Switch to Canada Site" onclick="myFunction()" rel="nofollow"></a>
+<!-- End Content Text ID: 1301607 and Content Target ID: 1566150 -->
+            <!-- end headerSectionTwoContent -->
+        </div>
+        <div id="headerFrameSectionThree">
+            <!-- begin headerSectionThreeContent -->
+            <!-- Content Text ID: 1301606 and Content Target ID: 1566151 -->
+<div class="headerSectionPadding">
+	<ul>		
+		<li style="color: #ffffff;">|</li>		
+		<li>
+			<a href="https://shop.nhl.com/account/tracking" title="Track Order" rel="nofollow">Track Order</a>
+		</li>
+		<li style="color: #ffffff;">|</li>
+		<li>
+			<a href="http://shop.nhl.com/pages/RequestCatalog" title="Request a Catalog">Request a Catalog</a>
+		</li>	
+		<li style="color: #ffffff;">|</li>
+		<li>
+			<a href="https://help-nhl.custhelp.com/" title="Customer Service" rel="nofollow">Customer Service</a>
+		</li>
+		<!--<li style="color: #ffffff;">|</li>
+		<li>
+			<a href="https://shop.nhl.com/account/home" title="My Account" rel="nofollow">My Account</a> 
+			<span class="logoutLinkContainer hidden">
+				(<a href="https://shop.nhl.com/account/out" title="Sign Out">Sign out</a>)
+			</span>
+		</li>
+		<li style="color: #ffffff;">|</li>
+		<li>
+			1-855-438-0685
+		</li>-->
+	</ul>
+</div>
+
+<style type="text/css">
+	li.nav2columns div.navPositionWrapper {
+		width: 320px;
+	}
+	div#headerFrameContainer div#headerNavContainer ul#headerUL li ul li a {
+		width: auto;
+		font-size: 13px;
+	}
+	div#headerNavContainer div.navPositionWrapper ul {
+		width: 160px;
+	}
+	div#headerNavContainer ul li ul li a {
+		background-color: #fff;
+		color: #000;
+		text-decoration: none;
+		line-height: 18px;
+	}  
+    div p a { text-decoration: underline;}
+</style>
+
+<script type="text/javascript">
+  $( document ).ready(function(){
+  $('<div id="sidebar_rightRail" style="position: absolute; top: 119px; left: 974px; width: 150px; height: auto;"><a href="/pages/outlet?ab=bm_nhlcms_RR_Outlet_092414" alt="Shop Outlet Items" target="_blank"><img src="//nhlshop.frgimages.com/partners/leagues/NHL_USA/includes/site/819_HP_RR_Outlet2.jpg" style="-webkit-user-select: none"></div>').appendTo('#mainOutsideContentContainer'); 
+  jQuery('div#mainOutsideContentContainer').css('position','relative');
+});
+</script>
+<!-- End Content Text ID: 1301606 and Content Target ID: 1566151 -->
+            <!-- end headerSectionThreeContent -->
+        </div>
+    
+        <div id="headerFrameSectionFour">
+            <div id="headerFrameCartCheckoutContainer" class="whiteCartWithoutCheckout clearfix">
+                <a href="/cart/view" id="headerCartLogoLink" title="Shopping Cart">Shopping Cart</a>
+                <a href="/cart/view" id="headerCartTextLink" title="Shopping Cart">
+                    <span class="headerCartDesc">My&nbsp;Cart&nbsp;(&nbsp;</span>
+                    <span id="headerCartItemCount">0 items</span>
+                    <span class="headerCartDesc">&nbsp;)</span>
+                    <span class="headerCartDivider">&nbsp;</span>
+                    <span id="headerCartTotal">$0.00</span>
+                </a>
+                 <a href="https://shop.nhl.com/checkout/address" id="headerCartCheckoutLink" title="Checkout Now">Checkout Now</a>
+            </div>
+            
+             
+<div id="headerFrameSearchContainer">
+	<form action="" method="post" id="headerSearchForm" class="searchForm" name="headerSearchForm">
+		<div id="headerFrameSearchRowOne">
+			<div id="topSearchContainer">
+				<label class="ADAhidden" for="searchquery">Search for:</label>
+				<div class="headerSearchTextContainer"><input type="text" class="searchText" id="searchquery" name="searchquery" /></div>
+				<label class="ADAhidden" for="headersearchbutton">Search Submit</label>
+				<div class="headerSearchSubmitContainer"><input type="submit" id="headersearchbutton" value="Search" class="searchSubmit" /></div>
+			</div>
+		</div>
+
+		
+	</form>
+</div>
+
+  
+        </div>
+
+        <div class="clear_div"></div>
+        <script type="text/javascript">
+            jQuery(window).unload( function ()
+            { 
+                
+            });
+        </script>
+
+    </div>
+    
+    
+ 
+<div id="headerNavContainer">
+    <a class="ADAhidden" id="skipLinkTopNav" href="javascript:;">Top Nav</a>
+    <ul id="headerUL">
+<li id="nhlShopByTeam" class="headerLI nav2columns clickable"><a href="/NHL" title="Shop By Team" class="headerLink">Shop By Team</a><div class="navPositionWrapper"><div class="navBackgroundWrapper clearfix">
+        <div id="navNHLEastern" class="Eastern"><div id="EasternHeaderID" class="EasternHeaderClass">EasternLogo</div><ul><li><a href="/Boston_Bruins_Gear" title="Boston Bruins">Boston Bruins</a></li><li><a href="/Buffalo_Sabres_Gear" title="Buffalo Sabres">Buffalo Sabres</a></li><li><a href="/Carolina_Hurricanes_Gear" title="Carolina Hurricanes">Carolina Hurricanes</a></li><li><a href="/Columbus_Blue_Jackets_Gear" title="Columbus Blue Jackets">Columbus Blue Jackets</a></li><li><a href="/Detroit_Red_Wings_Gear" title="Detroit Red Wings">Detroit Red Wings</a></li><li><a href="/Florida_Panthers_Gear" title="Florida Panthers">Florida Panthers</a></li><li><a href="/Montreal_Canadiens_Gear" title="Montreal Canadiens">Montreal Canadiens</a></li><li><a href="/New_Jersey_Devils_Gear" title="New Jersey Devils">New Jersey Devils</a></li><li><a href="/New_York_Islanders_Gear" title="New York Islanders">New York Islanders</a></li><li><a href="/New_York_Rangers_Gear" title="New York Rangers">New York Rangers</a></li><li><a href="/Ottawa_Senators_Gear" title="Ottawa Senators">Ottawa Senators</a></li><li><a href="/Philadelphia_Flyers_Gear" title="Philadelphia Flyers">Philadelphia Flyers</a></li><li><a href="/Pittsburgh_Penguins_Gear" title="Pittsburgh Penguins">Pittsburgh Penguins</a></li><li><a href="/Tampa_Bay_Lightning_Gear" title="Tampa Bay Lightning">Tampa Bay Lightning</a></li><li><a href="/Toronto_Maple_Leafs_Gear" title="Toronto Maple Leafs">Toronto Maple Leafs</a></li><li><a href="/Washington_Capitals_Gear" title="Washington Capitals">Washington Capitals</a></li></ul></div><div id="navNHLWestern" class="Western"><div id="WesternHeaderID" class="WesternHeaderClass">WesternLogo</div><ul><li><a href="/Anaheim_Ducks_Gear" title="Anaheim Ducks">Anaheim Ducks</a></li><li><a href="/Arizona_Coyotes_Gear" title="Arizona Coyotes">Arizona Coyotes</a></li><li><a href="/Calgary_Flames_Gear" title="Calgary Flames">Calgary Flames</a></li><li><a href="/Chicago_Blackhawks_Gear" title="Chicago Blackhawks">Chicago Blackhawks</a></li><li><a href="/Colorado_Avalanche_Gear" title="Colorado Avalanche">Colorado Avalanche</a></li><li><a href="/Dallas_Stars_Gear" title="Dallas Stars">Dallas Stars</a></li><li><a href="/Edmonton_Oilers_Gear" title="Edmonton Oilers">Edmonton Oilers</a></li><li><a href="/Los_Angeles_Kings_Gear" title="Los Angeles Kings">Los Angeles Kings</a></li><li><a href="/Minnesota_Wild_Gear" title="Minnesota Wild">Minnesota Wild</a></li><li><a href="/Nashville_Predators_Gear" title="Nashville Predators">Nashville Predators</a></li><li><a href="/San_Jose_Sharks_Gear" title="San Jose Sharks">San Jose Sharks</a></li><li><a href="/St_Louis_Blues_Gear" title="St. Louis Blues">St. Louis Blues</a></li><li><a href="/Vancouver_Canucks_Gear" title="Vancouver Canucks">Vancouver Canucks</a></li><li><a href="/Winnipeg_Jets_Gear" title="Winnipeg Jets">Winnipeg Jets</a></li></ul></div><div id="shopbyteamViewAll"><a href="/NHL" title="View All">View All</a></div>
+
+</div></div></li>
+<li id="nhlJerseys" class="headerLI nav2columns clickable"><a href="/Jerseys" title="Jerseys" class="headerLink">Jerseys</a><div class="navPositionWrapper"><div class="navBackgroundWrapper clearfix">
+        <div id="navNHLEastern" class="Eastern"><div id="EasternHeaderID" class="EasternHeaderClass">EasternLogo</div><ul><li><a href="/Boston_Bruins_Jerseys" title="Boston Bruins">Boston Bruins</a></li><li><a href="/Buffalo_Sabres_Jerseys" title="Buffalo Sabres">Buffalo Sabres</a></li><li><a href="/Carolina_Hurricanes_Jerseys" title="Carolina Hurricanes">Carolina Hurricanes</a></li><li><a href="/Columbus_Blue_Jackets_Jerseys" title="Columbus Blue Jackets">Columbus Blue Jackets</a></li><li><a href="/Detroit_Red_Wings_Jerseys" title="Detroit Red Wings">Detroit Red Wings</a></li><li><a href="/Florida_Panthers_Jerseys" title="Florida Panthers">Florida Panthers</a></li><li><a href="/Montreal_Canadiens_Jerseys" title="Montreal Canadiens">Montreal Canadiens</a></li><li><a href="/New_Jersey_Devils_Jerseys" title="New Jersey Devils">New Jersey Devils</a></li><li><a href="/New_York_Islanders_Jerseys" title="New York Islanders">New York Islanders</a></li><li><a href="/New_York_Rangers_Jerseys" title="New York Rangers">New York Rangers</a></li><li><a href="/Ottawa_Senators_Jerseys" title="Ottawa Senators">Ottawa Senators</a></li><li><a href="/Philadelphia_Flyers_Jerseys" title="Philadelphia Flyers">Philadelphia Flyers</a></li><li><a href="/Pittsburgh_Penguins_Jerseys" title="Pittsburgh Penguins">Pittsburgh Penguins</a></li><li><a href="/Tampa_Bay_Lightning_Jerseys" title="Tampa Bay Lightning">Tampa Bay Lightning</a></li><li><a href="/Toronto_Maple_Leafs_Jerseys" title="Toronto Maple Leafs">Toronto Maple Leafs</a></li><li><a href="/Washington_Capitals_Jerseys" title="Washington Capitals">Washington Capitals</a></li></ul></div><div id="navNHLWestern" class="Western"><div id="WesternHeaderID" class="WesternHeaderClass">WesternLogo</div><ul><li><a href="/Anaheim_Ducks_Jerseys" title="Anaheim Ducks">Anaheim Ducks</a></li><li><a href="/Arizona_Coyotes_Jerseys" title="Arizona Coyotes">Arizona Coyotes</a></li><li><a href="/Calgary_Flames_Jerseys" title="Calgary Flames">Calgary Flames</a></li><li><a href="/Chicago_Blackhawks_Jerseys" title="Chicago Blackhawks">Chicago Blackhawks</a></li><li><a href="/Colorado_Avalanche_Jerseys" title="Colorado Avalanche">Colorado Avalanche</a></li><li><a href="/Dallas_Stars_Jerseys" title="Dallas Stars">Dallas Stars</a></li><li><a href="/Edmonton_Oilers_Jerseys" title="Edmonton Oilers">Edmonton Oilers</a></li><li><a href="/Los_Angeles_Kings_Jerseys" title="Los Angeles Kings">Los Angeles Kings</a></li><li><a href="/Minnesota_Wild_Jerseys" title="Minnesota Wild">Minnesota Wild</a></li><li><a href="/Nashville_Predators_Jerseys" title="Nashville Predators">Nashville Predators</a></li><li><a href="/San_Jose_Sharks_Jerseys" title="San Jose Sharks">San Jose Sharks</a></li><li><a href="/St_Louis_Blues_Jerseys" title="St. Louis Blues">St. Louis Blues</a></li><li><a href="/Vancouver_Canucks_Jerseys" title="Vancouver Canucks">Vancouver Canucks</a></li><li><a href="/Winnipeg_Jets_Jerseys" title="Winnipeg Jets">Winnipeg Jets</a></li></ul></div><div id="jerseysViewAll"><a href="/Jerseys" title="View All">View All</a></div>
+
+</div></div></li>
+<li id="nhlHats" class="headerLI nav2columns clickable"><a href="/Hats" title="Hats" class="headerLink">Hats</a><div class="navPositionWrapper"><div class="navBackgroundWrapper clearfix">
+        <div id="navNHLEastern" class="Eastern"><div id="EasternHeaderID" class="EasternHeaderClass">EasternLogo</div><ul><li><a href="/Boston_Bruins_Hats" title="Boston Bruins">Boston Bruins</a></li><li><a href="/Buffalo_Sabres_Hats" title="Buffalo Sabres">Buffalo Sabres</a></li><li><a href="/Carolina_Hurricanes_Hats" title="Carolina Hurricanes">Carolina Hurricanes</a></li><li><a href="/Columbus_Blue_Jackets_Hats" title="Columbus Blue Jackets">Columbus Blue Jackets</a></li><li><a href="/Detroit_Red_Wings_Hats" title="Detroit Red Wings">Detroit Red Wings</a></li><li><a href="/Florida_Panthers_Hats" title="Florida Panthers">Florida Panthers</a></li><li><a href="/Montreal_Canadiens_Hats" title="Montreal Canadiens">Montreal Canadiens</a></li><li><a href="/New_Jersey_Devils_Hats" title="New Jersey Devils">New Jersey Devils</a></li><li><a href="/New_York_Islanders_Hats" title="New York Islanders">New York Islanders</a></li><li><a href="/New_York_Rangers_Hats" title="New York Rangers">New York Rangers</a></li><li><a href="/Ottawa_Senators_Hats" title="Ottawa Senators">Ottawa Senators</a></li><li><a href="/Philadelphia_Flyers_Hats" title="Philadelphia Flyers">Philadelphia Flyers</a></li><li><a href="/Pittsburgh_Penguins_Hats" title="Pittsburgh Penguins">Pittsburgh Penguins</a></li><li><a href="/Tampa_Bay_Lightning_Hats" title="Tampa Bay Lightning">Tampa Bay Lightning</a></li><li><a href="/Toronto_Maple_Leafs_Hats" title="Toronto Maple Leafs">Toronto Maple Leafs</a></li><li><a href="/Washington_Capitals_Hats" title="Washington Capitals">Washington Capitals</a></li></ul></div><div id="navNHLWestern" class="Western"><div id="WesternHeaderID" class="WesternHeaderClass">WesternLogo</div><ul><li><a href="/Anaheim_Ducks_Hats" title="Anaheim Ducks">Anaheim Ducks</a></li><li><a href="/Arizona_Coyotes_Hats" title="Arizona Coyotes">Arizona Coyotes</a></li><li><a href="/Calgary_Flames_Hats" title="Calgary Flames">Calgary Flames</a></li><li><a href="/Chicago_Blackhawks_Hats" title="Chicago Blackhawks">Chicago Blackhawks</a></li><li><a href="/Colorado_Avalanche_Hats" title="Colorado Avalanche">Colorado Avalanche</a></li><li><a href="/Dallas_Stars_Hats" title="Dallas Stars">Dallas Stars</a></li><li><a href="/Edmonton_Oilers_Hats" title="Edmonton Oilers">Edmonton Oilers</a></li><li><a href="/Los_Angeles_Kings_Hats" title="Los Angeles Kings">Los Angeles Kings</a></li><li><a href="/Minnesota_Wild_Hats" title="Minnesota Wild">Minnesota Wild</a></li><li><a href="/Nashville_Predators_Hats" title="Nashville Predators">Nashville Predators</a></li><li><a href="/San_Jose_Sharks_Hats" title="San Jose Sharks">San Jose Sharks</a></li><li><a href="/St_Louis_Blues_Hats" title="St. Louis Blues">St. Louis Blues</a></li><li><a href="/Vancouver_Canucks_Hats" title="Vancouver Canucks">Vancouver Canucks</a></li><li><a href="/Winnipeg_Jets_Hats" title="Winnipeg Jets">Winnipeg Jets</a></li></ul></div><div id="hatsViewAll"><a href="/Hats" title="View All">View All</a></div><div class="footerLink"><a href="/NHL_Logo_Gear_Hats" title="NHL Logo">NHL Logo</a></div>
+
+</div></div></li>
+<li id="nhlMens" class="headerLI nav2columns clickable"><a href="/Men" title="Men" class="headerLink">Men</a><div class="navPositionWrapper"><div class="navBackgroundWrapper clearfix">
+        <div id="navNHLEastern" class="Eastern"><div id="EasternHeaderID" class="EasternHeaderClass">EasternLogo</div><ul><li><a href="/Boston_Bruins_Men" title="Boston Bruins">Boston Bruins</a></li><li><a href="/Buffalo_Sabres_Men" title="Buffalo Sabres">Buffalo Sabres</a></li><li><a href="/Carolina_Hurricanes_Men" title="Carolina Hurricanes">Carolina Hurricanes</a></li><li><a href="/Columbus_Blue_Jackets_Men" title="Columbus Blue Jackets">Columbus Blue Jackets</a></li><li><a href="/Detroit_Red_Wings_Men" title="Detroit Red Wings">Detroit Red Wings</a></li><li><a href="/Florida_Panthers_Men" title="Florida Panthers">Florida Panthers</a></li><li><a href="/Montreal_Canadiens_Men" title="Montreal Canadiens">Montreal Canadiens</a></li><li><a href="/New_Jersey_Devils_Men" title="New Jersey Devils">New Jersey Devils</a></li><li><a href="/New_York_Islanders_Men" title="New York Islanders">New York Islanders</a></li><li><a href="/New_York_Rangers_Men" title="New York Rangers">New York Rangers</a></li><li><a href="/Ottawa_Senators_Men" title="Ottawa Senators">Ottawa Senators</a></li><li><a href="/Philadelphia_Flyers_Men" title="Philadelphia Flyers">Philadelphia Flyers</a></li><li><a href="/Pittsburgh_Penguins_Men" title="Pittsburgh Penguins">Pittsburgh Penguins</a></li><li><a href="/Tampa_Bay_Lightning_Men" title="Tampa Bay Lightning">Tampa Bay Lightning</a></li><li><a href="/Toronto_Maple_Leafs_Men" title="Toronto Maple Leafs">Toronto Maple Leafs</a></li><li><a href="/Washington_Capitals_Men" title="Washington Capitals">Washington Capitals</a></li></ul></div><div id="navNHLWestern" class="Western"><div id="WesternHeaderID" class="WesternHeaderClass">WesternLogo</div><ul><li><a href="/Anaheim_Ducks_Men" title="Anaheim Ducks">Anaheim Ducks</a></li><li><a href="/Arizona_Coyotes_Men" title="Arizona Coyotes">Arizona Coyotes</a></li><li><a href="/Calgary_Flames_Men" title="Calgary Flames">Calgary Flames</a></li><li><a href="/Chicago_Blackhawks_Men" title="Chicago Blackhawks">Chicago Blackhawks</a></li><li><a href="/Colorado_Avalanche_Men" title="Colorado Avalanche">Colorado Avalanche</a></li><li><a href="/Dallas_Stars_Men" title="Dallas Stars">Dallas Stars</a></li><li><a href="/Edmonton_Oilers_Men" title="Edmonton Oilers">Edmonton Oilers</a></li><li><a href="/Los_Angeles_Kings_Men" title="Los Angeles Kings">Los Angeles Kings</a></li><li><a href="/Minnesota_Wild_Men" title="Minnesota Wild">Minnesota Wild</a></li><li><a href="/Nashville_Predators_Men" title="Nashville Predators">Nashville Predators</a></li><li><a href="/San_Jose_Sharks_Men" title="San Jose Sharks">San Jose Sharks</a></li><li><a href="/St_Louis_Blues_Men" title="St. Louis Blues">St. Louis Blues</a></li><li><a href="/Vancouver_Canucks_Men" title="Vancouver Canucks">Vancouver Canucks</a></li><li><a href="/Winnipeg_Jets_Men" title="Winnipeg Jets">Winnipeg Jets</a></li></ul></div><div id="menViewAll"><a href="/Men" title="View All">View All</a></div><div class="footerLink"><a href="/NHL_Logo_Gear_Men" title="NHL Logo">NHL Logo</a></div>
+
+</div></div></li>
+<li id="nhlWomens" class="headerLI nav2columns clickable"><a href="/Women" title="Women" class="headerLink">Women</a><div class="navPositionWrapper"><div class="navBackgroundWrapper clearfix">
+        <div id="navNHLEastern" class="Eastern"><div id="EasternHeaderID" class="EasternHeaderClass">EasternLogo</div><ul><li><a href="/Boston_Bruins_Women" title="Boston Bruins">Boston Bruins</a></li><li><a href="/Buffalo_Sabres_Women" title="Buffalo Sabres">Buffalo Sabres</a></li><li><a href="/Carolina_Hurricanes_Women" title="Carolina Hurricanes">Carolina Hurricanes</a></li><li><a href="/Columbus_Blue_Jackets_Women" title="Columbus Blue Jackets">Columbus Blue Jackets</a></li><li><a href="/Detroit_Red_Wings_Women" title="Detroit Red Wings">Detroit Red Wings</a></li><li><a href="/Florida_Panthers_Women" title="Florida Panthers">Florida Panthers</a></li><li><a href="/Montreal_Canadiens_Women" title="Montreal Canadiens">Montreal Canadiens</a></li><li><a href="/New_Jersey_Devils_Women" title="New Jersey Devils">New Jersey Devils</a></li><li><a href="/New_York_Islanders_Women" title="New York Islanders">New York Islanders</a></li><li><a href="/New_York_Rangers_Women" title="New York Rangers">New York Rangers</a></li><li><a href="/Ottawa_Senators_Women" title="Ottawa Senators">Ottawa Senators</a></li><li><a href="/Philadelphia_Flyers_Women" title="Philadelphia Flyers">Philadelphia Flyers</a></li><li><a href="/Pittsburgh_Penguins_Women" title="Pittsburgh Penguins">Pittsburgh Penguins</a></li><li><a href="/Tampa_Bay_Lightning_Women" title="Tampa Bay Lightning">Tampa Bay Lightning</a></li><li><a href="/Toronto_Maple_Leafs_Women" title="Toronto Maple Leafs">Toronto Maple Leafs</a></li><li><a href="/Washington_Capitals_Women" title="Washington Capitals">Washington Capitals</a></li></ul></div><div id="navNHLWestern" class="Western"><div id="WesternHeaderID" class="WesternHeaderClass">WesternLogo</div><ul><li><a href="/Anaheim_Ducks_Women" title="Anaheim Ducks">Anaheim Ducks</a></li><li><a href="/Arizona_Coyotes_Women" title="Arizona Coyotes">Arizona Coyotes</a></li><li><a href="/Calgary_Flames_Women" title="Calgary Flames">Calgary Flames</a></li><li><a href="/Chicago_Blackhawks_Women" title="Chicago Blackhawks">Chicago Blackhawks</a></li><li><a href="/Colorado_Avalanche_Women" title="Colorado Avalanche">Colorado Avalanche</a></li><li><a href="/Dallas_Stars_Women" title="Dallas Stars">Dallas Stars</a></li><li><a href="/Edmonton_Oilers_Women" title="Edmonton Oilers">Edmonton Oilers</a></li><li><a href="/Los_Angeles_Kings_Women" title="Los Angeles Kings">Los Angeles Kings</a></li><li><a href="/Minnesota_Wild_Women" title="Minnesota Wild">Minnesota Wild</a></li><li><a href="/Nashville_Predators_Women" title="Nashville Predators">Nashville Predators</a></li><li><a href="/San_Jose_Sharks_Women" title="San Jose Sharks">San Jose Sharks</a></li><li><a href="/St_Louis_Blues_Women" title="St. Louis Blues">St. Louis Blues</a></li><li><a href="/Vancouver_Canucks_Women" title="Vancouver Canucks">Vancouver Canucks</a></li><li><a href="/Winnipeg_Jets_Women" title="Winnipeg Jets">Winnipeg Jets</a></li></ul></div><div id="womenViewAll"><a href="/Women" title="View All">View All</a></div><div class="footerLink"><a href="/NHL_Logo_Gear_Women" title="NHL Logo">NHL Logo</a></div>
+
+</div></div></li>
+<li id="nhlKids" class="headerLI nav2columns clickable"><a href="/Kids" title="Kids" class="headerLink">Kids</a><div class="navPositionWrapper"><div class="navBackgroundWrapper clearfix">
+        <div id="navNHLEastern" class="Western"><div id="EasternHeaderID" class="EasternHeaderClass">EasternLogo</div><ul><li><a href="/Boston_Bruins_Kids" title="Boston Bruins">Boston Bruins</a></li><li><a href="/Buffalo_Sabres_Kids" title="Buffalo Sabres">Buffalo Sabres</a></li><li><a href="/Carolina_Hurricanes_Kids" title="Carolina Hurricanes">Carolina Hurricanes</a></li><li><a href="/Columbus_Blue_Jackets_Kids" title="Columbus Blue Jackets">Columbus Blue Jackets</a></li><li><a href="/Detroit_Red_Wings_Kids" title="Detroit Red Wings">Detroit Red Wings</a></li><li><a href="/Florida_Panthers_Kids" title="Florida Panthers">Florida Panthers</a></li><li><a href="/Montreal_Canadiens_Kids" title="Montreal Canadiens">Montreal Canadiens</a></li><li><a href="/New_Jersey_Devils_Kids" title="New Jersey Devils">New Jersey Devils</a></li><li><a href="/New_York_Islanders_Kids" title="New York Islanders">New York Islanders</a></li><li><a href="/New_York_Rangers_Kids" title="New York Rangers">New York Rangers</a></li><li><a href="/Ottawa_Senators_Kids" title="Ottawa Senators">Ottawa Senators</a></li><li><a href="/Philadelphia_Flyers_Kids" title="Philadelphia Flyers">Philadelphia Flyers</a></li><li><a href="/Pittsburgh_Penguins_Kids" title="Pittsburgh Penguins">Pittsburgh Penguins</a></li><li><a href="/Tampa_Bay_Lightning_Kids" title="Tampa Bay Lightning">Tampa Bay Lightning</a></li><li><a href="/Toronto_Maple_Leafs_Kids" title="Toronto Maple Leafs">Toronto Maple Leafs</a></li><li><a href="/Washington_Capitals_Kids" title="Washington Capitals">Washington Capitals</a></li></ul></div><div id="navNHLWestern" class="Western"><div id="WesternHeaderID" class="WesternHeaderClass">WesternLogo</div><ul><li><a href="/Anaheim_Ducks_Kids" title="Anaheim Ducks">Anaheim Ducks</a></li><li><a href="/Arizona_Coyotes_Kids" title="Arizona Coyotes">Arizona Coyotes</a></li><li><a href="/Calgary_Flames_Kids" title="Calgary Flames">Calgary Flames</a></li><li><a href="/Chicago_Blackhawks_Kids" title="Chicago Blackhawks">Chicago Blackhawks</a></li><li><a href="/Colorado_Avalanche_Kids" title="Colorado Avalanche">Colorado Avalanche</a></li><li><a href="/Dallas_Stars_Kids" title="Dallas Stars">Dallas Stars</a></li><li><a href="/Edmonton_Oilers_Kids" title="Edmonton Oilers">Edmonton Oilers</a></li><li><a href="/Los_Angeles_Kings_Kids" title="Los Angeles Kings">Los Angeles Kings</a></li><li><a href="/Minnesota_Wild_Kids" title="Minnesota Wild">Minnesota Wild</a></li><li><a href="/Nashville_Predators_Kids" title="Nashville Predators">Nashville Predators</a></li><li><a href="/San_Jose_Sharks_Kids" title="San Jose Sharks">San Jose Sharks</a></li><li><a href="/St_Louis_Blues_Kids" title="St. Louis Blues">St. Louis Blues</a></li><li><a href="/Vancouver_Canucks_Kids" title="Vancouver Canucks">Vancouver Canucks</a></li><li><a href="/Winnipeg_Jets_Kids" title="Winnipeg Jets">Winnipeg Jets</a></li></ul></div><div id="kidsViewAll"><a href="/Kids" title="View All">View All</a></div>
+
+</div></div></li>
+<li id="nhlCollectibles" class="headerLI nav2columns clickable"><a href="/Collectibles" title="Collectibles" class="headerLink">Collectibles</a><div class="navPositionWrapper"><div class="navBackgroundWrapper clearfix">
+        <div id="navNHLEastern" class="Western"><div id="EasternHeaderID" class="EasternHeaderClass">EasternLogo</div><ul><li><a href="/Boston_Bruins_Collectibles" title="Boston Bruins">Boston Bruins</a></li><li><a href="/Buffalo_Sabres_Collectibles" title="Buffalo Sabres">Buffalo Sabres</a></li><li><a href="/Carolina_Hurricanes_Collectibles" title="Carolina Hurricanes">Carolina Hurricanes</a></li><li><a href="/Columbus_Blue_Jackets_Collectibles" title="Columbus Blue Jackets">Columbus Blue Jackets</a></li><li><a href="/Detroit_Red_Wings_Collectibles" title="Detroit Red Wings">Detroit Red Wings</a></li><li><a href="/Florida_Panthers_Collectibles" title="Florida Panthers">Florida Panthers</a></li><li><a href="/Montreal_Canadiens_Collectibles" title="Montreal Canadiens">Montreal Canadiens</a></li><li><a href="/New_Jersey_Devils_Collectibles" title="New Jersey Devils">New Jersey Devils</a></li><li><a href="/New_York_Islanders_Collectibles" title="New York Islanders">New York Islanders</a></li><li><a href="/New_York_Rangers_Collectibles" title="New York Rangers">New York Rangers</a></li><li><a href="/Ottawa_Senators_Collectibles" title="Ottawa Senators">Ottawa Senators</a></li><li><a href="/Philadelphia_Flyers_Collectibles" title="Philadelphia Flyers">Philadelphia Flyers</a></li><li><a href="/Pittsburgh_Penguins_Collectibles" title="Pittsburgh Penguins">Pittsburgh Penguins</a></li><li><a href="/Tampa_Bay_Lightning_Collectibles" title="Tampa Bay Lightning">Tampa Bay Lightning</a></li><li><a href="/Toronto_Maple_Leafs_Collectibles" title="Toronto Maple Leafs">Toronto Maple Leafs</a></li><li><a href="/Washington_Capitals_Collectibles" title="Washington Capitals">Washington Capitals</a></li></ul></div><div id="navNHLWestern" class="Western"><div id="WesternHeaderID" class="WesternHeaderClass">WesternLogo</div><ul><li><a href="/Anaheim_Ducks_Collectibles" title="Anaheim Ducks">Anaheim Ducks</a></li><li><a href="/Arizona_Coyotes_Collectibles" title="Arizona Coyotes">Arizona Coyotes</a></li><li><a href="/Calgary_Flames_Collectibles" title="Calgary Flames">Calgary Flames</a></li><li><a href="/Chicago_Blackhawks_Collectibles" title="Chicago Blackhawks">Chicago Blackhawks</a></li><li><a href="/Colorado_Avalanche_Collectibles" title="Colorado Avalanche">Colorado Avalanche</a></li><li><a href="/Dallas_Stars_Collectibles" title="Dallas Stars">Dallas Stars</a></li><li><a href="/Edmonton_Oilers_Collectibles" title="Edmonton Oilers">Edmonton Oilers</a></li><li><a href="/Los_Angeles_Kings_Collectibles" title="Los Angeles Kings">Los Angeles Kings</a></li><li><a href="/Minnesota_Wild_Collectibles" title="Minnesota Wild">Minnesota Wild</a></li><li><a href="/Nashville_Predators_Collectibles" title="Nashville Predators">Nashville Predators</a></li><li><a href="/San_Jose_Sharks_Collectibles" title="San Jose Sharks">San Jose Sharks</a></li><li><a href="/St_Louis_Blues_Collectibles" title="St. Louis Blues">St. Louis Blues</a></li><li><a href="/Vancouver_Canucks_Collectibles" title="Vancouver Canucks">Vancouver Canucks</a></li><li><a href="/Winnipeg_Jets_Collectibles" title="Winnipeg Jets">Winnipeg Jets</a></li></ul></div><div id="collectiblesViewAll"><a href="/Collectibles" title="View All">View All</a></div><div class="footerLink"><a href="/NHL_Logo_Gear_Collectibles" title="NHL Logo">NHL Logo</a></div>
+
+</div></div></li>
+<li id="nhlHomeOffice" class="headerLI nav2columns clickable"><a href="/Home_And_Office" title="Home & Office" class="headerLink">Home & Office</a><div class="navPositionWrapper"><div class="navBackgroundWrapper clearfix">
+        <div id="navNHLEastern" class="Western"><div id="EasternHeaderID" class="EasternHeaderClass">EasternLogo</div><ul><li><a href="/Boston_Bruins_Home_And_Office" title="Boston Bruins">Boston Bruins</a></li><li><a href="/Buffalo_Sabres_Home_And_Office" title="Buffalo Sabres">Buffalo Sabres</a></li><li><a href="/Carolina_Hurricanes_Home_And_Office" title="Carolina Hurricanes">Carolina Hurricanes</a></li><li><a href="/Columbus_Blue_Jackets_Home_And_Office" title="Columbus Blue Jackets">Columbus Blue Jackets</a></li><li><a href="/Detroit_Red_Wings_Home_And_Office" title="Detroit Red Wings">Detroit Red Wings</a></li><li><a href="/Florida_Panthers_Home_And_Office" title="Florida Panthers">Florida Panthers</a></li><li><a href="/Montreal_Canadiens_Home_And_Office" title="Montreal Canadiens">Montreal Canadiens</a></li><li><a href="/New_Jersey_Devils_Home_And_Office" title="New Jersey Devils">New Jersey Devils</a></li><li><a href="/New_York_Islanders_Home_And_Office" title="New York Islanders">New York Islanders</a></li><li><a href="/New_York_Rangers_Home_And_Office" title="New York Rangers">New York Rangers</a></li><li><a href="/Ottawa_Senators_Home_And_Office" title="Ottawa Senators">Ottawa Senators</a></li><li><a href="/Philadelphia_Flyers_Home_And_Office" title="Philadelphia Flyers">Philadelphia Flyers</a></li><li><a href="/Pittsburgh_Penguins_Home_And_Office" title="Pittsburgh Penguins">Pittsburgh Penguins</a></li><li><a href="/Tampa_Bay_Lightning_Home_And_Office" title="Tampa Bay Lightning">Tampa Bay Lightning</a></li><li><a href="/Toronto_Maple_Leafs_Home_And_Office" title="Toronto Maple Leafs">Toronto Maple Leafs</a></li><li><a href="/Washington_Capitals_Home_And_Office" title="Washington Capitals">Washington Capitals</a></li></ul></div><div id="navNHLWestern" class="Western"><div id="WesternHeaderID" class="WesternHeaderClass">WesternLogo</div><ul><li><a href="/Anaheim_Ducks_Home_And_Office" title="Anaheim Ducks">Anaheim Ducks</a></li><li><a href="/Arizona_Coyotes_Home_And_Office" title="Arizona Coyotes">Arizona Coyotes</a></li><li><a href="/Calgary_Flames_Home_And_Office" title="Calgary Flames">Calgary Flames</a></li><li><a href="/Chicago_Blackhawks_Home_And_Office" title="Chicago Blackhawks">Chicago Blackhawks</a></li><li><a href="/Colorado_Avalanche_Home_And_Office" title="Colorado Avalanche">Colorado Avalanche</a></li><li><a href="/Dallas_Stars_Home_And_Office" title="Dallas Stars">Dallas Stars</a></li><li><a href="/Edmonton_Oilers_Home_And_Office" title="Edmonton Oilers">Edmonton Oilers</a></li><li><a href="/Los_Angeles_Kings_Home_And_Office" title="Los Angeles Kings">Los Angeles Kings</a></li><li><a href="/Minnesota_Wild_Home_And_Office" title="Minnesota Wild">Minnesota Wild</a></li><li><a href="/Nashville_Predators_Home_And_Office" title="Nashville Predators">Nashville Predators</a></li><li><a href="/San_Jose_Sharks_Home_And_Office" title="San Jose Sharks">San Jose Sharks</a></li><li><a href="/St_Louis_Blues_Home_And_Office" title="St. Louis Blues">St. Louis Blues</a></li><li><a href="/Vancouver_Canucks_Home_And_Office" title="Vancouver Canucks">Vancouver Canucks</a></li><li><a href="/Winnipeg_Jets_Home_And_Office" title="Winnipeg Jets">Winnipeg Jets</a></li></ul></div><div id="home&officeViewAll"><a href="/Home_And_Office" title="View All">View All</a></div><div class="footerLink"><a href="/NHL_Logo_Gear_Home_And_Office" title="NHL Logo">NHL Logo</a></div>
+
+</div></div></li>
+<li id="nhlPlayers" class="headerLI nav1columns clickable"><a href="/Player_Shop" title="Players" class="headerLink">Players</a></li>
+            <li id="nhlNHLVintage" class="headerLI nav1columns clickable"><a href="/Vintage_Hockey" title="Vintage Hockey" class="headerLink">Vintage Hockey</a><div class="navPositionWrapper"><div class="navBackgroundWrapper clearfix">
+        <div id="vintagehockeyViewAll"><a href="/Vintage_Hockey" title="View All">View All</a></div>
+
+</div></div></li>
+
+    </ul>
+</div>
+
+        
+    <!-- Content Text ID: 1301572 and Content Target ID: 1599891 -->
+<div id="mm_wrapper">
+
+	<div class="hideMe" style="margin-bottom:-4px;">
+	  <img src="//images.footballfanatics.com/partners/leagues/NHL_USA/includes/site/890_HP_Include.jpg" alt="" width="974" height="75" usemap="#includeMap" id="include"/>
+	  <map name="includeMap">
+	    <area shape="rect" coords="3,1,969,72" href="/Outerwear?ab=bm_nhlcms_include_15Outer_111314">
+	  </map>
+	</div><!-- END Banner_Include -->
+	
+</div><!-- END mm_wrapper -->
+
+<!-- End Content Text ID: 1301572 and Content Target ID: 1599891 -->
+    
+    <!-- Start header_additional_navcontent -->
+    
+    <!-- End header_additional_navcontent -->
+
+</div>
+
+                    <!-- End Header -->
+
+                    <!-- Begin ContentPaddingContainer -->
+                    <div id="ContentPaddingContainer">
+                        
+    
+    
+
+    <div id="landingPageWrapper">
+        <div id="browseHeaderContainer" class="clearfix">
+            
+<div class="browseHeaderContainer clearfix ">
+
+    <div class="browseHeaderBreadCrumbsContainer clearfix">
+
+        <div class="">
+            <div class="browseHeaderBreadCrumbs browseHeaderBreadCrumbs" itemscope itemtype="http://www.schema.org/breadcrumb">
+                <a href="/" title="Home Page">HOME</a><span class="breadcrumbSeparator">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</span><a itemprop="url" href="/Jerseys" title="Jerseys"><span itemprop="title">Jerseys</span></a><span class="breadcrumbProductCount">&nbsp;(1362 items)</span></span>
+            </div>
+            <div class="browseHeaderShareLinks">
+                
+            </div>
+        </div>
+
+        
+    </div>
+</div>
+
+
+        </div>
+        <div id="landingPageContentOutsideContainer" class="enableQuickLookHover">
+            <div id="BrowseFullWidthHeader">
+                
+            </div>
+            <div id="SidebarOutsideContainer">
+                <a class="ADAhidden" id="skipLinkLeftNav" href="javascript:;">Left Nav</a>
+                <!-- Begin Left Nav -->
+                <!-- begin LeftNavUpperContentArea -->
+                
+                <!-- end LeftNavUpperContentArea -->
+
+                
+    <div class="SidebarListContainer search">
+        <div class="SidebarTopCap"></div>
+        <h2 class="searchHeader">Search</h2>
+        <form id="leftNavSearchForm" name="leftNavSearchForm" action="" method="post">
+            <div class="searchTop clearfix">
+                <div class="searchTextInputContainer">
+                    <label class="ADAhidden" for="leftNavSearchInput">Search Term:</label>
+                    <input name="leftNavSearchInput" type="text" id="leftNavSearchInput" class="searchTextInput" />
+                </div>
+                <div class="searchButtonInputContainer">
+                    <label class="ADAhidden" for="leftNavSearchButton">Search Button:</label>
+                    <input type="submit" value="" id="leftNavSearchButton" name="leftNavSearchButton" class="leftNavSearchButton searchButtonInput" />
+                </div>
+            </div>
+            
+            <div id="leftnavSearchRowtwo" class="searchBottom">
+                <div class="searchThisTeamContainer">
+                   <span class="searchRadioButton"><input type="radio" id="leftsearchtype1" name="searchtype" value="rbSearchList"  /><label for="leftsearchtype1">Search Within</label></span>
+                   <span class="withinSearchCode">/search/</span>
+                </div>
+                <div class="searchAllItemsContainer">
+                    <span class="searchRadioButton"><input type="radio" id="leftsearchtype2" name="searchtype" value="rbSearchAll" checked="checked" /><label for="leftsearchtype2">All Items</label></span>
+                </div>
+            </div>
+            <div class="SidebarBottomCap"></div>
+        </form>
+    </div>
+
+
+
+                
+<div class="SidebarListContainer guidedLeftNavSelectedContainer leftNavFiltersContainer">
+    <div class="SidebarTopCap"></div>
+    <h2 class="Filters">Your Selections</h2>
+    <div class="filterItemContainer">
+        
+                    <div id="filterdepartment" class="filterItem clearfix">
+                        <div class="filterItemDetails">
+                            <span class="filterKey">Department:</span> 
+                            <span class="filterValue">Jerseys</span> 
+                        </div>
+                        <div class="filterItemRemove">
+                            <a href="/" title="Remove Jerseys Filter" rel="nofollow">X</a>
+                        </div>
+                    </div>
+                
+    </div>
+    <div class="SidebarBottomCap"></div>
+</div>
+
+
+<div class="guidedLeftNavContainer count1 hideFilterBy">
+
+               <div class="SidebarListContainer GuidedHeader clearfix">
+                    <div class="SidebarTopCap"></div>
+                    <h2>Filter By</h2>
+                    <div class="SidebarBottomCap"></div>
+                </div>
+               
+        <div class="SidebarListContainer GuidedFilterContainer  clearfix NHL">
+        
+            <h2 class="NHL " data-filter-key="NHL"><a href="javascript:;" title="collapse NHL">NHL</a></h2>
+        
+            
+
+            <ul class="listClass clearfix "> 
+             
+                      <li class="   anaheim_ducks"><a href="/Anaheim_Ducks_Jerseys" title="Anaheim Ducks" data-filter-value="Anaheim Ducks">Anaheim Ducks</a></li>
+                    
+                      <li class="alt   arizona_coyotes"><a href="/Arizona_Coyotes_Jerseys" title="Arizona Coyotes" data-filter-value="Arizona Coyotes">Arizona Coyotes</a></li>
+                    
+                      <li class="   boston_bruins"><a href="/Boston_Bruins_Jerseys" title="Boston Bruins" data-filter-value="Boston Bruins">Boston Bruins</a></li>
+                    
+                      <li class="alt   buffalo_sabres"><a href="/Buffalo_Sabres_Jerseys" title="Buffalo Sabres" data-filter-value="Buffalo Sabres">Buffalo Sabres</a></li>
+                    
+                      <li class="   calgary_flames"><a href="/Calgary_Flames_Jerseys" title="Calgary Flames" data-filter-value="Calgary Flames">Calgary Flames</a></li>
+                    
+                      <li class="alt   carolina_hurricanes"><a href="/Carolina_Hurricanes_Jerseys" title="Carolina Hurricanes" data-filter-value="Carolina Hurricanes">Carolina Hurricanes</a></li>
+                    
+                      <li class="   chicago_blackhawks"><a href="/Chicago_Blackhawks_Jerseys" title="Chicago Blackhawks" data-filter-value="Chicago Blackhawks">Chicago Blackhawks</a></li>
+                    
+                      <li class="alt   colorado_avalanche"><a href="/Colorado_Avalanche_Jerseys" title="Colorado Avalanche" data-filter-value="Colorado Avalanche">Colorado Avalanche</a></li>
+                    
+                      <li class="   columbus_blue_jackets"><a href="/Columbus_Blue_Jackets_Jerseys" title="Columbus Blue Jackets" data-filter-value="Columbus Blue Jackets">Columbus Blue Jackets</a></li>
+                    
+                      <li class="alt   dallas_stars"><a href="/Dallas_Stars_Jerseys" title="Dallas Stars" data-filter-value="Dallas Stars">Dallas Stars</a></li>
+                    
+                      <li class="   detroit_red_wings"><a href="/Detroit_Red_Wings_Jerseys" title="Detroit Red Wings" data-filter-value="Detroit Red Wings">Detroit Red Wings</a></li>
+                    
+                      <li class="alt   edmonton_oilers"><a href="/Edmonton_Oilers_Jerseys" title="Edmonton Oilers" data-filter-value="Edmonton Oilers">Edmonton Oilers</a></li>
+                    
+                      <li class="   florida_panthers"><a href="/Florida_Panthers_Jerseys" title="Florida Panthers" data-filter-value="Florida Panthers">Florida Panthers</a></li>
+                    
+                      <li class="alt   los_angeles_kings"><a href="/Los_Angeles_Kings_Jerseys" title="Los Angeles Kings" data-filter-value="Los Angeles Kings">Los Angeles Kings</a></li>
+                    
+                      <li class="   minnesota_wild"><a href="/Minnesota_Wild_Jerseys" title="Minnesota Wild" data-filter-value="Minnesota Wild">Minnesota Wild</a></li>
+                    
+                      <li class="alt   montreal_canadiens"><a href="/Montreal_Canadiens_Jerseys" title="Montreal Canadiens" data-filter-value="Montreal Canadiens">Montreal Canadiens</a></li>
+                    
+                      <li class="   nashville_predators"><a href="/Nashville_Predators_Jerseys" title="Nashville Predators" data-filter-value="Nashville Predators">Nashville Predators</a></li>
+                    
+                      <li class="alt   new_jersey_devils"><a href="/New_Jersey_Devils_Jerseys" title="New Jersey Devils" data-filter-value="New Jersey Devils">New Jersey Devils</a></li>
+                    
+                      <li class="   new_york_islanders"><a href="/New_York_Islanders_Jerseys" title="New York Islanders" data-filter-value="New York Islanders">New York Islanders</a></li>
+                    
+                      <li class="alt   new_york_rangers"><a href="/New_York_Rangers_Jerseys" title="New York Rangers" data-filter-value="New York Rangers">New York Rangers</a></li>
+                    
+                      <li class="   ottawa_senators"><a href="/Ottawa_Senators_Jerseys" title="Ottawa Senators" data-filter-value="Ottawa Senators">Ottawa Senators</a></li>
+                    
+                      <li class="alt   philadelphia_flyers"><a href="/Philadelphia_Flyers_Jerseys" title="Philadelphia Flyers" data-filter-value="Philadelphia Flyers">Philadelphia Flyers</a></li>
+                    
+                      <li class="   pittsburgh_penguins"><a href="/Pittsburgh_Penguins_Jerseys" title="Pittsburgh Penguins" data-filter-value="Pittsburgh Penguins">Pittsburgh Penguins</a></li>
+                    
+                      <li class="alt   san_jose_sharks"><a href="/San_Jose_Sharks_Jerseys" title="San Jose Sharks" data-filter-value="San Jose Sharks">San Jose Sharks</a></li>
+                    
+                      <li class="   st._louis_blues"><a href="/St_Louis_Blues_Jerseys" title="St. Louis Blues" data-filter-value="St. Louis Blues">St. Louis Blues</a></li>
+                    
+                      <li class="alt   tampa_bay_lightning"><a href="/Tampa_Bay_Lightning_Jerseys" title="Tampa Bay Lightning" data-filter-value="Tampa Bay Lightning">Tampa Bay Lightning</a></li>
+                    
+                      <li class="   toronto_maple_leafs"><a href="/Toronto_Maple_Leafs_Jerseys" title="Toronto Maple Leafs" data-filter-value="Toronto Maple Leafs">Toronto Maple Leafs</a></li>
+                    
+                      <li class="alt   vancouver_canucks"><a href="/Vancouver_Canucks_Jerseys" title="Vancouver Canucks" data-filter-value="Vancouver Canucks">Vancouver Canucks</a></li>
+                    
+                      <li class="   washington_capitals"><a href="/Washington_Capitals_Jerseys" title="Washington Capitals" data-filter-value="Washington Capitals">Washington Capitals</a></li>
+                    
+                      <li class="alt   winnipeg_jets"><a href="/Winnipeg_Jets_Jerseys" title="Winnipeg Jets" data-filter-value="Winnipeg Jets">Winnipeg Jets</a></li>
+                   
+            </ul>
+        
+        </div>       
+    
+        <div class="SidebarListContainer GuidedFilterContainer  clearfix VintageHockey">
+        
+            <h2 class="VintageHockey " data-filter-key="Vintage Hockey"><a href="javascript:;" title="collapse Vintage Hockey">Vintage Hockey</a></h2>
+        
+            
+
+            <ul class="listClass clearfix "> 
+             
+                      <li class="   hartford_whalers"><a href="/Hartford_Whalers_Jerseys" title="Hartford Whalers" data-filter-value="Hartford Whalers">Hartford Whalers</a></li>
+                    
+                      <li class="alt   minnesota_north_stars"><a href="/Minnesota_North_Stars_Jerseys" title="Minnesota North Stars" data-filter-value="Minnesota North Stars">Minnesota North Stars</a></li>
+                    
+                      <li class="   quebec_nordiques"><a href="/Quebec_Nordiques_Jerseys" title="Quebec Nordiques" data-filter-value="Quebec Nordiques">Quebec Nordiques</a></li>
+                   
+            </ul>
+        
+        </div>       
+    
+        <div class="SidebarListContainer GuidedFilterContainer  clearfix WorldHockey">
+        
+            <h2 class="WorldHockey " data-filter-key="World Hockey"><a href="javascript:;" title="collapse World Hockey">World Hockey</a></h2>
+        
+            
+
+            <ul class="listClass clearfix "> 
+             
+                      <li class="   russia_hockey"><a href="/Russia_Hockey_Jerseys" title="Russia Hockey" data-filter-value="Russia Hockey">Russia Hockey</a></li>
+                    
+                      <li class="alt   us_hockey"><a href="/US_Hockey_Jerseys" title="US Hockey" data-filter-value="US Hockey">US Hockey</a></li>
+                   
+            </ul>
+        
+        </div>       
+    
+        <div class="SidebarListContainer GuidedFilterContainer ShopRunnerIconContainer clearfix Free2-DayShipping">
+        
+            <h2 class="Free2-DayShipping " data-filter-key="Free 2-Day Shipping"><a href="javascript:;" title="collapse Free 2-Day Shipping">Free 2-Day Shipping</a></h2>
+        
+            
+
+            <ul class="listClass clearfix "> 
+             
+                      <li class="  ShopRunnerContainer eligible"><a href="/Jerseys/isshoprunneractive/yes" title="Eligible" data-filter-value="Eligible">Eligible</a></li>
+                   
+            </ul>
+        
+        </div>       
+    
+</div>
+    
+
+
+                <div class="SidebarLowerBodyContent">
+                    
+                </div>
+                
+                <!-- ShopRunner -->
+                <div name="sr_smallBannerDiv"></div>
+                
+                <!-- End Left Nav -->
+            </div>
+            <div id="landingPageContentContainer" class="quicklookEnabled minibagEnabled"  >
+                <a class="ADAhidden" id="skipLinkMainContent" href="javascript:;">Main Content</a>
+                
+                
+                <div class="DLPContentBodyWrapper">
+                    <!-- Content Text ID: 1298327 and Content Target ID: 1566165 -->
+
+<link rel="stylesheet" type="text/css" media="all" href="//nhlshop.frgimages.com/partners/leagues/NHL_USA/fancybox/jquery.fancybox.css">
+
+<style type="text/css">
+  .fancybox-skin{background:#000 !important;}
+  .DLP-A-Spot{
+    background:url(//nhlshop.frgimages.com/partners/leagues/NHL_USA/DLP/Jersey_Cat_ASpot.jpg);
+    width: 778px;
+    height: 370px;
+  }
+  .clickPremiere{
+    display: block;
+    float: left;
+    width: 214px;
+    height: 206px;
+    left: 162px;
+    top: 123px;
+    position: relative;
+  }
+  .clickAuthentic{
+    display: block;
+    float: left;
+    width: 214px;
+    height: 206px;
+    left: 188px;
+    top: 123px;
+    position: relative;
+  }
+  .clickPremiereLM{
+    display: block;
+    width: 214px;
+    height: 24px;
+    left: 163px;
+    top: 329px;
+    position: relative;
+  }
+  .clickAuthenticLM{
+    display: block;
+    width: 214px;
+    height: 24px;
+    left: 402px;
+    top: 305px;
+    position: relative;
+  }
+  .clickPremiere:hover{background:url(//nhlshop.frgimages.com/partners/leagues/NHL_USA/DLP/premiereHover2.png);}
+  .clickAuthentic:hover{background:url(//nhlshop.frgimages.com/partners/leagues/NHL_USA/DLP/authenticHover2.png);}
+  .clickPremiereLM:hover{background:url(//nhlshop.frgimages.com/partners/leagues/NHL_USA/DLP/premiereLearnMore.png);}
+  .clickAuthenticLM:hover{background:url(//nhlshop.frgimages.com/partners/leagues/NHL_USA/DLP/authenticLearnMore.png);}
+  a.B-Spot-Link-1, a.B-Spot-Link-2, a.B-Spot-Link-3{
+    transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -webkit-transition: all .2s ease-in-out;
+  }
+  #premiere-popUp { display: none; background:#000;width: 700px; height:393px; overflow: hidden;}
+  #premiere-holder{
+    background:url(//nhlshop.frgimages.com/partners/leagues/NHL_USA/fancybox/NHL_Video_Thumbnail_LOAD.jpg) no-repeat;
+    width:700px;
+    height:393px;
+  }
+  #authentic-popUp { display: none; background:#000;width: 700px; height:393px; overflow: hidden;}
+  #authentic-holder{
+    background:url(//nhlshop.frgimages.com/partners/leagues/NHL_USA/fancybox/NHL_Video_Thumbnail_LOAD.jpg) no-repeat;
+    width:700px;
+    height:393px;
+  }
+</style>  
+
+<div class="DLP-A-Spot">
+  <a class="clickPremiere" href="/Premier_Jerseys?ab=bm_nhlcms_Jersey_Premier_110614"></a>
+  <a class="clickAuthentic" href="/search/Authentic Custom Jersey?ab=bm_nhlcms_Authentic_Jerseys_110614"></a>
+  <a class="clickPremiereLM" href="#premiere-popUp"></a>
+  <a class="clickAuthenticLM" href="#authentic-popUp" ></a>
+</div>
+
+<div id="premiere-popUp">
+
+  <div id="premiere-holder">
+    <iframe src="//player.vimeo.com/video/109725007?color=fff" width="700" height="393" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  </div>
+
+</div><!-- END premiere-popUp -->
+
+<div id="authentic-popUp">
+
+  <div id="authentic-holder">
+    <iframe src="//player.vimeo.com/video/109725006?color=fff" width="700" height="393" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  </div>
+
+</div><!-- END authentic-popUp -->
+
+<script type="text/javascript" src="//nhlshop.frgimages.com/partners/leagues/NHL_USA/fancybox/jquery.fancybox.js"></script>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $(".clickPremiereLM").fancybox();
+    $(".clickAuthenticLM").fancybox();
+  });
+</script><!-- End Content Text ID: 1298327 and Content Target ID: 1566165 -->
+                </div>
+                
+<div class="teamProductArea">
+    <ul><li id='featured-items'><a href='#tabs-1' title='Featured Items'>Featured Items</a></li><li id='top-sellers'><a href='#tabs-2' title='Top Sellers'>Top Sellers</a></li><li id='new-arrivals'><a href='#tabs-3' title='New Arrivals'>New Arrivals</a></li></ul>
+    <div class="teamProductAreaContainer">
+        
+        <div id="tabs-1" class="productTabProducts">
+            
+            <div class="RowContainer rowContainerShopRunner">
+                
+                <div itemprop="product" itemscope itemtype="http://www.schema.org/Product" class="ItemContainer">
+                    <div class="Item">
+                        <div class="ImageLink biImage">
+                            <a href="/Jerseys/Mens_Washington_Capitals_Alexander_Ovechkin_Reebok_Red_2015_Winter_Classic_Premier_Player_Jersey" title="Mens Washington Capitals Alexander Ovechkin Reebok Red 2015 Winter Classic Premier Player Jersey" rel="nofollow">
+                                                     
+                                        <img itemprop="image" alt="Mens Washington Capitals Alexander Ovechkin Reebok Red 2015 Winter Classic Premier Player Jersey" src="//nhl.frgimages.com/FFImage/thumb.aspx?i=/productImages/_1943000/ff_1943512_xl.jpg&amp;w=180" />
+                                
+                            </a>
+                        </div>
+                        
+                        <div class="qlStaticButtonContainer">
+                          <a class="qlButton qlStaticButton" href="/Jerseys/Mens_Washington_Capitals_Alexander_Ovechkin_Reebok_Red_2015_Winter_Classic_Premier_Player_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1943512" title="Quick View">QuickView</a>
+                        </div>
+                        
+                        <div class="BottomLink">
+                            
+                            <meta itemprop="brand" content="Reebok" />
+                            
+                            <a itemprop="name" href="/Jerseys/Mens_Washington_Capitals_Alexander_Ovechkin_Reebok_Red_2015_Winter_Classic_Premier_Player_Jersey" title="Mens Washington Capitals Alexander Ovechkin Reebok Red 2015 Winter Classic Premier Player Jersey">Mens Washington Capitals Alexander Ovechkin Reebok Red 2015 Winter Classic Premier Player Jersey</a>
+                            <meta itemprop="url" content="http://shop.nhl.com/Jerseys/Mens_Washington_Capitals_Alexander_Ovechkin_Reebok_Red_2015_Winter_Classic_Premier_Player_Jersey" />
+                            <meta itemprop="description" content="Show them you are the #1 Washington Capitals fan with this Premier Player jersey from Reebok! It features high-quality team, player and Winter Classic graphics to showcase your Washington Capitals spirit and excitement for the big game! NHL Shop is your source for officially licensed Washington Capitals gear." />
+                        </div>
+                        <div class="PriceContainer" itemprop="offers" itemscope itemtype="http://www.schema.org/Offer">
+                            <meta itemprop="price" content="179.9500" />
+                            <meta itemprop="priceCurrency" content="USD" />
+                            <meta itemprop="itemCondition" content="NewCondition" />
+                            <meta itemprop="serialNumber" content="1943512" />
+                            <meta itemprop="category" content="Jerseys" />
+                            <div class="Regular">
+                                <p class="regularPrice">
+                                    <span class="regularLabel">Regular:</span> <span class="regularPrice">$179.95</span>
+                                </p>
+                                <p class="salePrice">
+                                    <span class="saleLabel">Sale:</span> <span class="salePrice">$179.95</span>
+                                </p>
+                                <p class="clearancePrice">
+                                    <span class="clearanceLabel">Now:</span> <span class="clearancePrice">$179.95</span>&nbsp;<span class="clearanceLabelAfter">(extra 30% off)</span>
+                                </p>
+                            </div>
+                        </div>
+                        
+<div class="prStarsOnlyContainer" title="Rating of 5" data-stars="5">
+    <div class="prStars rating-5_0">&nbsp;</div>
+</div>
+
+                    </div>
+			            
+				       <a class="qlButton ADAhidden" href="/Jerseys/Mens_Washington_Capitals_Alexander_Ovechkin_Reebok_Red_2015_Winter_Classic_Premier_Player_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1943512" title="Quick View">QuickView</a>
+			            
+                </div>
+                
+                <div itemprop="product" itemscope itemtype="http://www.schema.org/Product" class="ItemContainer">
+                    <div class="Item">
+                        <div class="ImageLink biImage">
+                            <a href="/Jerseys/Mens_Pittsburgh_Penguins_Reebok_Black_2014_PREMIER_Alternate_Custom_Jersey" title="Mens Pittsburgh Penguins Reebok Black 2014 PREMIER Alternate Custom Jersey" rel="nofollow">
+                                                     
+                                        <img itemprop="image" alt="Mens Pittsburgh Penguins Reebok Black 2014 PREMIER Alternate Custom Jersey" src="//nhl.frgimages.com/FFImage/thumb.aspx?i=/productImages/_1943000/ff_1943592_xl.jpg&amp;w=180" />
+                                
+                            </a>
+                        </div>
+                        
+                        <div class="qlStaticButtonContainer">
+                          <a class="qlButton qlStaticButton" href="/Jerseys/Mens_Pittsburgh_Penguins_Reebok_Black_2014_PREMIER_Alternate_Custom_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1943592" title="Quick View">QuickView</a>
+                        </div>
+                        
+                        <div class="BottomLink">
+                            
+                            <a itemprop="name" href="/Jerseys/Mens_Pittsburgh_Penguins_Reebok_Black_2014_PREMIER_Alternate_Custom_Jersey" title="Mens Pittsburgh Penguins Reebok Black 2014 PREMIER Alternate Custom Jersey">Mens Pittsburgh Penguins Reebok Black 2014 PREMIER Alternate Custom Jersey</a>
+                            <meta itemprop="url" content="http://shop.nhl.com/Jerseys/Mens_Pittsburgh_Penguins_Reebok_Black_2014_PREMIER_Alternate_Custom_Jersey" />
+                            <meta itemprop="description" content="Customizing this Reebok Premier jersey is the perfect way to support your favorite team! The front crest is embroidered just like the authentic jersey, and your personalized name and number in single-layer printed twill are heat-pressed onto the back and sleeves. Due to the customized nature of this product, this item cannot be returned or refunded. Once an order is submitted, changes cannot be made and the order cannot be cancelled. Damaged items will be exchanged for the same item." />
+                        </div>
+                        <div class="PriceContainer" itemprop="offers" itemscope itemtype="http://www.schema.org/Offer">
+                            <meta itemprop="price" content="184.9500" />
+                            <meta itemprop="priceCurrency" content="USD" />
+                            <meta itemprop="itemCondition" content="NewCondition" />
+                            <meta itemprop="serialNumber" content="1943592" />
+                            <meta itemprop="category" content="Jerseys" />
+                            <div class="Regular">
+                                <p class="regularPrice">
+                                    <span class="regularLabel">Regular:</span> <span class="regularPrice">$184.95</span>
+                                </p>
+                                <p class="salePrice">
+                                    <span class="saleLabel">Sale:</span> <span class="salePrice">$184.95</span>
+                                </p>
+                                <p class="clearancePrice">
+                                    <span class="clearanceLabel">Now:</span> <span class="clearancePrice">$184.95</span>&nbsp;<span class="clearanceLabelAfter">(extra 30% off)</span>
+                                </p>
+                            </div>
+                        </div>
+                        
+                    </div>
+			            
+				       <a class="qlButton ADAhidden" href="/Jerseys/Mens_Pittsburgh_Penguins_Reebok_Black_2014_PREMIER_Alternate_Custom_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1943592" title="Quick View">QuickView</a>
+			            
+                </div>
+                
+                <div itemprop="product" itemscope itemtype="http://www.schema.org/Product" class="ItemContainer itemContainerShopRunner">
+                    <div class="Item itemShopRunner">
+                        <div class="ImageLink biImage">
+                            <a href="/Jerseys/Mens_Philadelphia_Flyers_Claude_Giroux_Reebok_Orange_New_2014_Premier_Alternate_Jersey" title="Mens Philadelphia Flyers Claude Giroux Reebok Orange New 2014 Premier Alternate Jersey" rel="nofollow">
+                                                     
+                                        <img itemprop="image" alt="Mens Philadelphia Flyers Claude Giroux Reebok Orange New 2014 Premier Alternate Jersey" src="//nhl.frgimages.com/FFImage/thumb.aspx?i=/productImages/_1668000/ff_1668354_xl.jpg&amp;w=180" />
+                                
+                            </a>
+                        </div>
+                        
+                        <div class="qlStaticButtonContainer">
+                          <a class="qlButton qlStaticButton" href="/Jerseys/Mens_Philadelphia_Flyers_Claude_Giroux_Reebok_Orange_New_2014_Premier_Alternate_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1668354" title="Quick View">QuickView</a>
+                        </div>
+                        
+                        <div class="BottomLink">
+                            
+                            <meta itemprop="brand" content="Reebok" />
+                            
+                            <a itemprop="name" href="/Jerseys/Mens_Philadelphia_Flyers_Claude_Giroux_Reebok_Orange_New_2014_Premier_Alternate_Jersey" title="Mens Philadelphia Flyers Claude Giroux Reebok Orange New 2014 Premier Alternate Jersey">Mens Philadelphia Flyers Claude Giroux Reebok Orange New 2014 Premier Alternate Jersey</a>
+                            <meta itemprop="url" content="http://shop.nhl.com/Jerseys/Mens_Philadelphia_Flyers_Claude_Giroux_Reebok_Orange_New_2014_Premier_Alternate_Jersey" />
+                            <meta itemprop="description" content="Prove you are the #1 Philadelphia Flyers fan with this Replica Player jersey! You love watching Claude Giroux take control of the puck while skating circles around the other team. With printed Philadelphia Flyers and Claude Giroux graphics, this jersey from Reebok is the perfect way to support the Philadelphia Flyers. NHL Shop is your source for officially licensed Philadelphia Flyers gear." />
+                        </div>
+                        <div class="PriceContainer" itemprop="offers" itemscope itemtype="http://www.schema.org/Offer">
+                            <meta itemprop="price" content="169.9500" />
+                            <meta itemprop="priceCurrency" content="USD" />
+                            <meta itemprop="itemCondition" content="NewCondition" />
+                            <meta itemprop="serialNumber" content="1668354" />
+                            <meta itemprop="category" content="Jerseys" />
+                            <div class="Regular">
+                                <p class="regularPrice">
+                                    <span class="regularLabel">Regular:</span> <span class="regularPrice">$169.95</span>
+                                </p>
+                                <p class="salePrice">
+                                    <span class="saleLabel">Sale:</span> <span class="salePrice">$169.95</span>
+                                </p>
+                                <p class="clearancePrice">
+                                    <span class="clearanceLabel">Now:</span> <span class="clearancePrice">$169.95</span>&nbsp;<span class="clearanceLabelAfter">(extra 30% off)</span>
+                                </p>
+                            </div>
+                        </div>
+                        
+<div class="prStarsOnlyContainer" title="Rating of 5" data-stars="5">
+    <div class="prStars rating-5_0">&nbsp;</div>
+</div>
+
+                    </div>
+			            
+				       <a class="qlButton ADAhidden" href="/Jerseys/Mens_Philadelphia_Flyers_Claude_Giroux_Reebok_Orange_New_2014_Premier_Alternate_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1668354" title="Quick View">QuickView</a>
+			            
+                    <!-- ShopRunner -->
+                    <div name="sr_catalogProductGridDiv" class="catalogProductGridDiv"></div>
+                    
+                </div>
+                
+                <div itemprop="product" itemscope itemtype="http://www.schema.org/Product" class="ItemContainer itemContainerShopRunner">
+                    <div class="Item itemShopRunner">
+                        <div class="ImageLink biImage">
+                            <a href="/Jerseys/Mens_Chicago_Blackhawks_Jonathan_Toews_Reebok_Charcoal_Cross_Check_Premier_Fashion_Jersey" title="Mens Chicago Blackhawks Jonathan Toews Reebok Charcoal Cross Check Premier Fashion Jersey" rel="nofollow">
+                                                     
+                                        <img itemprop="image" alt="Mens Chicago Blackhawks Jonathan Toews Reebok Charcoal Cross Check Premier Fashion Jersey" src="//nhl.frgimages.com/FFImage/thumb.aspx?i=/productImages/_1797000/ff_1797424_xl.jpg&amp;w=180" />
+                                
+                            </a>
+                        </div>
+                        
+                        <div class="qlStaticButtonContainer">
+                          <a class="qlButton qlStaticButton" href="/Jerseys/Mens_Chicago_Blackhawks_Jonathan_Toews_Reebok_Charcoal_Cross_Check_Premier_Fashion_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1797424" title="Quick View">QuickView</a>
+                        </div>
+                        
+                        <div class="BottomLink">
+                            
+                            <meta itemprop="brand" content="Reebok" />
+                            
+                            <a itemprop="name" href="/Jerseys/Mens_Chicago_Blackhawks_Jonathan_Toews_Reebok_Charcoal_Cross_Check_Premier_Fashion_Jersey" title="Mens Chicago Blackhawks Jonathan Toews Reebok Charcoal Cross Check Premier Fashion Jersey">Mens Chicago Blackhawks Jonathan Toews Reebok Charcoal Cross Check Premier Fashion Jersey</a>
+                            <meta itemprop="url" content="http://shop.nhl.com/Jerseys/Mens_Chicago_Blackhawks_Jonathan_Toews_Reebok_Charcoal_Cross_Check_Premier_Fashion_Jersey" />
+                            <meta itemprop="description" content="Show them you are the #1 Chicago Blackhawks fan with this Cross Check Premier fashion jersey from Reebok ! This Jonathan Toews jersey features a large Chicago Blackhawks logo on the front, along with stylish Jonathan Toews graphics on the back. You’ll be ready to join your Chicago Blackhawks on game day when you throw on this jersey! NHL Shop is your source for officially licensed Chicago Blackhawks gear." />
+                        </div>
+                        <div class="PriceContainer" itemprop="offers" itemscope itemtype="http://www.schema.org/Offer">
+                            <meta itemprop="price" content="169.9500" />
+                            <meta itemprop="priceCurrency" content="USD" />
+                            <meta itemprop="itemCondition" content="NewCondition" />
+                            <meta itemprop="serialNumber" content="1797424" />
+                            <meta itemprop="category" content="Jerseys" />
+                            <div class="Regular">
+                                <p class="regularPrice">
+                                    <span class="regularLabel">Regular:</span> <span class="regularPrice">$169.95</span>
+                                </p>
+                                <p class="salePrice">
+                                    <span class="saleLabel">Sale:</span> <span class="salePrice">$169.95</span>
+                                </p>
+                                <p class="clearancePrice">
+                                    <span class="clearanceLabel">Now:</span> <span class="clearancePrice">$169.95</span>&nbsp;<span class="clearanceLabelAfter">(extra 30% off)</span>
+                                </p>
+                            </div>
+                        </div>
+                        
+                    </div>
+			            
+				       <a class="qlButton ADAhidden" href="/Jerseys/Mens_Chicago_Blackhawks_Jonathan_Toews_Reebok_Charcoal_Cross_Check_Premier_Fashion_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1797424" title="Quick View">QuickView</a>
+			            
+                    <!-- ShopRunner -->
+                    <div name="sr_catalogProductGridDiv" class="catalogProductGridDiv"></div>
+                    
+                </div>
+                
+            </div>
+            
+            <div class="RowContainer rowContainerShopRunner">
+                
+                <div itemprop="product" itemscope itemtype="http://www.schema.org/Product" class="ItemContainer itemContainerShopRunner">
+                    <div class="Item itemShopRunner">
+                        <div class="ImageLink biImage">
+                            <a href="/Jerseys/Youth_St._Louis_Blues_David_Backes_Reebok_Royal_Blue_Replica_Player_Hockey_Jersey" title="Youth St. Louis Blues David Backes Reebok Royal Blue Replica Player Hockey Jersey" rel="nofollow">
+                                                     
+                                        <img itemprop="image" alt="Youth St. Louis Blues David Backes Reebok Royal Blue Replica Player Hockey Jersey" src="//nhl.frgimages.com/FFImage/thumb.aspx?i=/productImages/_1660000/ff_1660601_xl.jpg&amp;w=180" />
+                                
+                            </a>
+                        </div>
+                        
+                        <div class="qlStaticButtonContainer">
+                          <a class="qlButton qlStaticButton" href="/Jerseys/Youth_St._Louis_Blues_David_Backes_Reebok_Royal_Blue_Replica_Player_Hockey_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1660601" title="Quick View">QuickView</a>
+                        </div>
+                        
+                        <div class="BottomLink">
+                            
+                            <a itemprop="name" href="/Jerseys/Youth_St._Louis_Blues_David_Backes_Reebok_Royal_Blue_Replica_Player_Hockey_Jersey" title="Youth St. Louis Blues David Backes Reebok Royal Blue Replica Player Hockey Jersey">Youth St. Louis Blues David Backes Reebok Royal Blue Replica Player Hockey Jersey</a>
+                            <meta itemprop="url" content="http://shop.nhl.com/Jerseys/Youth_St._Louis_Blues_David_Backes_Reebok_Royal_Blue_Replica_Player_Hockey_Jersey" />
+                            <meta itemprop="description" content="Prove your kid is the #1 St. Louis Blues fan with this Reebok Replica Player jersey! He can boast his team spirit while wearing this St. Louis Blues jersey. It features printed New York Islanders and David Backes graphics, showing the world who he cheers for. NHL Shop is your source for officially licensed St. Louis Blues gear." />
+                        </div>
+                        <div class="PriceContainer" itemprop="offers" itemscope itemtype="http://www.schema.org/Offer">
+                            <meta itemprop="price" content="64.9500" />
+                            <meta itemprop="priceCurrency" content="USD" />
+                            <meta itemprop="itemCondition" content="NewCondition" />
+                            <meta itemprop="serialNumber" content="1660601" />
+                            <meta itemprop="category" content="Jerseys" />
+                            <div class="Regular">
+                                <p class="regularPrice">
+                                    <span class="regularLabel">Regular:</span> <span class="regularPrice">$64.95</span>
+                                </p>
+                                <p class="salePrice">
+                                    <span class="saleLabel">Sale:</span> <span class="salePrice">$64.95</span>
+                                </p>
+                                <p class="clearancePrice">
+                                    <span class="clearanceLabel">Now:</span> <span class="clearancePrice">$64.95</span>&nbsp;<span class="clearanceLabelAfter">(extra 30% off)</span>
+                                </p>
+                            </div>
+                        </div>
+                        
+                    </div>
+			            
+				       <a class="qlButton ADAhidden" href="/Jerseys/Youth_St._Louis_Blues_David_Backes_Reebok_Royal_Blue_Replica_Player_Hockey_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1660601" title="Quick View">QuickView</a>
+			            
+                    <!-- ShopRunner -->
+                    <div name="sr_catalogProductGridDiv" class="catalogProductGridDiv"></div>
+                    
+                </div>
+                
+                <div itemprop="product" itemscope itemtype="http://www.schema.org/Product" class="ItemContainer itemContainerShopRunner">
+                    <div class="Item itemShopRunner">
+                        <div class="ImageLink biImage">
+                            <a href="/Jerseys/Mens_Anaheim_Ducks_Corey_Perry_Reebok_White_Premier_Player_Jersey" title="Mens Anaheim Ducks Corey Perry Reebok White Premier Player Jersey" rel="nofollow">
+                                                     
+                                        <img itemprop="image" alt="Mens Anaheim Ducks Corey Perry Reebok White Premier Player Jersey" src="//nhl.frgimages.com/FFImage/thumb.aspx?i=/productImages/_1668000/ff_1668353_xl.jpg&amp;w=180" />
+                                
+                            </a>
+                        </div>
+                        
+                        <div class="qlStaticButtonContainer">
+                          <a class="qlButton qlStaticButton" href="/Jerseys/Mens_Anaheim_Ducks_Corey_Perry_Reebok_White_Premier_Player_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1668353" title="Quick View">QuickView</a>
+                        </div>
+                        
+                        <div class="BottomLink">
+                            
+                            <meta itemprop="brand" content="Reebok" />
+                            
+                            <a itemprop="name" href="/Jerseys/Mens_Anaheim_Ducks_Corey_Perry_Reebok_White_Premier_Player_Jersey" title="Mens Anaheim Ducks Corey Perry Reebok White Premier Player Jersey">Mens Anaheim Ducks Corey Perry Reebok White Premier Player Jersey</a>
+                            <meta itemprop="url" content="http://shop.nhl.com/Jerseys/Mens_Anaheim_Ducks_Corey_Perry_Reebok_White_Premier_Player_Jersey" />
+                            <meta itemprop="description" content="Prove you are the #1 Anaheim Ducks fan with this Replica Player jersey! You love watching Corey Perry take control of the puck while skating circles around the other team. With printed Anaheim Ducks and Corey Perry graphics, this jersey from Reebok is the perfect way to support the Anaheim Ducks. NHL Shop is your source for officially licensed Anaheim Ducks gear." />
+                        </div>
+                        <div class="PriceContainer" itemprop="offers" itemscope itemtype="http://www.schema.org/Offer">
+                            <meta itemprop="price" content="169.9500" />
+                            <meta itemprop="priceCurrency" content="USD" />
+                            <meta itemprop="itemCondition" content="NewCondition" />
+                            <meta itemprop="serialNumber" content="1668353" />
+                            <meta itemprop="category" content="Jerseys" />
+                            <div class="Regular">
+                                <p class="regularPrice">
+                                    <span class="regularLabel">Regular:</span> <span class="regularPrice">$169.95</span>
+                                </p>
+                                <p class="salePrice">
+                                    <span class="saleLabel">Sale:</span> <span class="salePrice">$169.95</span>
+                                </p>
+                                <p class="clearancePrice">
+                                    <span class="clearanceLabel">Now:</span> <span class="clearancePrice">$169.95</span>&nbsp;<span class="clearanceLabelAfter">(extra 30% off)</span>
+                                </p>
+                            </div>
+                        </div>
+                        
+                    </div>
+			            
+				       <a class="qlButton ADAhidden" href="/Jerseys/Mens_Anaheim_Ducks_Corey_Perry_Reebok_White_Premier_Player_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1668353" title="Quick View">QuickView</a>
+			            
+                    <!-- ShopRunner -->
+                    <div name="sr_catalogProductGridDiv" class="catalogProductGridDiv"></div>
+                    
+                </div>
+                
+                <div itemprop="product" itemscope itemtype="http://www.schema.org/Product" class="ItemContainer itemContainerShopRunner">
+                    <div class="Item itemShopRunner">
+                        <div class="ImageLink biImage">
+                            <a href="/Jerseys/Mens_Florida_Panthers_Brian_Campbell_Reebok_Red_Premier_Player_Jersey" title="Mens Florida Panthers Brian Campbell Reebok Red Premier Player Jersey" rel="nofollow">
+                                                     
+                                        <img itemprop="image" alt="Mens Florida Panthers Brian Campbell Reebok Red Premier Player Jersey" src="//nhl.frgimages.com/FFImage/thumb.aspx?i=/productImages/_1607000/ff_1607632_xl.jpg&amp;w=180" />
+                                
+                            </a>
+                        </div>
+                        
+                        <div class="qlStaticButtonContainer">
+                          <a class="qlButton qlStaticButton" href="/Jerseys/Mens_Florida_Panthers_Brian_Campbell_Reebok_Red_Premier_Player_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1607632" title="Quick View">QuickView</a>
+                        </div>
+                        
+                        <div class="BottomLink">
+                            
+                            <meta itemprop="brand" content="Reebok" />
+                            
+                            <a itemprop="name" href="/Jerseys/Mens_Florida_Panthers_Brian_Campbell_Reebok_Red_Premier_Player_Jersey" title="Mens Florida Panthers Brian Campbell Reebok Red Premier Player Jersey">Mens Florida Panthers Brian Campbell Reebok Red Premier Player Jersey</a>
+                            <meta itemprop="url" content="http://shop.nhl.com/Jerseys/Mens_Florida_Panthers_Brian_Campbell_Reebok_Red_Premier_Player_Jersey" />
+                            <meta itemprop="description" content="Prove you are the #1 Florida Panthers fan with this Replica Player jersey! You love watching Brian Campbell take control of the puck while skating circles around the other team. With printed Florida Panthers and Brian Campbell graphics, this jersey from Reebok is the perfect way to support the Florida Panthers. NHL Shop is your source for officially licensed Florida Panthers gear." />
+                        </div>
+                        <div class="PriceContainer" itemprop="offers" itemscope itemtype="http://www.schema.org/Offer">
+                            <meta itemprop="price" content="169.9500" />
+                            <meta itemprop="priceCurrency" content="USD" />
+                            <meta itemprop="itemCondition" content="NewCondition" />
+                            <meta itemprop="serialNumber" content="1607632" />
+                            <meta itemprop="category" content="Jerseys" />
+                            <div class="Regular">
+                                <p class="regularPrice">
+                                    <span class="regularLabel">Regular:</span> <span class="regularPrice">$169.95</span>
+                                </p>
+                                <p class="salePrice">
+                                    <span class="saleLabel">Sale:</span> <span class="salePrice">$169.95</span>
+                                </p>
+                                <p class="clearancePrice">
+                                    <span class="clearanceLabel">Now:</span> <span class="clearancePrice">$169.95</span>&nbsp;<span class="clearanceLabelAfter">(extra 30% off)</span>
+                                </p>
+                            </div>
+                        </div>
+                        
+                    </div>
+			            
+				       <a class="qlButton ADAhidden" href="/Jerseys/Mens_Florida_Panthers_Brian_Campbell_Reebok_Red_Premier_Player_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1607632" title="Quick View">QuickView</a>
+			            
+                    <!-- ShopRunner -->
+                    <div name="sr_catalogProductGridDiv" class="catalogProductGridDiv"></div>
+                    
+                </div>
+                
+                <div itemprop="product" itemscope itemtype="http://www.schema.org/Product" class="ItemContainer itemContainerShopRunner">
+                    <div class="Item itemShopRunner">
+                        <div class="ImageLink biImage">
+                            <a href="/Jerseys/Womens_Dallas_Stars_Tyler_Seguin_Reebok_Green_Premier_Player_Jersey" title="Women&#39;s Dallas Stars Tyler Seguin Reebok Green Premier Player Jersey" rel="nofollow">
+                                                     
+                                        <img itemprop="image" alt="Women&#39;s Dallas Stars Tyler Seguin Reebok Green Premier Player Jersey" src="//nhl.frgimages.com/FFImage/thumb.aspx?i=/productImages/_1635000/ff_1635754_xl.jpg&amp;w=180" />
+                                
+                            </a>
+                        </div>
+                        
+                        <div class="qlStaticButtonContainer">
+                          <a class="qlButton qlStaticButton" href="/Jerseys/Womens_Dallas_Stars_Tyler_Seguin_Reebok_Green_Premier_Player_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1635754" title="Quick View">QuickView</a>
+                        </div>
+                        
+                        <div class="BottomLink">
+                            
+                            <meta itemprop="brand" content="Reebok" />
+                            
+                            <a itemprop="name" href="/Jerseys/Womens_Dallas_Stars_Tyler_Seguin_Reebok_Green_Premier_Player_Jersey" title="Women&#39;s Dallas Stars Tyler Seguin Reebok Green Premier Player Jersey">Women's Dallas Stars Tyler Seguin Reebok Green Premier Player Jersey</a>
+                            <meta itemprop="url" content="http://shop.nhl.com/Jerseys/Womens_Dallas_Stars_Tyler_Seguin_Reebok_Green_Premier_Player_Jersey" />
+                            <meta itemprop="description" content="Prove you are the #1 Dallas Stars fan with this Tyler Seguin Premier Player jersey from Reebok! This jersey is perfect for the Dallas Stars fan who wants a great new way to show some spirit for the home team. It features authentic graphics and logos along with vibrant team colors and realistic tackle twill lettering that will make you feel like you&#39;re on the ice! NHL Shop is your source for officially licensed Dallas Stars gear." />
+                        </div>
+                        <div class="PriceContainer" itemprop="offers" itemscope itemtype="http://www.schema.org/Offer">
+                            <meta itemprop="price" content="129.9500" />
+                            <meta itemprop="priceCurrency" content="USD" />
+                            <meta itemprop="itemCondition" content="NewCondition" />
+                            <meta itemprop="serialNumber" content="1635754" />
+                            <meta itemprop="category" content="Jerseys" />
+                            <div class="Regular">
+                                <p class="regularPrice">
+                                    <span class="regularLabel">Regular:</span> <span class="regularPrice">$129.95</span>
+                                </p>
+                                <p class="salePrice">
+                                    <span class="saleLabel">Sale:</span> <span class="salePrice">$129.95</span>
+                                </p>
+                                <p class="clearancePrice">
+                                    <span class="clearanceLabel">Now:</span> <span class="clearancePrice">$129.95</span>&nbsp;<span class="clearanceLabelAfter">(extra 30% off)</span>
+                                </p>
+                            </div>
+                        </div>
+                        
+                    </div>
+			            
+				       <a class="qlButton ADAhidden" href="/Jerseys/Womens_Dallas_Stars_Tyler_Seguin_Reebok_Green_Premier_Player_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1635754" title="Quick View">QuickView</a>
+			            
+                    <!-- ShopRunner -->
+                    <div name="sr_catalogProductGridDiv" class="catalogProductGridDiv"></div>
+                    
+                </div>
+                
+            </div>
+            
+        </div>
+        
+        <div id="tabs-2" class="productTabProducts">
+            
+            <div class="RowContainer rowContainerShopRunner">
+                
+                <div itemprop="product" itemscope itemtype="http://www.schema.org/Product" class="ItemContainer">
+                    <div class="Item">
+                        <div class="ImageLink biImage">
+                            <a href="/Jerseys/Mens_Chicago_Blackhawks_Patrick_Kane_Reebok_White_2015_Winter_Classic_Premier_Player_Jersey" title="Mens Chicago Blackhawks Patrick Kane Reebok White 2015 Winter Classic Premier Player Jersey" rel="nofollow">
+                                                     
+                                        <img itemprop="image" alt="Mens Chicago Blackhawks Patrick Kane Reebok White 2015 Winter Classic Premier Player Jersey" src="//nhl.frgimages.com/FFImage/thumb.aspx?i=/productImages/_1943000/ff_1943506_xl.jpg&amp;w=180" />
+                                
+                            </a>
+                        </div>
+                        
+                        <div class="qlStaticButtonContainer">
+                          <a class="qlButton qlStaticButton" href="/Jerseys/Mens_Chicago_Blackhawks_Patrick_Kane_Reebok_White_2015_Winter_Classic_Premier_Player_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1943506" title="Quick View">QuickView</a>
+                        </div>
+                        
+                        <div class="BottomLink">
+                            
+                            <meta itemprop="brand" content="Reebok" />
+                            
+                            <a itemprop="name" href="/Jerseys/Mens_Chicago_Blackhawks_Patrick_Kane_Reebok_White_2015_Winter_Classic_Premier_Player_Jersey" title="Mens Chicago Blackhawks Patrick Kane Reebok White 2015 Winter Classic Premier Player Jersey">Mens Chicago Blackhawks Patrick Kane Reebok White 2015 Winter Classic Premier Player Jersey</a>
+                            <meta itemprop="url" content="http://shop.nhl.com/Jerseys/Mens_Chicago_Blackhawks_Patrick_Kane_Reebok_White_2015_Winter_Classic_Premier_Player_Jersey" />
+                            <meta itemprop="description" content="Show them you are the #1 Chicago Blackhawks fan with this Premier Player jersey from Reebok! It features high-quality team, player and Winter Classic graphics to showcase your Chicago Blackhawks spirit and excitement for the big game! NHL Shop is your source for officially licensed Chicago Blackhawks gear." />
+                        </div>
+                        <div class="PriceContainer" itemprop="offers" itemscope itemtype="http://www.schema.org/Offer">
+                            <meta itemprop="price" content="179.9500" />
+                            <meta itemprop="priceCurrency" content="USD" />
+                            <meta itemprop="itemCondition" content="NewCondition" />
+                            <meta itemprop="serialNumber" content="1943506" />
+                            <meta itemprop="category" content="Jerseys" />
+                            <div class="Regular">
+                                <p class="regularPrice">
+                                    <span class="regularLabel">Regular:</span> <span class="regularPrice">$179.95</span>
+                                </p>
+                                <p class="salePrice">
+                                    <span class="saleLabel">Sale:</span> <span class="salePrice">$179.95</span>
+                                </p>
+                                <p class="clearancePrice">
+                                    <span class="clearanceLabel">Now:</span> <span class="clearancePrice">$179.95</span>&nbsp;<span class="clearanceLabelAfter">(extra 30% off)</span>
+                                </p>
+                            </div>
+                        </div>
+                        
+                    </div>
+			            
+				       <a class="qlButton ADAhidden" href="/Jerseys/Mens_Chicago_Blackhawks_Patrick_Kane_Reebok_White_2015_Winter_Classic_Premier_Player_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1943506" title="Quick View">QuickView</a>
+			            
+                </div>
+                
+                <div itemprop="product" itemscope itemtype="http://www.schema.org/Product" class="ItemContainer">
+                    <div class="Item">
+                        <div class="ImageLink biImage">
+                            <a href="/Jerseys/Mens_Chicago_Blackhawks_Jonathan_Toews_Reebok_White_2015_Winter_Classic_Premier_Player_Jersey" title="Mens Chicago Blackhawks Jonathan Toews Reebok White 2015 Winter Classic Premier Player Jersey" rel="nofollow">
+                                                     
+                                        <img itemprop="image" alt="Mens Chicago Blackhawks Jonathan Toews Reebok White 2015 Winter Classic Premier Player Jersey" src="//nhl.frgimages.com/FFImage/thumb.aspx?i=/productImages/_1943000/ff_1943508_xl.jpg&amp;w=180" />
+                                
+                            </a>
+                        </div>
+                        
+                        <div class="qlStaticButtonContainer">
+                          <a class="qlButton qlStaticButton" href="/Jerseys/Mens_Chicago_Blackhawks_Jonathan_Toews_Reebok_White_2015_Winter_Classic_Premier_Player_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1943508" title="Quick View">QuickView</a>
+                        </div>
+                        
+                        <div class="BottomLink">
+                            
+                            <meta itemprop="brand" content="Reebok" />
+                            
+                            <a itemprop="name" href="/Jerseys/Mens_Chicago_Blackhawks_Jonathan_Toews_Reebok_White_2015_Winter_Classic_Premier_Player_Jersey" title="Mens Chicago Blackhawks Jonathan Toews Reebok White 2015 Winter Classic Premier Player Jersey">Mens Chicago Blackhawks Jonathan Toews Reebok White 2015 Winter Classic Premier Player Jersey</a>
+                            <meta itemprop="url" content="http://shop.nhl.com/Jerseys/Mens_Chicago_Blackhawks_Jonathan_Toews_Reebok_White_2015_Winter_Classic_Premier_Player_Jersey" />
+                            <meta itemprop="description" content="Show them you are the #1 Chicago Blackhawks fan with this Premier Player jersey from Reebok! It features high-quality team, player and Winter Classic graphics to showcase your Chicago Blackhawks spirit and excitement for the big game! NHL Shop is your source for officially licensed Chicago Blackhawks gear." />
+                        </div>
+                        <div class="PriceContainer" itemprop="offers" itemscope itemtype="http://www.schema.org/Offer">
+                            <meta itemprop="price" content="179.9500" />
+                            <meta itemprop="priceCurrency" content="USD" />
+                            <meta itemprop="itemCondition" content="NewCondition" />
+                            <meta itemprop="serialNumber" content="1943508" />
+                            <meta itemprop="category" content="Jerseys" />
+                            <div class="Regular">
+                                <p class="regularPrice">
+                                    <span class="regularLabel">Regular:</span> <span class="regularPrice">$179.95</span>
+                                </p>
+                                <p class="salePrice">
+                                    <span class="saleLabel">Sale:</span> <span class="salePrice">$179.95</span>
+                                </p>
+                                <p class="clearancePrice">
+                                    <span class="clearanceLabel">Now:</span> <span class="clearancePrice">$179.95</span>&nbsp;<span class="clearanceLabelAfter">(extra 30% off)</span>
+                                </p>
+                            </div>
+                        </div>
+                        
+                    </div>
+			            
+				       <a class="qlButton ADAhidden" href="/Jerseys/Mens_Chicago_Blackhawks_Jonathan_Toews_Reebok_White_2015_Winter_Classic_Premier_Player_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1943508" title="Quick View">QuickView</a>
+			            
+                </div>
+                
+                <div itemprop="product" itemscope itemtype="http://www.schema.org/Product" class="ItemContainer itemContainerShopRunner">
+                    <div class="Item itemShopRunner">
+                        <div class="ImageLink biImage">
+                            <a href="/Jerseys/Mens_Anaheim_Ducks_Reebok_Digital_Camo_Military_Practice_Jersey" title="Mens Anaheim Ducks Reebok Digital Camo Military Practice Jersey" rel="nofollow">
+                                                     
+                                        <img itemprop="image" alt="Mens Anaheim Ducks Reebok Digital Camo Military Practice Jersey" src="//nhl.frgimages.com/FFImage/thumb.aspx?i=/productImages/_1758000/ff_1758044_xl.jpg&amp;w=180" />
+                                
+                            </a>
+                        </div>
+                        
+                        <div class="qlStaticButtonContainer">
+                          <a class="qlButton qlStaticButton" href="/Jerseys/Mens_Anaheim_Ducks_Reebok_Digital_Camo_Military_Practice_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1758044" title="Quick View">QuickView</a>
+                        </div>
+                        
+                        <div class="BottomLink">
+                            
+                            <meta itemprop="brand" content="Reebok" />
+                            
+                            <a itemprop="name" href="/Jerseys/Mens_Anaheim_Ducks_Reebok_Digital_Camo_Military_Practice_Jersey" title="Mens Anaheim Ducks Reebok Digital Camo Military Practice Jersey">Mens Anaheim Ducks Reebok Digital Camo Military Practice Jersey</a>
+                            <meta itemprop="url" content="http://shop.nhl.com/Jerseys/Mens_Anaheim_Ducks_Reebok_Digital_Camo_Military_Practice_Jersey" />
+                            <meta itemprop="description" content="Not that you need another reason, but grab this Military Practice jersey and celebrate your Anaheim Ducks fandom in a whole new way! This awesome Anaheim Ducks jersey is built to give you the look and feel of what your favorite players wear while they&#39;re out on the ice. A large Anaheim Ducks applique sits over a digital camo pattern to ensure you can celebrate your love for all the military does while you&#39;re out reppin&#39; your team!" />
+                        </div>
+                        <div class="PriceContainer" itemprop="offers" itemscope itemtype="http://www.schema.org/Offer">
+                            <meta itemprop="price" content="114.9500" />
+                            <meta itemprop="priceCurrency" content="USD" />
+                            <meta itemprop="itemCondition" content="NewCondition" />
+                            <meta itemprop="serialNumber" content="1758044" />
+                            <meta itemprop="category" content="Jerseys" />
+                            <div class="Regular">
+                                <p class="regularPrice">
+                                    <span class="regularLabel">Regular:</span> <span class="regularPrice">$114.95</span>
+                                </p>
+                                <p class="salePrice">
+                                    <span class="saleLabel">Sale:</span> <span class="salePrice">$114.95</span>
+                                </p>
+                                <p class="clearancePrice">
+                                    <span class="clearanceLabel">Now:</span> <span class="clearancePrice">$114.95</span>&nbsp;<span class="clearanceLabelAfter">(extra 30% off)</span>
+                                </p>
+                            </div>
+                        </div>
+                        
+                    </div>
+			            
+				       <a class="qlButton ADAhidden" href="/Jerseys/Mens_Anaheim_Ducks_Reebok_Digital_Camo_Military_Practice_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1758044" title="Quick View">QuickView</a>
+			            
+                    <!-- ShopRunner -->
+                    <div name="sr_catalogProductGridDiv" class="catalogProductGridDiv"></div>
+                    
+                </div>
+                
+                <div itemprop="product" itemscope itemtype="http://www.schema.org/Product" class="ItemContainer">
+                    <div class="Item">
+                        <div class="ImageLink biImage">
+                            <a href="/Jerseys/Mens_Washington_Capitals_Alexander_Ovechkin_Reebok_Red_2015_Winter_Classic_Premier_Player_Jersey" title="Mens Washington Capitals Alexander Ovechkin Reebok Red 2015 Winter Classic Premier Player Jersey" rel="nofollow">
+                                                     
+                                        <img itemprop="image" alt="Mens Washington Capitals Alexander Ovechkin Reebok Red 2015 Winter Classic Premier Player Jersey" src="//nhl.frgimages.com/FFImage/thumb.aspx?i=/productImages/_1943000/ff_1943512_xl.jpg&amp;w=180" />
+                                
+                            </a>
+                        </div>
+                        
+                        <div class="qlStaticButtonContainer">
+                          <a class="qlButton qlStaticButton" href="/Jerseys/Mens_Washington_Capitals_Alexander_Ovechkin_Reebok_Red_2015_Winter_Classic_Premier_Player_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1943512" title="Quick View">QuickView</a>
+                        </div>
+                        
+                        <div class="BottomLink">
+                            
+                            <meta itemprop="brand" content="Reebok" />
+                            
+                            <a itemprop="name" href="/Jerseys/Mens_Washington_Capitals_Alexander_Ovechkin_Reebok_Red_2015_Winter_Classic_Premier_Player_Jersey" title="Mens Washington Capitals Alexander Ovechkin Reebok Red 2015 Winter Classic Premier Player Jersey">Mens Washington Capitals Alexander Ovechkin Reebok Red 2015 Winter Classic Premier Player Jersey</a>
+                            <meta itemprop="url" content="http://shop.nhl.com/Jerseys/Mens_Washington_Capitals_Alexander_Ovechkin_Reebok_Red_2015_Winter_Classic_Premier_Player_Jersey" />
+                            <meta itemprop="description" content="Show them you are the #1 Washington Capitals fan with this Premier Player jersey from Reebok! It features high-quality team, player and Winter Classic graphics to showcase your Washington Capitals spirit and excitement for the big game! NHL Shop is your source for officially licensed Washington Capitals gear." />
+                        </div>
+                        <div class="PriceContainer" itemprop="offers" itemscope itemtype="http://www.schema.org/Offer">
+                            <meta itemprop="price" content="179.9500" />
+                            <meta itemprop="priceCurrency" content="USD" />
+                            <meta itemprop="itemCondition" content="NewCondition" />
+                            <meta itemprop="serialNumber" content="1943512" />
+                            <meta itemprop="category" content="Jerseys" />
+                            <div class="Regular">
+                                <p class="regularPrice">
+                                    <span class="regularLabel">Regular:</span> <span class="regularPrice">$179.95</span>
+                                </p>
+                                <p class="salePrice">
+                                    <span class="saleLabel">Sale:</span> <span class="salePrice">$179.95</span>
+                                </p>
+                                <p class="clearancePrice">
+                                    <span class="clearanceLabel">Now:</span> <span class="clearancePrice">$179.95</span>&nbsp;<span class="clearanceLabelAfter">(extra 30% off)</span>
+                                </p>
+                            </div>
+                        </div>
+                        
+<div class="prStarsOnlyContainer" title="Rating of 5" data-stars="5">
+    <div class="prStars rating-5_0">&nbsp;</div>
+</div>
+
+                    </div>
+			            
+				       <a class="qlButton ADAhidden" href="/Jerseys/Mens_Washington_Capitals_Alexander_Ovechkin_Reebok_Red_2015_Winter_Classic_Premier_Player_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1943512" title="Quick View">QuickView</a>
+			            
+                </div>
+                
+            </div>
+            
+            <div class="RowContainer rowContainerShopRunner">
+                
+                <div itemprop="product" itemscope itemtype="http://www.schema.org/Product" class="ItemContainer">
+                    <div class="Item">
+                        <div class="ImageLink biImage">
+                            <a href="/Jerseys/Mens_Pittsburgh_Penguins_Reebok_Black_2014_PREMIER_Alternate_Custom_Jersey" title="Mens Pittsburgh Penguins Reebok Black 2014 PREMIER Alternate Custom Jersey" rel="nofollow">
+                                                     
+                                        <img itemprop="image" alt="Mens Pittsburgh Penguins Reebok Black 2014 PREMIER Alternate Custom Jersey" src="//nhl.frgimages.com/FFImage/thumb.aspx?i=/productImages/_1943000/ff_1943592_xl.jpg&amp;w=180" />
+                                
+                            </a>
+                        </div>
+                        
+                        <div class="qlStaticButtonContainer">
+                          <a class="qlButton qlStaticButton" href="/Jerseys/Mens_Pittsburgh_Penguins_Reebok_Black_2014_PREMIER_Alternate_Custom_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1943592" title="Quick View">QuickView</a>
+                        </div>
+                        
+                        <div class="BottomLink">
+                            
+                            <a itemprop="name" href="/Jerseys/Mens_Pittsburgh_Penguins_Reebok_Black_2014_PREMIER_Alternate_Custom_Jersey" title="Mens Pittsburgh Penguins Reebok Black 2014 PREMIER Alternate Custom Jersey">Mens Pittsburgh Penguins Reebok Black 2014 PREMIER Alternate Custom Jersey</a>
+                            <meta itemprop="url" content="http://shop.nhl.com/Jerseys/Mens_Pittsburgh_Penguins_Reebok_Black_2014_PREMIER_Alternate_Custom_Jersey" />
+                            <meta itemprop="description" content="Customizing this Reebok Premier jersey is the perfect way to support your favorite team! The front crest is embroidered just like the authentic jersey, and your personalized name and number in single-layer printed twill are heat-pressed onto the back and sleeves. Due to the customized nature of this product, this item cannot be returned or refunded. Once an order is submitted, changes cannot be made and the order cannot be cancelled. Damaged items will be exchanged for the same item." />
+                        </div>
+                        <div class="PriceContainer" itemprop="offers" itemscope itemtype="http://www.schema.org/Offer">
+                            <meta itemprop="price" content="184.9500" />
+                            <meta itemprop="priceCurrency" content="USD" />
+                            <meta itemprop="itemCondition" content="NewCondition" />
+                            <meta itemprop="serialNumber" content="1943592" />
+                            <meta itemprop="category" content="Jerseys" />
+                            <div class="Regular">
+                                <p class="regularPrice">
+                                    <span class="regularLabel">Regular:</span> <span class="regularPrice">$184.95</span>
+                                </p>
+                                <p class="salePrice">
+                                    <span class="saleLabel">Sale:</span> <span class="salePrice">$184.95</span>
+                                </p>
+                                <p class="clearancePrice">
+                                    <span class="clearanceLabel">Now:</span> <span class="clearancePrice">$184.95</span>&nbsp;<span class="clearanceLabelAfter">(extra 30% off)</span>
+                                </p>
+                            </div>
+                        </div>
+                        
+                    </div>
+			            
+				       <a class="qlButton ADAhidden" href="/Jerseys/Mens_Pittsburgh_Penguins_Reebok_Black_2014_PREMIER_Alternate_Custom_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1943592" title="Quick View">QuickView</a>
+			            
+                </div>
+                
+                <div itemprop="product" itemscope itemtype="http://www.schema.org/Product" class="ItemContainer itemContainerShopRunner">
+                    <div class="Item itemShopRunner">
+                        <div class="ImageLink biImage">
+                            <a href="/Jerseys/Mens_Chicago_Blackhawks_Number_88_Patrick_Kane_Reebok_Red_Premier_Player_Hockey_Jersey" title="Mens Chicago Blackhawks #88 Patrick Kane Reebok Red Premier Player Hockey Jersey" rel="nofollow">
+                                                     
+                                        <img itemprop="image" alt="Mens Chicago Blackhawks #88 Patrick Kane Reebok Red Premier Player Hockey Jersey" src="//nhl.frgimages.com/FFImage/thumb.aspx?i=/productImages/_408000/FF_408123_xl.jpg&amp;w=180" />
+                                
+                            </a>
+                        </div>
+                        
+                        <div class="qlStaticButtonContainer">
+                          <a class="qlButton qlStaticButton" href="/Jerseys/Mens_Chicago_Blackhawks_Number_88_Patrick_Kane_Reebok_Red_Premier_Player_Hockey_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="408123" title="Quick View">QuickView</a>
+                        </div>
+                        
+                        <div class="BottomLink">
+                            
+                            <meta itemprop="brand" content="Reebok" />
+                            
+                            <a itemprop="name" href="/Jerseys/Mens_Chicago_Blackhawks_Number_88_Patrick_Kane_Reebok_Red_Premier_Player_Hockey_Jersey" title="Mens Chicago Blackhawks #88 Patrick Kane Reebok Red Premier Player Hockey Jersey">Mens Chicago Blackhawks #88 Patrick Kane Reebok Red Premier Player Hockey Jersey</a>
+                            <meta itemprop="url" content="http://shop.nhl.com/Jerseys/Mens_Chicago_Blackhawks_Number_88_Patrick_Kane_Reebok_Red_Premier_Player_Hockey_Jersey" />
+                            <meta itemprop="description" content="Prove you are the #1 Chicago Blackhawks fan with this #88 Patrick Kane Premier Player jersey from Reebok! This jersey is perfect for the Chicago Blackhawks fan who wants a great new way to show some spirit for the home team. It features authentic graphics and logos along with vibrant team colors and realistic tackle twill lettering that will make you feel like you&#39;re on the ice! NHL Shop is your source for officially licensed Chicago Blackhawks gear." />
+                        </div>
+                        <div class="PriceContainer" itemprop="offers" itemscope itemtype="http://www.schema.org/Offer">
+                            <meta itemprop="price" content="169.9500" />
+                            <meta itemprop="priceCurrency" content="USD" />
+                            <meta itemprop="itemCondition" content="NewCondition" />
+                            <meta itemprop="serialNumber" content="408123" />
+                            <meta itemprop="category" content="Jerseys" />
+                            <div class="Regular">
+                                <p class="regularPrice">
+                                    <span class="regularLabel">Regular:</span> <span class="regularPrice">$169.95</span>
+                                </p>
+                                <p class="salePrice">
+                                    <span class="saleLabel">Sale:</span> <span class="salePrice">$169.95</span>
+                                </p>
+                                <p class="clearancePrice">
+                                    <span class="clearanceLabel">Now:</span> <span class="clearancePrice">$169.95</span>&nbsp;<span class="clearanceLabelAfter">(extra 30% off)</span>
+                                </p>
+                            </div>
+                        </div>
+                        
+<div class="prStarsOnlyContainer" title="Rating of 4.9" data-stars="4.9">
+    <div class="prStars rating-5_0">&nbsp;</div>
+</div>
+
+                    </div>
+			            
+				       <a class="qlButton ADAhidden" href="/Jerseys/Mens_Chicago_Blackhawks_Number_88_Patrick_Kane_Reebok_Red_Premier_Player_Hockey_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="408123" title="Quick View">QuickView</a>
+			            
+                    <!-- ShopRunner -->
+                    <div name="sr_catalogProductGridDiv" class="catalogProductGridDiv"></div>
+                    
+                </div>
+                
+                <div itemprop="product" itemscope itemtype="http://www.schema.org/Product" class="ItemContainer">
+                    <div class="Item">
+                        <div class="ImageLink biImage">
+                            <a href="/Jerseys/Reebok_New_York_Rangers_Mens_Premier_Home_Custom_Jersey_-_Royal_Blue" title="Reebok New York Rangers Men&#39;s Premier Home Custom Jersey - Royal Blue" rel="nofollow">
+                                                     
+                                        <img itemprop="image" alt="Reebok New York Rangers Men&#39;s Premier Home Custom Jersey - Royal Blue" src="//nhl.frgimages.com/FFImage/thumb.aspx?i=/productImages/_1546000/ff_1546422_xl.jpg&amp;w=180" />
+                                
+                            </a>
+                        </div>
+                        
+                        <div class="qlStaticButtonContainer">
+                          <a class="qlButton qlStaticButton" href="/Jerseys/Reebok_New_York_Rangers_Mens_Premier_Home_Custom_Jersey_-_Royal_Blue" rel="nofollow" data-alias="Jerseys" data-pid="1546422" title="Quick View">QuickView</a>
+                        </div>
+                        
+                        <div class="BottomLink">
+                            
+                            <meta itemprop="brand" content="Reebok" />
+                            
+                            <a itemprop="name" href="/Jerseys/Reebok_New_York_Rangers_Mens_Premier_Home_Custom_Jersey_-_Royal_Blue" title="Reebok New York Rangers Men&#39;s Premier Home Custom Jersey - Royal Blue">Reebok New York Rangers Men's Premier Home Custom Jersey - Royal Blue</a>
+                            <meta itemprop="url" content="http://shop.nhl.com/Jerseys/Reebok_New_York_Rangers_Mens_Premier_Home_Custom_Jersey_-_Royal_Blue" />
+                            <meta itemprop="description" content="Customizing this Reebok Premier jersey is the perfect way to support your favorite team! It&#39;s made of polyester two-way stretch pique fabric and has solid mesh inserts for ventilation. The front crest is embroidered just like the authentic jersey, and your personalized name and number in single-layer printed twill are heat-pressed onto the back and sleeves. Due to the customized nature of this product, this item cannot be returned or refunded. Once an order is submitted, changes cannot be made and the order cannot be cancelled. Damaged items will be exchanged for the same item." />
+                        </div>
+                        <div class="PriceContainer" itemprop="offers" itemscope itemtype="http://www.schema.org/Offer">
+                            <meta itemprop="price" content="184.9500" />
+                            <meta itemprop="priceCurrency" content="USD" />
+                            <meta itemprop="itemCondition" content="NewCondition" />
+                            <meta itemprop="serialNumber" content="1546422" />
+                            <meta itemprop="category" content="Jerseys" />
+                            <div class="Regular">
+                                <p class="regularPrice">
+                                    <span class="regularLabel">Regular:</span> <span class="regularPrice">$184.95</span>
+                                </p>
+                                <p class="salePrice">
+                                    <span class="saleLabel">Sale:</span> <span class="salePrice">$184.95</span>
+                                </p>
+                                <p class="clearancePrice">
+                                    <span class="clearanceLabel">Now:</span> <span class="clearancePrice">$184.95</span>&nbsp;<span class="clearanceLabelAfter">(extra 30% off)</span>
+                                </p>
+                            </div>
+                        </div>
+                        
+<div class="prStarsOnlyContainer" title="Rating of 4.8" data-stars="4.8">
+    <div class="prStars rating-5_0">&nbsp;</div>
+</div>
+
+                    </div>
+			            
+				       <a class="qlButton ADAhidden" href="/Jerseys/Reebok_New_York_Rangers_Mens_Premier_Home_Custom_Jersey_-_Royal_Blue" rel="nofollow" data-alias="Jerseys" data-pid="1546422" title="Quick View">QuickView</a>
+			            
+                </div>
+                
+                <div itemprop="product" itemscope itemtype="http://www.schema.org/Product" class="ItemContainer itemContainerShopRunner">
+                    <div class="Item itemShopRunner">
+                        <div class="ImageLink biImage">
+                            <a href="/Jerseys/Mens_Chicago_Blackhawks_Number_19_Jonathan_Toews_Reebok_Red_Premier_Player_Hockey_Jersey" title="Mens Chicago Blackhawks #19 Jonathan Toews Reebok Red Premier Player Hockey Jersey" rel="nofollow">
+                                                     
+                                        <img itemprop="image" alt="Mens Chicago Blackhawks #19 Jonathan Toews Reebok Red Premier Player Hockey Jersey" src="//nhl.frgimages.com/FFImage/thumb.aspx?i=/productImages/_575000/ff_575588_xl.jpg&amp;w=180" />
+                                
+                            </a>
+                        </div>
+                        
+                        <div class="qlStaticButtonContainer">
+                          <a class="qlButton qlStaticButton" href="/Jerseys/Mens_Chicago_Blackhawks_Number_19_Jonathan_Toews_Reebok_Red_Premier_Player_Hockey_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="575588" title="Quick View">QuickView</a>
+                        </div>
+                        
+                        <div class="BottomLink">
+                            
+                            <meta itemprop="brand" content="Reebok" />
+                            
+                            <a itemprop="name" href="/Jerseys/Mens_Chicago_Blackhawks_Number_19_Jonathan_Toews_Reebok_Red_Premier_Player_Hockey_Jersey" title="Mens Chicago Blackhawks #19 Jonathan Toews Reebok Red Premier Player Hockey Jersey">Mens Chicago Blackhawks #19 Jonathan Toews Reebok Red Premier Player Hockey Jersey</a>
+                            <meta itemprop="url" content="http://shop.nhl.com/Jerseys/Mens_Chicago_Blackhawks_Number_19_Jonathan_Toews_Reebok_Red_Premier_Player_Hockey_Jersey" />
+                            <meta itemprop="description" content="Prove you are the #1 Chicago Blackhawks fan with this #19 Jonathan Toews Premier Player jersey from Reebok! This jersey is perfect for the Chicago Blackhawks fan who wants a great new way to show some spirit for the home team. It features authentic graphics and logos along with vibrant team colors and realistic tackle twill lettering that will make you feel like you&#39;re on the ice! NHL Shop is your source for officially licensed Chicago Blackhawks gear." />
+                        </div>
+                        <div class="PriceContainer" itemprop="offers" itemscope itemtype="http://www.schema.org/Offer">
+                            <meta itemprop="price" content="169.9500" />
+                            <meta itemprop="priceCurrency" content="USD" />
+                            <meta itemprop="itemCondition" content="NewCondition" />
+                            <meta itemprop="serialNumber" content="575588" />
+                            <meta itemprop="category" content="Jerseys" />
+                            <div class="Regular">
+                                <p class="regularPrice">
+                                    <span class="regularLabel">Regular:</span> <span class="regularPrice">$169.95</span>
+                                </p>
+                                <p class="salePrice">
+                                    <span class="saleLabel">Sale:</span> <span class="salePrice">$169.95</span>
+                                </p>
+                                <p class="clearancePrice">
+                                    <span class="clearanceLabel">Now:</span> <span class="clearancePrice">$169.95</span>&nbsp;<span class="clearanceLabelAfter">(extra 30% off)</span>
+                                </p>
+                            </div>
+                        </div>
+                        
+<div class="prStarsOnlyContainer" title="Rating of 4.5" data-stars="4.5">
+    <div class="prStars rating-4_5">&nbsp;</div>
+</div>
+
+                    </div>
+			            
+				       <a class="qlButton ADAhidden" href="/Jerseys/Mens_Chicago_Blackhawks_Number_19_Jonathan_Toews_Reebok_Red_Premier_Player_Hockey_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="575588" title="Quick View">QuickView</a>
+			            
+                    <!-- ShopRunner -->
+                    <div name="sr_catalogProductGridDiv" class="catalogProductGridDiv"></div>
+                    
+                </div>
+                
+            </div>
+            
+        </div>
+        
+        <div id="tabs-3" class="productTabProducts">
+            
+            <div class="RowContainer rowContainerShopRunner">
+                
+                <div itemprop="product" itemscope itemtype="http://www.schema.org/Product" class="ItemContainer itemContainerShopRunner">
+                    <div class="Item itemShopRunner">
+                        <div class="ImageLink biImage">
+                            <a href="/Jerseys/Preschool_St._Louis_Blues_TJ_Oshie_Reebok_Royal_Blue_Replica_Player_Jersey" title="Preschool St. Louis Blues TJ Oshie Reebok Royal Blue Replica Player Jersey" rel="nofollow">
+                                                     
+                                        <img itemprop="image" alt="Preschool St. Louis Blues TJ Oshie Reebok Royal Blue Replica Player Jersey" src="//nhl.frgimages.com/FFImage/thumb.aspx?i=/productImages/_1941000/ff_1941603_xl.jpg&amp;w=180" />
+                                
+                            </a>
+                        </div>
+                        
+                        <div class="qlStaticButtonContainer">
+                          <a class="qlButton qlStaticButton" href="/Jerseys/Preschool_St._Louis_Blues_TJ_Oshie_Reebok_Royal_Blue_Replica_Player_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1941603" title="Quick View">QuickView</a>
+                        </div>
+                        
+                        <div class="BottomLink">
+                            
+                            <a itemprop="name" href="/Jerseys/Preschool_St._Louis_Blues_TJ_Oshie_Reebok_Royal_Blue_Replica_Player_Jersey" title="Preschool St. Louis Blues TJ Oshie Reebok Royal Blue Replica Player Jersey">Preschool St. Louis Blues TJ Oshie Reebok Royal Blue Replica Player Jersey</a>
+                            <meta itemprop="url" content="http://shop.nhl.com/Jerseys/Preschool_St._Louis_Blues_TJ_Oshie_Reebok_Royal_Blue_Replica_Player_Jersey" />
+                            <meta itemprop="description" content="Prove your kid is the #1 St. Louis Blues fan with this Replica Player jersey from Reebok! He can boast his team spirit while wearing this St. Louis Blues jersey. It features bold St. Louis Blues and TJ Oshie graphics, showing the world who he cheers for. NHL Shop is your source for officially licensed St. Louis Blues gear." />
+                        </div>
+                        <div class="PriceContainer" itemprop="offers" itemscope itemtype="http://www.schema.org/Offer">
+                            <meta itemprop="price" content="54.9500" />
+                            <meta itemprop="priceCurrency" content="USD" />
+                            <meta itemprop="itemCondition" content="NewCondition" />
+                            <meta itemprop="serialNumber" content="1941603" />
+                            <meta itemprop="category" content="Jerseys" />
+                            <div class="Regular">
+                                <p class="regularPrice">
+                                    <span class="regularLabel">Regular:</span> <span class="regularPrice">$54.95</span>
+                                </p>
+                                <p class="salePrice">
+                                    <span class="saleLabel">Sale:</span> <span class="salePrice">$54.95</span>
+                                </p>
+                                <p class="clearancePrice">
+                                    <span class="clearanceLabel">Now:</span> <span class="clearancePrice">$54.95</span>&nbsp;<span class="clearanceLabelAfter">(extra 30% off)</span>
+                                </p>
+                            </div>
+                        </div>
+                        
+                    </div>
+			            
+				       <a class="qlButton ADAhidden" href="/Jerseys/Preschool_St._Louis_Blues_TJ_Oshie_Reebok_Royal_Blue_Replica_Player_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1941603" title="Quick View">QuickView</a>
+			            
+                    <!-- ShopRunner -->
+                    <div name="sr_catalogProductGridDiv" class="catalogProductGridDiv"></div>
+                    
+                </div>
+                
+                <div itemprop="product" itemscope itemtype="http://www.schema.org/Product" class="ItemContainer itemContainerShopRunner">
+                    <div class="Item itemShopRunner">
+                        <div class="ImageLink biImage">
+                            <a href="/Jerseys/Womens_St._Louis_Blues_TJ_Oshie_Reebok_Blue_Premier_Player_Jersey" title="Womens St. Louis Blues TJ Oshie Reebok Blue Premier Player Jersey" rel="nofollow">
+                                                     
+                                        <img itemprop="image" alt="Womens St. Louis Blues TJ Oshie Reebok Blue Premier Player Jersey" src="//nhl.frgimages.com/FFImage/thumb.aspx?i=/productImages/_1844000/ff_1844232_xl.jpg&amp;w=180" />
+                                
+                            </a>
+                        </div>
+                        
+                        <div class="qlStaticButtonContainer">
+                          <a class="qlButton qlStaticButton" href="/Jerseys/Womens_St._Louis_Blues_TJ_Oshie_Reebok_Blue_Premier_Player_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1844232" title="Quick View">QuickView</a>
+                        </div>
+                        
+                        <div class="BottomLink">
+                            
+                            <meta itemprop="brand" content="Reebok" />
+                            
+                            <a itemprop="name" href="/Jerseys/Womens_St._Louis_Blues_TJ_Oshie_Reebok_Blue_Premier_Player_Jersey" title="Womens St. Louis Blues TJ Oshie Reebok Blue Premier Player Jersey">Womens St. Louis Blues TJ Oshie Reebok Blue Premier Player Jersey</a>
+                            <meta itemprop="url" content="http://shop.nhl.com/Jerseys/Womens_St._Louis_Blues_TJ_Oshie_Reebok_Blue_Premier_Player_Jersey" />
+                            <meta itemprop="description" content="Prove you are the #1 St. Louis Blues fan with this Replica Player jersey! Take your passion for the St. Louis Blues everywhere you go! With printed St. Louis Blues and TJ Oshie graphics, this Reebok tee is the perfect way to share your team pride with the world. MLB Shop is your source for officially licensed St. Louis Blues gear." />
+                        </div>
+                        <div class="PriceContainer" itemprop="offers" itemscope itemtype="http://www.schema.org/Offer">
+                            <meta itemprop="price" content="129.9500" />
+                            <meta itemprop="priceCurrency" content="USD" />
+                            <meta itemprop="itemCondition" content="NewCondition" />
+                            <meta itemprop="serialNumber" content="1844232" />
+                            <meta itemprop="category" content="Jerseys" />
+                            <div class="Regular">
+                                <p class="regularPrice">
+                                    <span class="regularLabel">Regular:</span> <span class="regularPrice">$129.95</span>
+                                </p>
+                                <p class="salePrice">
+                                    <span class="saleLabel">Sale:</span> <span class="salePrice">$129.95</span>
+                                </p>
+                                <p class="clearancePrice">
+                                    <span class="clearanceLabel">Now:</span> <span class="clearancePrice">$129.95</span>&nbsp;<span class="clearanceLabelAfter">(extra 30% off)</span>
+                                </p>
+                            </div>
+                        </div>
+                        
+                    </div>
+			            
+				       <a class="qlButton ADAhidden" href="/Jerseys/Womens_St._Louis_Blues_TJ_Oshie_Reebok_Blue_Premier_Player_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1844232" title="Quick View">QuickView</a>
+			            
+                    <!-- ShopRunner -->
+                    <div name="sr_catalogProductGridDiv" class="catalogProductGridDiv"></div>
+                    
+                </div>
+                
+                <div itemprop="product" itemscope itemtype="http://www.schema.org/Product" class="ItemContainer itemContainerShopRunner">
+                    <div class="Item itemShopRunner">
+                        <div class="ImageLink biImage">
+                            <a href="/Jerseys/Mens_Anaheim_Ducks_Reebok_Digital_Camo_Military_Practice_Jersey" title="Mens Anaheim Ducks Reebok Digital Camo Military Practice Jersey" rel="nofollow">
+                                                     
+                                        <img itemprop="image" alt="Mens Anaheim Ducks Reebok Digital Camo Military Practice Jersey" src="//nhl.frgimages.com/FFImage/thumb.aspx?i=/productImages/_1758000/ff_1758044_xl.jpg&amp;w=180" />
+                                
+                            </a>
+                        </div>
+                        
+                        <div class="qlStaticButtonContainer">
+                          <a class="qlButton qlStaticButton" href="/Jerseys/Mens_Anaheim_Ducks_Reebok_Digital_Camo_Military_Practice_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1758044" title="Quick View">QuickView</a>
+                        </div>
+                        
+                        <div class="BottomLink">
+                            
+                            <meta itemprop="brand" content="Reebok" />
+                            
+                            <a itemprop="name" href="/Jerseys/Mens_Anaheim_Ducks_Reebok_Digital_Camo_Military_Practice_Jersey" title="Mens Anaheim Ducks Reebok Digital Camo Military Practice Jersey">Mens Anaheim Ducks Reebok Digital Camo Military Practice Jersey</a>
+                            <meta itemprop="url" content="http://shop.nhl.com/Jerseys/Mens_Anaheim_Ducks_Reebok_Digital_Camo_Military_Practice_Jersey" />
+                            <meta itemprop="description" content="Not that you need another reason, but grab this Military Practice jersey and celebrate your Anaheim Ducks fandom in a whole new way! This awesome Anaheim Ducks jersey is built to give you the look and feel of what your favorite players wear while they&#39;re out on the ice. A large Anaheim Ducks applique sits over a digital camo pattern to ensure you can celebrate your love for all the military does while you&#39;re out reppin&#39; your team!" />
+                        </div>
+                        <div class="PriceContainer" itemprop="offers" itemscope itemtype="http://www.schema.org/Offer">
+                            <meta itemprop="price" content="114.9500" />
+                            <meta itemprop="priceCurrency" content="USD" />
+                            <meta itemprop="itemCondition" content="NewCondition" />
+                            <meta itemprop="serialNumber" content="1758044" />
+                            <meta itemprop="category" content="Jerseys" />
+                            <div class="Regular">
+                                <p class="regularPrice">
+                                    <span class="regularLabel">Regular:</span> <span class="regularPrice">$114.95</span>
+                                </p>
+                                <p class="salePrice">
+                                    <span class="saleLabel">Sale:</span> <span class="salePrice">$114.95</span>
+                                </p>
+                                <p class="clearancePrice">
+                                    <span class="clearanceLabel">Now:</span> <span class="clearancePrice">$114.95</span>&nbsp;<span class="clearanceLabelAfter">(extra 30% off)</span>
+                                </p>
+                            </div>
+                        </div>
+                        
+                    </div>
+			            
+				       <a class="qlButton ADAhidden" href="/Jerseys/Mens_Anaheim_Ducks_Reebok_Digital_Camo_Military_Practice_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1758044" title="Quick View">QuickView</a>
+			            
+                    <!-- ShopRunner -->
+                    <div name="sr_catalogProductGridDiv" class="catalogProductGridDiv"></div>
+                    
+                </div>
+                
+                <div itemprop="product" itemscope itemtype="http://www.schema.org/Product" class="ItemContainer itemContainerShopRunner">
+                    <div class="Item itemShopRunner">
+                        <div class="ImageLink biImage">
+                            <a href="/Jerseys/Mens_Columbus_Blue_Jackets_Reebok_Digital_Camo_Veterans_Day_Practice_Jersey" title="Mens Columbus Blue Jackets Reebok Digital Camo Veteran&#39;s Day Practice Jersey" rel="nofollow">
+                                                     
+                                        <img itemprop="image" alt="Mens Columbus Blue Jackets Reebok Digital Camo Veteran&#39;s Day Practice Jersey" src="//nhl.frgimages.com/FFImage/thumb.aspx?i=/productImages/_1758000/ff_1758030_xl.jpg&amp;w=180" />
+                                
+                            </a>
+                        </div>
+                        
+                        <div class="qlStaticButtonContainer">
+                          <a class="qlButton qlStaticButton" href="/Jerseys/Mens_Columbus_Blue_Jackets_Reebok_Digital_Camo_Veterans_Day_Practice_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1758030" title="Quick View">QuickView</a>
+                        </div>
+                        
+                        <div class="BottomLink">
+                            
+                            <meta itemprop="brand" content="Reebok" />
+                            
+                            <a itemprop="name" href="/Jerseys/Mens_Columbus_Blue_Jackets_Reebok_Digital_Camo_Veterans_Day_Practice_Jersey" title="Mens Columbus Blue Jackets Reebok Digital Camo Veteran&#39;s Day Practice Jersey">Mens Columbus Blue Jackets Reebok Digital Camo Veteran's Day Practice Jersey</a>
+                            <meta itemprop="url" content="http://shop.nhl.com/Jerseys/Mens_Columbus_Blue_Jackets_Reebok_Digital_Camo_Veterans_Day_Practice_Jersey" />
+                            <meta itemprop="description" content="Celebrate your Columbus Blue Jackets fandom with this Veteran&#39;s Day Practice jersey from Reebok! This jersey features Columbus Blue Jackets graphics. No one will ever forget that your Columbus Blue Jackets spirit runs deep when you sport this jersey!" />
+                        </div>
+                        <div class="PriceContainer" itemprop="offers" itemscope itemtype="http://www.schema.org/Offer">
+                            <meta itemprop="price" content="114.9500" />
+                            <meta itemprop="priceCurrency" content="USD" />
+                            <meta itemprop="itemCondition" content="NewCondition" />
+                            <meta itemprop="serialNumber" content="1758030" />
+                            <meta itemprop="category" content="Jerseys" />
+                            <div class="Regular">
+                                <p class="regularPrice">
+                                    <span class="regularLabel">Regular:</span> <span class="regularPrice">$114.95</span>
+                                </p>
+                                <p class="salePrice">
+                                    <span class="saleLabel">Sale:</span> <span class="salePrice">$114.95</span>
+                                </p>
+                                <p class="clearancePrice">
+                                    <span class="clearanceLabel">Now:</span> <span class="clearancePrice">$114.95</span>&nbsp;<span class="clearanceLabelAfter">(extra 30% off)</span>
+                                </p>
+                            </div>
+                        </div>
+                        
+                    </div>
+			            
+				       <a class="qlButton ADAhidden" href="/Jerseys/Mens_Columbus_Blue_Jackets_Reebok_Digital_Camo_Veterans_Day_Practice_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1758030" title="Quick View">QuickView</a>
+			            
+                    <!-- ShopRunner -->
+                    <div name="sr_catalogProductGridDiv" class="catalogProductGridDiv"></div>
+                    
+                </div>
+                
+            </div>
+            
+            <div class="RowContainer rowContainerShopRunner">
+                
+                <div itemprop="product" itemscope itemtype="http://www.schema.org/Product" class="ItemContainer itemContainerShopRunner">
+                    <div class="Item itemShopRunner">
+                        <div class="ImageLink biImage">
+                            <a href="/Jerseys/Mens_St._Louis_Blues_David_Backes_Reebok_Royal_Blue_Premier_Player_Home_Jersey" title="Mens St. Louis Blues David Backes Reebok Royal Blue Premier Player Home Jersey" rel="nofollow">
+                                                     
+                                        <img itemprop="image" alt="Mens St. Louis Blues David Backes Reebok Royal Blue Premier Player Home Jersey" src="//nhl.frgimages.com/FFImage/thumb.aspx?i=/productImages/_1967000/ff_1967716_xl.jpg&amp;w=180" />
+                                
+                            </a>
+                        </div>
+                        
+                        <div class="qlStaticButtonContainer">
+                          <a class="qlButton qlStaticButton" href="/Jerseys/Mens_St._Louis_Blues_David_Backes_Reebok_Royal_Blue_Premier_Player_Home_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1967716" title="Quick View">QuickView</a>
+                        </div>
+                        
+                        <div class="BottomLink">
+                            
+                            <meta itemprop="brand" content="Reebok" />
+                            
+                            <a itemprop="name" href="/Jerseys/Mens_St._Louis_Blues_David_Backes_Reebok_Royal_Blue_Premier_Player_Home_Jersey" title="Mens St. Louis Blues David Backes Reebok Royal Blue Premier Player Home Jersey">Mens St. Louis Blues David Backes Reebok Royal Blue Premier Player Home Jersey</a>
+                            <meta itemprop="url" content="http://shop.nhl.com/Jerseys/Mens_St._Louis_Blues_David_Backes_Reebok_Royal_Blue_Premier_Player_Home_Jersey" />
+                            <meta itemprop="description" content="Get in the game this season with this David Backes Premier Player jersey from Reebok. St. Louis Blues graphics adorn the front to show off your team spirit. It also features the name and number of your favorite player, David Backes, on the back. NHL Shop is your source for officially licensed St. Louis Blues gear." />
+                        </div>
+                        <div class="PriceContainer" itemprop="offers" itemscope itemtype="http://www.schema.org/Offer">
+                            <meta itemprop="price" content="169.9500" />
+                            <meta itemprop="priceCurrency" content="USD" />
+                            <meta itemprop="itemCondition" content="NewCondition" />
+                            <meta itemprop="serialNumber" content="1967716" />
+                            <meta itemprop="category" content="Jerseys" />
+                            <div class="Regular">
+                                <p class="regularPrice">
+                                    <span class="regularLabel">Regular:</span> <span class="regularPrice">$169.95</span>
+                                </p>
+                                <p class="salePrice">
+                                    <span class="saleLabel">Sale:</span> <span class="salePrice">$169.95</span>
+                                </p>
+                                <p class="clearancePrice">
+                                    <span class="clearanceLabel">Now:</span> <span class="clearancePrice">$169.95</span>&nbsp;<span class="clearanceLabelAfter">(extra 30% off)</span>
+                                </p>
+                            </div>
+                        </div>
+                        
+                    </div>
+			            
+				       <a class="qlButton ADAhidden" href="/Jerseys/Mens_St._Louis_Blues_David_Backes_Reebok_Royal_Blue_Premier_Player_Home_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1967716" title="Quick View">QuickView</a>
+			            
+                    <!-- ShopRunner -->
+                    <div name="sr_catalogProductGridDiv" class="catalogProductGridDiv"></div>
+                    
+                </div>
+                
+                <div itemprop="product" itemscope itemtype="http://www.schema.org/Product" class="ItemContainer itemContainerShopRunner">
+                    <div class="Item itemShopRunner">
+                        <div class="ImageLink biImage">
+                            <a href="/Jerseys/Youth_San_Jose_Sharks_Joe_Thornton_Reebok_Green_Replica_Player_Hockey_Jersey" title="Youth San Jose Sharks Joe Thornton Reebok Green Replica Player Hockey Jersey" rel="nofollow">
+                                                     
+                                        <img itemprop="image" alt="Youth San Jose Sharks Joe Thornton Reebok Green Replica Player Hockey Jersey" src="//nhl.frgimages.com/FFImage/thumb.aspx?i=/productImages/_1778000/ff_1778391_xl.jpg&amp;w=180" />
+                                
+                            </a>
+                        </div>
+                        
+                        <div class="qlStaticButtonContainer">
+                          <a class="qlButton qlStaticButton" href="/Jerseys/Youth_San_Jose_Sharks_Joe_Thornton_Reebok_Green_Replica_Player_Hockey_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1778391" title="Quick View">QuickView</a>
+                        </div>
+                        
+                        <div class="BottomLink">
+                            
+                            <a itemprop="name" href="/Jerseys/Youth_San_Jose_Sharks_Joe_Thornton_Reebok_Green_Replica_Player_Hockey_Jersey" title="Youth San Jose Sharks Joe Thornton Reebok Green Replica Player Hockey Jersey">Youth San Jose Sharks Joe Thornton Reebok Green Replica Player Hockey Jersey</a>
+                            <meta itemprop="url" content="http://shop.nhl.com/Jerseys/Youth_San_Jose_Sharks_Joe_Thornton_Reebok_Green_Replica_Player_Hockey_Jersey" />
+                            <meta itemprop="description" content="Prove your kid is the #1 San Jose Sharks fan with this Reebok Replica Player jersey! He can boast his team spirit while wearing this San Jose Sharks jersey. It features printed San Jose Sharks and Joe Thornton graphics, showing the world who he cheers for. NHL Shop is your source for officially licensed San Jose Sharks gear." />
+                        </div>
+                        <div class="PriceContainer" itemprop="offers" itemscope itemtype="http://www.schema.org/Offer">
+                            <meta itemprop="price" content="64.9500" />
+                            <meta itemprop="priceCurrency" content="USD" />
+                            <meta itemprop="itemCondition" content="NewCondition" />
+                            <meta itemprop="serialNumber" content="1778391" />
+                            <meta itemprop="category" content="Jerseys" />
+                            <div class="Regular">
+                                <p class="regularPrice">
+                                    <span class="regularLabel">Regular:</span> <span class="regularPrice">$64.95</span>
+                                </p>
+                                <p class="salePrice">
+                                    <span class="saleLabel">Sale:</span> <span class="salePrice">$64.95</span>
+                                </p>
+                                <p class="clearancePrice">
+                                    <span class="clearanceLabel">Now:</span> <span class="clearancePrice">$64.95</span>&nbsp;<span class="clearanceLabelAfter">(extra 30% off)</span>
+                                </p>
+                            </div>
+                        </div>
+                        
+                    </div>
+			            
+				       <a class="qlButton ADAhidden" href="/Jerseys/Youth_San_Jose_Sharks_Joe_Thornton_Reebok_Green_Replica_Player_Hockey_Jersey" rel="nofollow" data-alias="Jerseys" data-pid="1778391" title="Quick View">QuickView</a>
+			            
+                    <!-- ShopRunner -->
+                    <div name="sr_catalogProductGridDiv" class="catalogProductGridDiv"></div>
+                    
+                </div>
+                
+                <div itemprop="product" itemscope itemtype="http://www.schema.org/Product" class="ItemContainer">
+                    <div class="Item">
+                        <div class="ImageLink biImage">
+                            <a href="/Jerseys/Reebok_St._Louis_Blues_NHL_2014_Infant_Replica_Home_Jersey_-_Blue" title="Reebok St. Louis Blues NHL 2014 Infant Replica Home Jersey - Blue" rel="nofollow">
+                                                     
+                                        <img itemprop="image" alt="Reebok St. Louis Blues NHL 2014 Infant Replica Home Jersey - Blue" src="//nhl.frgimages.com/FFImage/thumb.aspx?i=/productImages/_1967000/ff_1967112_xl.jpg&amp;w=180" />
+                                
+                            </a>
+                        </div>
+                        
+                        <div class="qlStaticButtonContainer">
+                          <a class="qlButton qlStaticButton" href="/Jerseys/Reebok_St._Louis_Blues_NHL_2014_Infant_Replica_Home_Jersey_-_Blue" rel="nofollow" data-alias="Jerseys" data-pid="1967112" title="Quick View">QuickView</a>
+                        </div>
+                        
+                        <div class="BottomLink">
+                            
+                            <a itemprop="name" href="/Jerseys/Reebok_St._Louis_Blues_NHL_2014_Infant_Replica_Home_Jersey_-_Blue" title="Reebok St. Louis Blues NHL 2014 Infant Replica Home Jersey - Blue">Reebok St. Louis Blues NHL 2014 Infant Replica Home Jersey - Blue</a>
+                            <meta itemprop="url" content="http://shop.nhl.com/Jerseys/Reebok_St._Louis_Blues_NHL_2014_Infant_Replica_Home_Jersey_-_Blue" />
+                            <meta itemprop="description" content="Your little one will look adorable wearing this NHL polyester mesh Reebok infant replica jersey. It is decorated in the team colors and a custom printed name and number. Due to the customized nature of this product, this item cannot be returned or refunded. Once an order is submitted, changes cannot be made and the order cannot be cancelled. Damaged items will be exchanged for the same item." />
+                        </div>
+                        <div class="PriceContainer" itemprop="offers" itemscope itemtype="http://www.schema.org/Offer">
+                            <meta itemprop="price" content="69.9500" />
+                            <meta itemprop="priceCurrency" content="USD" />
+                            <meta itemprop="itemCondition" content="NewCondition" />
+                            <meta itemprop="serialNumber" content="1967112" />
+                            <meta itemprop="category" content="Jerseys" />
+                            <div class="Regular">
+                                <p class="regularPrice">
+                                    <span class="regularLabel">Regular:</span> <span class="regularPrice">$69.95</span>
+                                </p>
+                                <p class="salePrice">
+                                    <span class="saleLabel">Sale:</span> <span class="salePrice">$69.95</span>
+                                </p>
+                                <p class="clearancePrice">
+                                    <span class="clearanceLabel">Now:</span> <span class="clearancePrice">$69.95</span>&nbsp;<span class="clearanceLabelAfter">(extra 30% off)</span>
+                                </p>
+                            </div>
+                        </div>
+                        
+                    </div>
+			            
+				       <a class="qlButton ADAhidden" href="/Jerseys/Reebok_St._Louis_Blues_NHL_2014_Infant_Replica_Home_Jersey_-_Blue" rel="nofollow" data-alias="Jerseys" data-pid="1967112" title="Quick View">QuickView</a>
+			            
+                </div>
+                
+                <div itemprop="product" itemscope itemtype="http://www.schema.org/Product" class="ItemContainer">
+                    <div class="Item">
+                        <div class="ImageLink biImage">
+                            <a href="/Jerseys/Reebok_Arizona_Coyotes_NHL_2014_Infant_Replica_Home_Jersey_-_Maroon" title="Reebok Arizona Coyotes NHL 2014 Infant Replica Home Jersey - Maroon" rel="nofollow">
+                                                     
+                                        <img itemprop="image" alt="Reebok Arizona Coyotes NHL 2014 Infant Replica Home Jersey - Maroon" src="//nhl.frgimages.com/FFImage/thumb.aspx?i=/productImages/_1967000/ff_1967111_xl.jpg&amp;w=180" />
+                                
+                            </a>
+                        </div>
+                        
+                        <div class="qlStaticButtonContainer">
+                          <a class="qlButton qlStaticButton" href="/Jerseys/Reebok_Arizona_Coyotes_NHL_2014_Infant_Replica_Home_Jersey_-_Maroon" rel="nofollow" data-alias="Jerseys" data-pid="1967111" title="Quick View">QuickView</a>
+                        </div>
+                        
+                        <div class="BottomLink">
+                            
+                            <a itemprop="name" href="/Jerseys/Reebok_Arizona_Coyotes_NHL_2014_Infant_Replica_Home_Jersey_-_Maroon" title="Reebok Arizona Coyotes NHL 2014 Infant Replica Home Jersey - Maroon">Reebok Arizona Coyotes NHL 2014 Infant Replica Home Jersey - Maroon</a>
+                            <meta itemprop="url" content="http://shop.nhl.com/Jerseys/Reebok_Arizona_Coyotes_NHL_2014_Infant_Replica_Home_Jersey_-_Maroon" />
+                            <meta itemprop="description" content="Your little one will look adorable wearing this NHL polyester mesh Reebok infant replica jersey. It is decorated in the team colors and a custom printed name and number. Due to the customized nature of this product, this item cannot be returned or refunded. Once an order is submitted, changes cannot be made and the order cannot be cancelled. Damaged items will be exchanged for the same item." />
+                        </div>
+                        <div class="PriceContainer" itemprop="offers" itemscope itemtype="http://www.schema.org/Offer">
+                            <meta itemprop="price" content="69.9500" />
+                            <meta itemprop="priceCurrency" content="USD" />
+                            <meta itemprop="itemCondition" content="NewCondition" />
+                            <meta itemprop="serialNumber" content="1967111" />
+                            <meta itemprop="category" content="Jerseys" />
+                            <div class="Regular">
+                                <p class="regularPrice">
+                                    <span class="regularLabel">Regular:</span> <span class="regularPrice">$69.95</span>
+                                </p>
+                                <p class="salePrice">
+                                    <span class="saleLabel">Sale:</span> <span class="salePrice">$69.95</span>
+                                </p>
+                                <p class="clearancePrice">
+                                    <span class="clearanceLabel">Now:</span> <span class="clearancePrice">$69.95</span>&nbsp;<span class="clearanceLabelAfter">(extra 30% off)</span>
+                                </p>
+                            </div>
+                        </div>
+                        
+                    </div>
+			            
+				       <a class="qlButton ADAhidden" href="/Jerseys/Reebok_Arizona_Coyotes_NHL_2014_Infant_Replica_Home_Jersey_-_Maroon" rel="nofollow" data-alias="Jerseys" data-pid="1967111" title="Quick View">QuickView</a>
+			            
+                </div>
+                
+            </div>
+            
+        </div>
+        
+    </div>
+    <div class="teamProductAreaBottomCap"></div>
+</div>
+<script type="text/javascript">
+    jQuery('div.teamProductArea').easytabs({
+        updateHash: false,
+        animate: false
+    });
+</script>
+
+
+                
+                <div class="lowerBodyWrapper">
+                    <!-- Content Text ID: 1220415 and Content Target ID: 1581322 -->
+<div>
+  <h1 style="font-family: helvetica; font-size: 15px;">
+  NHL Jerseys
+  </h1>
+  <p style="font-family: helvetica; font-size: 12px;">
+    As the official shop of the NHL, we have the largest online collection of NHL jerseys (including <a href="/Jerseys_Authentic"><u>Authentic</u></a>, <a href="/Jerseys_Premier"><u>Premier</u></a>, <a href="/Jerseys_Replica"><u>Replica</u></a>, and <a href="/Jerseys_Practice"><u>Practice jerseys</u></a>). Our officially licensed NHL hockey jerseys from Rebook and Mitchell & Ness make perfect gifts for men, women and kids. If you are a die-hard hockey fan looking for something special, we have all of the jersey styles (home, away, third, and vintage) for your favorite NHL team. You can shop for NHL jerseys by your favorite team or player. Be sure to check out the <a href="/pages/Jersey_Sizing"><u>NHL jersey buyer's guide</u></a> to compare jersey sizing charts and features for each style. Visit us regularly for exclusive promotions, NHL jersey sales, and the latest products - like the newly released <a href="/Reebok_Cross_Check"><u>cross check jerseys</u></a>!</p>
+</div>  <!-- End Content Text ID: 1220415 and Content Target ID: 1581322 -->
+                </div>
+            </div>
+            <div class="clear_div"></div>
+        </div>
+        
+    </div>
+
+
+                    </div>
+                    <!-- End ContentPaddingContainer -->
+
+                    <!-- Begin Footer -->
+                    
+
+<!-- Begin Footer -->
+<div id="footerFrameContainer">
+    
+	<!-- Begin mainFooterContent -->
+	<!-- Content Text ID: 1294341 and Content Target ID: 1566155 -->
+<style type="text/css">
+/* Footer */
+
+  #footer-wrapper{width: 974px;background:#000;}
+  a#HOI-banner{
+      background: url(//nhlshop.frgimages.com/partners/leagues/NHL_USA/redesign/HP_US_HOI_Bottom_Banner.jpg);
+      display: block;
+      width: 974px;
+      height: 81px;
+  }
+  #footer-nav{
+      background: url(//nhlshop.frgimages.com/partners/leagues/NHL_USA/redesign/HP_US_Bottom_Nav.jpg);
+      display: block;
+      width: 974px;
+      height: 34px;
+  }
+  #footer-nav > a {display: block;float: left;height: 34px;}
+  a#site-map {width: 114px;}
+  a#catalog {width: 162px;}
+  a#help {width: 55px;}
+  a#privacy {width: 130px;}
+  a#terms {width: 169px;}
+  a#affiliate {width: 86px;}
+  a#account{width: 111px;}
+  a#track{width: 147px;}
+  #footer-social{
+      background: url(//nhlshop.frgimages.com/partners/leagues/NHL_USA/redesign/HP_US_Social_Bottom_Banner.jpg);
+      display: block;
+      width: 974px;
+      height: 41px;
+  }
+  #footer-social > a {display: block;float: left;width: 41px;height: 41px;}
+  a#footer-facebook{margin-left: 381px;}
+  a#footer-twitter{margin-left: 16px;}
+  a#footer-pinterest{margin-left: 16px;}
+  a#footer-google{margin-left: 17px;}
+  
+  #customFooterCopyright {
+    border: 1px solid #575757;
+    border-width: 0 1px 1px 1px;
+    padding: 15px;
+    background: #000;
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 9.5px;
+    text-align: left;
+  }
+</style>
+
+<div id="footer-wrapper">
+
+		<a href="http://hotofftheice.nhl.com" id="HOI-banner" alt="Hot Off the Ice" title="Hot Off the Ice"></a>
+
+		<div id="footer-nav">
+			<a href="/sitemap" id="site-map" alt="Site Map" title="Site Map"></a>
+			<a href="/pages/RequestCatalog" id="catalog" alt="Request a Catalog" title="Request a Catalog"></a>
+			<a href="http://shop.nhl.com/helpdesk/Home" id="help" alt="Help" title="Help"></a>
+			<a href="http://shop.nhl.com/helpdesk/Privacy#3" id="privacy" alt="Privacy" title="Privacy"></a>
+			<a href="/pages/TermsAndConditions" id="terms" alt="Terms and Conditions" title="Terms and Conditions"></a>
+			<a href="/pages/Affiliate_Home" id="affiliate"></a>
+			<a href="https://shop.nhl.com/account/home" id="account" alt="My Account" title="My Account" rel="nofollow"></a>
+			<a href="https://shop.nhl.com/account/tracking" id="track" alt="Track My Order" title="Track My Order"></a>
+		</div>
+
+		<div id="footer-social">
+			<a href="https://www.facebook.com/NHLShop" id="footer-facebook" alt="Facebook" title="Facebook"></a>
+			<a href="https://twitter.com/NHL_Shop" id="footer-twitter" alt="Twitter" title="Twitter"></a>
+			<a href="http://www.pinterest.com/NHLShop" id="footer-pinterest" alt="Pinterest" title="Pinterest"></a>
+			<a href="https://plus.google.com/107848786845641122395/posts" id="footer-google" alt="Google Plus" title="Google Plus"></a>
+		</div>
+
+		<div id="customFooterCopyright">
+			NHL, the NHL Shield, the word mark and image of the Stanley Cup, Center Ice name and logo, NHL Conference logos and NHL Winter Classic name are registered trademarks and Vintage Hockey word mark and logo, Live Every Shift, Hot Off the Ice, Game On, The Game Lives Where You Do, NHL Power Play, NHL Winter Classic logo, NHL Heritage Classic name and logo, NHL Stadium Series name and logo, NHL All-Star Game logo, NHL Face-Off name and logo, NHL GameCenter, NHL GameCenter LIVE, NHL Network name and logo, NHL Mobile name and logo, NHL Radio, NHL Awards name and logo, NHL Draft name and logo, Hockey Fights Cancer, Because It's The Cup, The Biggest Assist Happens Off The Ice, NHL Green name and logo, NHL All-Access Vancouver name and logo, NHL Auctions, NHL Ice Time, Ice Time Any Time, Ice Tracker, NHL Vault, Hockey Is For Everyone, and Questions Will Become Answers are trademarks of the National Hockey League. All NHL logos and marks and NHL team logos and marks depicted herein are the property of the NHL and the respective teams and may not be reproduced without the prior written consent of NHL Enterprises, L.P. © NHL  2014. All Rights Reserved. All NHL team jerseys customized with NHL players' names and numbers are officially licensed by the NHL and the NHLPA.
+			<br/><br/>
+			The Zamboni word mark and configuration of the Zamboni ice resurfacing machine are registered trademarks of Frank J. Zamboni & Co., Inc. © Frank J. Zamboni & Co., Inc. 2014. All Rights Reserved.
+		</div>
+
+	</div><!-- END footer -->
+<!-- End Content Text ID: 1294341 and Content Target ID: 1566155 -->
+	<!-- end mainFooterContent -->
+
+    
+    
+
+    <!-- ShopRunner  Tracking of Marketing links -->
+    
+            <script type="text/javascript" src="/js/shoprunner/edutl.js?v=5.5.1.26373"></script>
+            <script type="text/javascript">storeSREDID();</script>
+    
+
+    <!-- ORD-S03-WEB024 -->
+</div>
+
+                    <!-- End Footer -->
+                    <!-- TCS -->
+                    <!-- TCS Version: 5.5.1.26373 -->
+                </div>
+            </div>
+            <div id="mainOutsideFrameBottomContainer">
+                &nbsp;
+            </div>
+        </div>
+
+    </div>
+    <div class="hidden">
+        
+        
+    </div>
+
+    <ul class="ADAhidden">
+        <li><a href="#skipLinkTopPage">Skip to Top of Page</a></li>
+    </ul>
+    
+<!-- SiteSpect Tracker -->
+<!-- pt:browse|psid:12724|l:|t:|d:jerseys|s:|p:|st:|fp:|pi:|pr:0|ct:0|cc:0|ts:true|thg:true|src:ak1911nhl|tcs:true -->
+<!-- SiteSpect Diagnostics -->
+
+
+<!-- Marin Tracker -->
+<!-- Marin Tracker - ID ffmcg03001 -->
+
+
+<script type="text/javascript"> 
+var _marinClientId = "ffmcg03001"; 
+var _marinProto = (("https:" == document.location.protocol) ? "https://" : "http://"); 
+document.write(unescape("%3Cscript src='" + _marinProto + "tracker.marinsm.com/tracker/" + 
+_marinClientId + ".js' type='text/javascript'%3E%3C/script%3E")); 
+</script> 
+<script type="text/javascript"> 
+try { 
+_marinTrack.trackPage(); 
+} catch(err) {} 
+</script> 
+<noscript> 
+<img src="https://tracker.marinsm.com/tp?act=1&cid=ffmcg03001&script=no" alt="tracker image"> 
+</noscript>
+
+<!-- Google Analytics Async Tracker -->
+<script type="text/javascript">
+	var _gaq = _gaq || []; (function() {
+		var ga = document.createElement("script");
+		ga.type = "text/javascript";
+		ga.async = true;
+		ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
+		var variable_not_called_s = document.getElementsByTagName("script")[0];
+		variable_not_called_s.parentNode.insertBefore(ga, variable_not_called_s);
+	})();
+	var ga_LeagueName = "".split(" ").join("_").toLowerCase();
+	var ga_TeamName = "".split(" ").join("_").toLowerCase();
+	var ga_DepartmentName = "Jerseys".split(" ").join("_").toLowerCase();
+	var ga_SubDeptName = "".split(" ").join("_").toLowerCase();
+	var ga_searchTerm = "";
+	var ga_pageType = "Browse";
+	var ga_onSale = "False";
+	var ga_inStock = "False";
+	var ga_rvwc = "";
+	var ga_prat = "";
+	var ga_pvar = "";
+	var ga_proc = "";
+	var ga_cvar = "";
+	var ga_conc = "";
+	var ga_bucar = "";
+	var ga_buc = "";
+	if ( ga_pageType == "PDP" ) {
+		ga_rvwc = 0;
+		ga_prat = 0;
+		
+		ga_pvar = ga_pvar.slice(0, -1);
+		ga_proc = 0;
+		
+		ga_cvar = ga_cvar.slice(0, -1);
+		ga_conc = 0;
+		
+		ga_bucar = ga_bucar.slice(0, -1);
+		ga_buc = 0;
+		ga_onSale = ga_onSale.toLowerCase();
+		ga_inStock = ga_inStock.toLowerCase();
+	} else {
+		ga_onSale = "";
+		ga_inStock = "";
+	}
+	var _gaContentOutput = "/Jerseys/source/ak1911nhl?pt=Browse&pid=&pp=0&pos=" + ga_onSale + "&pis=" + ga_inStock + "&ln=" + ga_LeagueName + "&tn=" + ga_TeamName + "&dn=" + ga_DepartmentName + "&sdn=" + ga_SubDeptName + "&search=" + ga_searchTerm + "&rvwc=" + ga_rvwc + "&prat=" + ga_prat + "&pvar=" + ga_pvar + "&proc=" + ga_proc + "&cvar=" + ga_cvar + "&conc=" + ga_conc + "&bucar=" + ga_bucar + "&buc=" + ga_buc;
+	</script>
+<!-- Global North/South - UA-26404787-1 -->
+<script type="text/javascript"> var _gaq = _gaq || []; _gaq.push(["northsouth._setAccount", "UA-26404787-1"],["northsouth._setCustomVar", 1, "psid", "12724", 1],["northsouth._trackPageview", _gaContentOutput]); </script> 
+
+<!-- Google Analytics - Global North/Chicago Migrations - UA-38309597-1 -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(["acm._setAccount", "UA-38309597-1"],
+	["acm._setCustomVar", 1, "psid", "12724", 2],	
+	["acm._setCustomVar", 2, "League", "", 2],
+	["acm._setCustomVar", 3, "Team", "", 2],
+	["acm._setCustomVar", 4, "Department", "Jerseys", 2],
+	["acm._trackPageview", _gaContentOutput]); 
+</script>
+
+<!-- GA - Fanatics TCS 1.1.14 - UA-46755957-1 -->
+<script type="text/javascript"> var _gaq = _gaq || []; _gaq.push(["TCS1114._setAccount", "UA-46755957-1"], ["TCS1114._setCustomVar", 1, "psid", "12724", 2], ["TCS1114._setCustomVar", 2, "League", "", 2], ["TCS1114._setCustomVar", 3, "Team", "", 2], ["TCS1114._setCustomVar", 4, "Department", "Jerseys", 2], ["TCS1114._trackPageview", _gaContentOutput]); </script> 
+
+<!-- Omniture - SiteCatalyst -->
+<!-- SiteCatalyst code version: H.24.4. Copyright 1996-2012 Adobe, Inc. All Rights Reserved More info available at http://www.omniture.com -->
+<!-- SiteCatalyst Tracker -->
+<script type="text/javascript">
+var fanatics_s_account = "fanaticsdev,fannhldev";
+var sc_PSID = "12724";
+</script>
+<script type="text/javascript" src="//images.footballfanatics.com/js/adobe/s_code_v1.8.js"></script>
+<script type="text/javascript">
+// Variables: All Pages
+$s.prop13 = "5.5.1.26373|1.8";
+$s.prop29 = "ORD-S03-WEB024";
+$s.prop59 = "eszsgcxhb0ld5qplu2o5qahc";
+var sc_pageURL = "/Jerseys/source/ak1911nhl";
+var sc_lastCharURL = 0;
+if (sc_pageURL.indexOf("?") > 0) {
+sc_lastCharURL = sc_pageURL.indexOf("?");
+} else {
+sc_lastCharURL = sc_pageURL.length;
+}
+$s.eVar50 = sc_pageURL.substring(0,sc_lastCharURL);
+$s.eVar54 = "shop.nhl.com";
+$s.eVar59 = "eszsgcxhb0ld5qplu2o5qahc";
+$s.eVar62 = "Browse";
+var sc_LeagueName = "".split(" ").join("_").toLowerCase();
+var sc_TeamName = "".split(" ").join("_").toLowerCase();
+var sc_DepartmentName = "Jerseys".split(" ").join("_").toLowerCase();
+var sc_SubDeptName = "".split(" ").join("_").toLowerCase();
+var sc_pageType = "Browse";
+var sc_onSale = "False";
+var sc_inStock = "False";
+var sc_rvwc = "";
+var sc_prat = "";
+var sc_pvar = "";
+var sc_proc = "";
+var sc_cvar = "";
+var sc_conc = "";
+var sc_bucar = "";
+var sc_buc = "";
+if ( sc_pageType == "PDP" ) {
+	sc_rvwc = 0;
+	sc_prat = 0;
+	
+	sc_pvar = sc_pvar.slice(0, -1);
+	sc_proc = 0;
+	
+	sc_cvar = sc_cvar.slice(0, -1);
+	sc_conc = 0;
+	
+	sc_bucar = sc_bucar.slice(0, -1);
+	sc_buc = 0;
+	sc_onSale = sc_onSale.toLowerCase();
+	sc_inStock = sc_inStock.toLowerCase();
+}
+$s.prop58 = "/Jerseys/source/ak1911nhl?pt=Browse\&pid=\&pp=0\&pos=" + sc_onSale + "\&pis=" + sc_inStock + "\&ln=" + sc_LeagueName + "\&tn=" + sc_TeamName + "\&dn=" + sc_DepartmentName + "\&sdn=" + sc_SubDeptName + "&search=&rvwc=" + sc_rvwc + "&prat=" + sc_prat + "&pvar=" + sc_pvar + "&proc=" + sc_proc + "\&cvar=" + sc_cvar + "\&conc=" + sc_conc + "\&bucar=" + sc_bucar + "\&buc=" + sc_buc;
+$s.eVar58 = "/Jerseys/source/ak1911nhl?pt=Browse\&pid=\&pp=0\&pos=" + sc_onSale + "\&pis=" + sc_inStock + "\&ln=" + sc_LeagueName + "\&tn=" + sc_TeamName + "\&dn=" + sc_DepartmentName + "\&sdn=" + sc_SubDeptName + "\&search=\&rvwc=" + sc_rvwc + "\&prat=" + sc_prat + "\&pvar=" + sc_pvar + "\&proc=" + sc_proc + "\&cvar=" + sc_cvar + "\&conc=" + sc_conc + "\&bucar=" + sc_bucar + "\&buc=" + sc_buc;
+// Checkout Initation for SiteCatalyst
+var sc_OrderItems = [];
+
+var sc_OrderItemsString = sc_OrderItems.join(",");
+var date1YearFuture = new Date();
+date1YearFuture.setDate(date1YearFuture.getDate()+365);
+var s_LastTeam = "";
+if ( s_LastTeam != '' )
+{
+    $s.c_w('s_last_team', s_LastTeam , date1YearFuture);
+}
+var scIsSocial = "False";
+var scIsGuest = "";
+var scIsReturn = "False";
+var scAccountType = "";
+if (scIsGuest == "True") {
+scAccountType = "Guest";
+}
+if (scIsReturn == "True") {
+scAccountType = "Returning";
+}
+if (scIsReturn == "False" && scIsGuest == "False") {
+scAccountType = "New";
+}
+$s.eVar64=scAccountType;
+$s.prop64=scAccountType;
+if (scIsSocial == "True") {
+$s.prop69='Facebook';
+$s.eVar69='Facebook';
+}
+</script>
+
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on the next lines. */
+// Page Type: Browse
+var BrowseLeagueName = "";
+var BrowseTeamName = "";
+var BrowseDepartmentName = "Jerseys";
+var BrowseSubDepartmentName = "";
+var buildPageName = "NHL USA - The Official Online Store of the NHL";
+
+if ( BrowseLeagueName != "" )
+{
+	buildPageName = buildPageName + ":" + BrowseLeagueName;
+}
+if ( BrowseTeamName != "" )
+{
+	buildPageName = buildPageName + ":" + BrowseTeamName;
+}
+if ( BrowseDepartmentName != "" )
+{
+	buildPageName = buildPageName + ":" + BrowseDepartmentName;
+}
+if ( BrowseSubDepartmentName != "" )
+{
+	buildPageName = buildPageName + ":" + BrowseSubDepartmentName;
+}
+$s.pageName = buildPageName;
+$s.prop1="";
+$s.prop2="";
+$s.prop3="browse";
+$s.eVar7="";
+$s.eVar8="";
+$s.eVar9=$s.prop14="Jerseys";
+$s.eVar38="";
+$s.eVar10=":";
+$s.eVar29=sc_browseItemCount();
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code_fan=$s.t();if(s_code_fan)document.write(s_code_fan);
+//--></script>
+
+<!-- iGoDigital Site Experience -->
+<!-- iGoDigital - NHL -->
+<div id="igdRTA"><script type="text/javascript">
+    var mp_protocol = (("https:" == document.location.protocol) ? "https://" : "http://");
+    var rtaRetailer = "nhlshop";
+    var ig_pageType = "Browse";
+    var ig_DepartmentName = "Jerseys".split(" ").join("_").toLowerCase();
+    var ig_SubDeptName = "".split(" ").join("_").toLowerCase();
+    var ig_TeamName = "";
+
+    if (ig_TeamName.length == 0)
+    {
+      ig_TeamName =  "";
+    }
+
+    if (ig_TeamName.length == 0)
+    {
+      ig_TeamName =  "";
+    }
+    var vSeparator = "|";
+    var rtaProductSKU = "";
+    var rtaEmail = "";
+    var rtaCategory = "";
+    var rtaCart = "";
+    var rtaCartAmounts = "";
+    var rtaCartQuantities = "";
+    var rtaCart = "";
+    var rtaCartSku="";
+    var rtaConvertCart = "";
+    var rtaOrderNum = "";
+    var rtaCartAmounts = "";
+    var rtaCartQuantities = "";
+    var rtaSearch = "";
+    var rtaTags="PageType=" + ig_pageType;
+    var rtaSpecial="keepit";
+
+    if ("True" == "True")
+    {
+       rtaTags += vSeparator  + "SiteClass=fanatics";  
+    }
+    else
+    {
+       rtaTags += vSeparator + "SiteClass=partner";         
+    }
+
+    if ("shop.nhl.com".indexOf("fanatics.com") > -1)
+    {
+      rtaTags += vSeparator  + "Psid=10005";
+    }
+    else
+    {
+      rtaTags += vSeparator  + "Psid=12724";
+    }
+
+    if (ig_TeamName.length > 0)
+    {
+       rtaTags += vSeparator  + "TeamName=" + ig_TeamName;
+    }
+
+    if (ig_DepartmentName.length > 0)
+    {
+       rtaTags += vSeparator  + "DepartmentName=" + ig_DepartmentName;
+    }
+
+    if (ig_SubDeptName.length > 0)
+    {
+       rtaTags += vSeparator  + "SubdepartmentName=" + ig_SubDeptName;
+    }            
+    rtaEmail = "";
+    if (rtaEmail.length == 0)
+    {
+        var url = window.location.href;
+
+        regex = /.*e=(\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}).*$/; 
+
+        var emFromUrl = url.match(regex); 
+        if (emFromUrl && emFromUrl.length > 1)
+        {
+         rtaEmail = emFromUrl[1];   
+        }
+
+    }        
+    switch (ig_pageType) {
+     case "Home":
+         // nothing special to do, rtaRetialre is set up and that is all that is required
+         break;
+     case "PDP":
+         //execute code block 1
+            rtaProductSKU = "";
+         break;
+     case "TLP":          
+           rtaCategory = "";
+         break; 
+     case "DLP":
+           rtaCategory = ig_DepartmentName;
+         break;
+     case "SDLP": 
+           rtaCategory = ig_SubDeptName;
+         break;
+
+     case "Hidden":
+         rtaCategory = "";
+           break;
+
+     case "Browse":
+           rtaCategory = "Jerseys";
+         break;
+
+     case "League":
+           rtaCategory = "";
+         break;
+
+     case "MyAccount":
+           rtaCategory = ig_pageType;      
+  
+           var items = jQuery("td.itemnumber").get();
+
+           var skus = "";
+           jQuery(items).each(
+              function( index ) {
+                skus += jQuery.trim(jQuery(this).text()) +  "|";  
+              }
+           );
+
+          if (skus.length > 0)
+          {
+            var ss = document.createElement("img");
+            ss.width = 1;
+            ss.height = 1;
+            ss.style.visibility = "hidden";
+            ss.src =  mp_protocol + rtaRetailer + ".collect.igodigital.com/collect/ownit/"+ rtaRetailer +"?skus=" + skus.substring(0, skus.length - 1);
+            document.getElementsByTagName("body")[0].appendChild(ss);
+          }
+
+         break;
+
+     case "Cart":
+     case "CheckoutStart":
+     case "CheckoutAddressInfo":
+     case "CheckoutPaymentInfo":
+        // iGoDigital RTA Initialization
+        rtaCart= '';
+        rtaCartAmounts= '';
+        rtaCartQuantities= '';
+        if (rtaCart.length > 0)
+           {
+              rtaCart = rtaCart.substring(0, rtaCart.length - 1);
+              rtaCartAmounts = rtaCartAmounts.substring(0, rtaCartAmounts.length - 1);
+              rtaCartQuantities = rtaCartQuantities.substring(0, rtaCartQuantities.length - 1);
+           }
+
+         break;
+
+     case "CheckoutConfirmation":
+         rtaCart= '';
+         rtaCartAmounts= '';
+         rtaCartQuantities= '';
+         rtaConvertCart = "1";
+         rtaOrderNum = "";
+
+         if (rtaCart.length > 0)
+           {
+              rtaCart = rtaCart.substring(0, rtaCart.length - 1);
+              rtaCartAmounts = rtaCartAmounts.substring(0, rtaCartAmounts.length - 1);
+              rtaCartQuantities = rtaCartQuantities.substring(0, rtaCartQuantities.length - 1);
+           }
+           var items = jQuery("td.itemNum").get();
+           var skus = "";
+           jQuery(items).each(
+              function( index ) {
+                skus += jQuery.trim(jQuery(this).text()) +  "|";  
+              }
+           );
+
+          if (skus.length > 0)
+          {
+                 var ss = document.createElement("img");
+                 ss.width = 1;
+                 ss.height = 1;
+                 ss.style.visibility = "hidden";
+                 ss.src =  mp_protocol + rtaRetailer + ".collect.igodigital.com/collect/ownit/"+ rtaRetailer +"?skus=" + skus.substring(0, skus.length - 1);
+                 document.getElementsByTagName("body")[0].appendChild(ss);
+          }
+
+         break;
+     case "SR":
+           rtaSearch = "";
+         break;
+     default:
+         break;
+    }
+
+  rtaCartSku=rtaCart;
+  jQuery.getScript(mp_protocol + "nhlshop.collect.igodigital.com/igdrta.js", function (data, textStatus, jqxhr) {
+     callRTA();
+  });
+</script></div>
+
+<!-- Marin Tracker - ID ffsp003003 -->
+
+
+<script type="text/javascript"> 
+var _marinClientId = "ffsp003003"; 
+var _marinProto = (("https:" == document.location.protocol) ? "https://" : "http://"); 
+document.write(unescape("%3Cscript src='" + _marinProto + "tracker.marinsm.com/tracker/" + 
+_marinClientId + ".js' type='text/javascript'%3E%3C/script%3E")); 
+</script> 
+<script type="text/javascript"> 
+try { 
+_marinTrack.trackPage(); 
+} catch(err) {} 
+</script> 
+<noscript> 
+<img src="https://tracker.marinsm.com/tp?act=1&cid=ffsp003003&script=no" > 
+</noscript>
+
+<!-- Marin Tracker - ID 5542h210424 -->
+
+
+<script type="text/javascript"> 
+var _marinClientId = "5542h210424"; 
+var _marinProto = (("https:" == document.location.protocol) ? "https://" : "http://"); 
+document.write(unescape("%3Cscript src='" + _marinProto + "tracker.marinsm.com/tracker/" + 
+_marinClientId + ".js' type='text/javascript'%3E%3C/script%3E")); 
+</script> 
+<script type="text/javascript"> 
+try { 
+_marinTrack.trackPage(); 
+} catch(err) {} 
+</script> 
+<noscript> 
+<img src="https://tracker.marinsm.com/tp?act=1&cid=5542h210424&script=no" alt="tracker image"> 
+</noscript>
+
+<!-- GA ST - UA-23279245-2 - NHL -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(["nhl._setAccount", "UA-23279245-2"],["nhl._setCustomVar", 1, "psid", "12724", 1],["nhl._trackPageview", _gaContentOutput]);
+</script> 
+
+<!-- ClearSaleing -->
+<!-- NHL - ClearSaleing Code -->
+<script type="text/javascript">
+var cs_isProd="True";
+var cs_account="11241042";
+if ( ( cs_isProd == "True" ) || ( cs_isProd == "true" ) )
+{
+   cs_account="11141042";
+}
+document.write('<scr' + 'ipt type="text/javascript" src="https://dsa.csdata1.com/data/js/' + cs_account + '/csgather.js"></scr' + 'ipt>');
+</script>
+
+<!-- IgnitionOne -->
+<!-- IgnitionOne-Browse -->
+<script type="text/javascript">
+(function() {
+var h = 'com-footballfan.netmng.com';
+var a = '2436';
+var t = document.createElement('script');
+t.type = 'text/javascript'; t.async = true;
+var p = 'https:'==document.location.protocol?'https://':'http://';
+var m = document.referrer.match(/https?:\/\/([a-z]\.[a-z\.])/i);
+var r = (m && m[1] != document.location.hostname) ? ('&ref=' + escape(document.referrer)) : '';
+var d = ['click', 'Product_ID='];
+d = '&nm_data='+escape(d.join('|'));
+t.src = p + h + '/?async=1&aid=' + a + r + d;
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(t, s);
+})();
+</script>
+
+
+
+<!-- Steelhouse -->
+<!-- Steelhouse - NHL Shop -->
+<script type="text/javascript">
+(function(){"use strict";var e=null,b="4.0.0",
+n="10624",
+additional="",
+t,r,i;try{t=top.document.referer!==""?encodeURIComponent(top.document.referrer.substring(0,2048)):""}catch(o){t=document.referrer!==null?document.referrer.toString().substring(0,2048):""}try{r=window&&window.top&&document.location&&window.top.location===document.location?document.location:window&&window.top&&window.top.location&&""!==window.top.location?window.top.location:document.location}catch(u){r=document.location}try{i=parent.location.href!==""?encodeURIComponent(parent.location.href.toString().substring(0,2048)):""}catch(a){try{i=r!==null?encodeURIComponent(r.toString().substring(0,2048)):""}catch(f){i=""}}var l,c=document.createElement("script"),h=null,p=document.getElementsByTagName("script"),d=Number(p.length)-1,v=document.getElementsByTagName("script")[d];if(typeof l==="undefined"){l=Math.floor(Math.random()*1e17)}h="dx.steelhousemedia.com/spx?"+"dxver="+b+"&shaid="+n+"&tdr="+t+"&plh="+i+"&cb="+l+additional;c.type="text/javascript";c.src=("https:"===document.location.protocol?"https://":"http://")+h;v.parentNode.insertBefore(c,v)})()
+</script>
+
+
+
+    
+
+    <!-- ORD-S03-WEB024 -->
+    <!-- v: 5.5.1.26373 -->
+    <!-- sid: eszsgcxhb0ld5qplu2o5qahc -->
+</body>
+</html>

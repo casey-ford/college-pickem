@@ -1,0 +1,1098 @@
+<!DOCTYPE html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" itemscope itemtype="http://schema.org/Thing" lang="en-US" lang="en">
+<head>
+
+  <script src="//cdn.optimizely.com/js/76817666.js"></script>
+  
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link rel="shortcut icon" href="https://static.squarespace.com/static/ta/51f6e27de4b0de090f863a1e/2001/assets/ico/favicon.png">
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+
+  <!--<link href="/styles/style.css" rel="stylesheet">-->
+
+  <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" rel="stylesheet">
+
+  <script type="text/javascript" src="/scripts/bootstrap.js"></script> 
+
+  <script type="text/javascript" src="/scripts/tracker.js"></script> 
+
+  <script type="text/javascript" src="//use.typekit.net/qnv5grk.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
+  <meta name="google-site-verification" content="0Wh2BIjfBbpCMLdZQi9gx_8Pz69_AO0US4yoRihodzw" />
+
+  <!--INCLUDE SQS SCRIPTS, META TAGS AND USER CONTENT FROM THE CODE INJECTION TAB-->
+
+  <!-- This is Squarespace. --><!-- bizo-dev -->
+<base href="">
+<meta charset="utf-8" />
+<title>B2B Online Marketing Platform — Bizo</title>
+<link rel="canonical" href="http://www.bizo.com/technology/"/>
+<meta property="og:site_name" content="Bizo"/>
+<meta property="og:title" content="B2B Online Marketing Platform"/>
+<meta property="og:url" content="http://www.bizo.com/technology/"/>
+<meta property="og:type" content="website"/>
+<meta property="og:description" content="Reach target prospects wherever they are online using Bizo's online 
+marketing platform. Integrate your B2B marketing programs with Bizo 
+technology today!"/>
+<meta property="og:image" content="http://static.squarespace.com/static/51f6e27de4b0de090f863a1e/t/527281aae4b0804eedc09c41/1415661045569/?format=1000w"/>
+<meta itemprop="name" content="B2B Online Marketing Platform"/>
+<meta itemprop="url" content="http://www.bizo.com/technology/"/>
+<meta itemprop="description" content="Reach target prospects wherever they are online using Bizo's online 
+marketing platform. Integrate your B2B marketing programs with Bizo 
+technology today!"/>
+<meta itemprop="thumbnailUrl" content="http://static.squarespace.com/static/51f6e27de4b0de090f863a1e/t/527281aae4b0804eedc09c41/1415661045569/?format=1000w"/>
+<link rel="image_src" href="http://static.squarespace.com/static/51f6e27de4b0de090f863a1e/t/527281aae4b0804eedc09c41/1415661045569/?format=1000w" />
+<meta itemprop="image" content="http://static.squarespace.com/static/51f6e27de4b0de090f863a1e/t/527281aae4b0804eedc09c41/1415661045569/?format=1000w"/>
+<meta name="description" content="Reach target prospects wherever they are online using Bizo's online 
+marketing platform. Integrate your B2B marketing programs with Bizo 
+technology today!" />
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//static.squarespace.com/universal/scripts-compressed/common-817472d575539890a7b968c50bdf5305-min.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//static.squarespace.com/universal/scripts-compressed/commerce-650e47545b9176d968be811402d7e47c-min.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//static.squarespace.com/universal/styles-compressed/commerce-971e9046e5e99522e9322fd767c79e52-min.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"/>
+<script type="text/javascript" data-sqs-type="dynamic-assets-loader">(function() {(function(a){try{if(window.top!=window&&window.top.Squarespace&&window.top.Squarespace.frameAvailable){window.top.Squarespace.frameAvailable(window,SQUARESPACE_ROLLUPS);return}}catch(d){console.error(d)}for(var c in a){if(a[c].js)for(var b=0;b<a[c].js.length;b++)document.write('<script type="text/javascript" src="'+a[c].js[b]+'">\x3c/script>');if(a[c].css)for(b=0;b<a[c].css.length;b++)document.write('<link rel="stylesheet" type="text/css" href="'+a[c].css[b]+'" />')}})(SQUARESPACE_ROLLUPS);
+})();</script>
+<script> Static.SQUARESPACE_CONTEXT = {"rollups":{"squarespace-audio-player":{"css":"//static.squarespace.com/universal/styles-compressed/audio-player-17b7c11af0c90c4cb8ee0999bdfdec2b-min.css","js":"//static.squarespace.com/universal/scripts-compressed/audio-player-358f4e174c8ea2ddcf984187f417b0aa-min.js"},"squarespace-calendar-block-renderer":{"css":"//static.squarespace.com/universal/styles-compressed/calendar-block-renderer-edb9ea58c015fca447b97a2948a5c589-min.css","js":"//static.squarespace.com/universal/scripts-compressed/calendar-block-renderer-01bd00dbae572dfd44dd0f02bb12e5d3-min.js"},"squarespace-comments":{"css":"//static.squarespace.com/universal/styles-compressed/comments-cf45d8dcdce2508a1b1556fd3ba4328e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/comments-dd486b553ea9d82ad912c63d92f3b8b6-min.js"},"squarespace-dialog":{"css":"//static.squarespace.com/universal/styles-compressed/dialog-d049182176bf38b34f9c5574bbfe220e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/dialog-10b6da468790037af3dcd0cb9a6c1f03-min.js"},"squarespace-events-collection":{"css":"//static.squarespace.com/universal/styles-compressed/events-collection-edb9ea58c015fca447b97a2948a5c589-min.css","js":"//static.squarespace.com/universal/scripts-compressed/events-collection-35a90e79e6a10181c8acc03a62876931-min.js"},"squarespace-pinterest":{"css":"//static.squarespace.com/universal/styles-compressed/pinterest-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/pinterest-67073476a1985644e993d4d017d79a71-min.js"}},"pageType":2,"website":{"id":"51f6e27de4b0de090f863a1e","identifier":"bizo-dev","contentModifiedOn":1415661045569,"cloneable":false,"developerMode":true,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Bizo","siteDescription":"","location":{"mapZoom":11.0,"mapLat":37.74774526050787,"mapLng":-122.40424628203124,"markerLat":37.7908964,"markerLng":-122.40149969999999,"addressTitle":"Bizo HQ","addressLine1":"225 Bush Street, #1150","addressLine2":"San Francisco CA 94104","addressCountry":"USA"},"logoImageId":"527281aae4b0804eedc09c41","shareButtonOptions":{"1":true,"8":true,"6":true,"2":true,"5":true,"7":true,"4":true,"3":true},"logoImageUrl":"//static.squarespace.com/static/51f6e27de4b0de090f863a1e/t/527281aae4b0804eedc09c41/1415661045569/","authenticUrl":"http://www.bizo.com","baseUrl":"http://www.bizo.com","primaryDomain":"www.bizo.com","typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false},"websiteSettings":{"id":"51f6e27de4b0de090f863a1f","websiteId":"51f6e27de4b0de090f863a1e","type":"Business","subject":"Marketing/Advertising","subjects":[{"systemSubject":"other","otherSubject":"Marketing/Advertising"}],"country":"","state":"","markdownMode":false,"simpleLikingEnabled":true,"lastAgreedTermsOfService":2,"defaultPostFormat":"%y/%m/%d/%t","commentLikesAllowed":false,"commentAnonAllowed":false,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":false,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","notFoundPageId":"52d96579e4b01b5207ee0256","homepageTitleFormat":"%s","collectionTitleFormat":"%c \u2014 %s","itemTitleFormat":"%i \u2014 %s","commentsEnabled":false,"contactPhoneNumber":"(866) 497-5505","contactEmail":"contact@bizo.com","allowSquarespacePromotion":true,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"useLightCart":false,"showNoteField":false,"currenciesSupported":["USD"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"orderConfirmationInjectCode":"","showCustomCheckoutForm":false,"enableMailingListOptInByDefault":true,"stripeConnected":false,"storeState":3,"isLive":false},"useEscapeKeyToLogin":true,"configurationMenuItems":[{},{},{},{},{}],"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1},"websiteCloneable":false,"collection":{"title":"B2B Online Marketing Platform","id":"52afd953e4b0ae2d32362cc1","fullUrl":"/technology/"},"subscribed":false,"appDomain":"squarespace.com","secureDomain":"https://bizo-dev.squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","gallery-arrow-style":"Round Corners","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Slideshow","gallery-info-overlay":"Always Show","gallery-loop":"false","gallery-navigation":"Thumbnails","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"350px","gridSpacing":"20px","product-gallery-auto-crop":"true","product-image-auto-crop":"true"},"templateId":"524b5a43e4b0b5e2e07cd313","pageFeatures":[1,2],"impersonatedSession":false,"isFacebookTab":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}}}; SquarespaceFonts.loadViaContext(); Squarespace.load(window); </script>
+
+<!--[if gte IE 9]> <link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/51f6e27de4b0de090f863a1e/36/524b5a43e4b0b5e2e07cd313/524b5a43e4b0b5e2e07cd32b/2028/1415396512825/site.css?&part=1"/><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/51f6e27de4b0de090f863a1e/36/524b5a43e4b0b5e2e07cd313/524b5a43e4b0b5e2e07cd32b/2028/1415396512825/site.css?&part=2"/><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/51f6e27de4b0de090f863a1e/36/524b5a43e4b0b5e2e07cd313/524b5a43e4b0b5e2e07cd32b/2028/1415396512825/site.css?&part=3"/><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/51f6e27de4b0de090f863a1e/36/524b5a43e4b0b5e2e07cd313/524b5a43e4b0b5e2e07cd32b/2028/1415396512825/site.css?&part=4"/><![endif]-->
+<!--[if lt IE 9]><script src="//static.squarespace.com/universal/scripts-thirdparty/html5/html5-shiv.js"></script><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/51f6e27de4b0de090f863a1e/36/524b5a43e4b0b5e2e07cd313/524b5a43e4b0b5e2e07cd32b/2028/1415396512825/site.css?&noMedia=true&part=1"/><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/51f6e27de4b0de090f863a1e/36/524b5a43e4b0b5e2e07cd313/524b5a43e4b0b5e2e07cd32b/2028/1415396512825/site.css?&noMedia=true&part=2"/><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/51f6e27de4b0de090f863a1e/36/524b5a43e4b0b5e2e07cd313/524b5a43e4b0b5e2e07cd32b/2028/1415396512825/site.css?&noMedia=true&part=3"/><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/51f6e27de4b0de090f863a1e/36/524b5a43e4b0b5e2e07cd313/524b5a43e4b0b5e2e07cd32b/2028/1415396512825/site.css?&noMedia=true&part=4"/><![endif]-->
+<!--[if !IE]> --><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/51f6e27de4b0de090f863a1e/36/524b5a43e4b0b5e2e07cd313/524b5a43e4b0b5e2e07cd32b/2028/1415396512825/site.css?"/><!-- <![endif]-->
+<style>
+  h3 {
+    font-size:22px;
+  }
+</style><!-- End of Squarespace Headers -->
+
+  <!--To load up a script, use this syntax in site.region.  -->
+
+  <script type="text/javascript" src="https://static.squarespace.com/static/ta/51f6e27de4b0de090f863a1e/2028/scripts/combo/?site.js"></script>
+
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="/assets/js/html5shiv.js"></script>
+      <script src="/assets/js/respond.min.js"></script>
+      <![endif]-->
+      <!-- Custom styles for this template -->
+
+    </head>
+    <!-- NAVBAR ================================================== -->
+    <body>
+      <!-- Google Tag Manager -->
+      <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KV5HJZ"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-KV5HJZ');</script>
+      <!-- End Google Tag Manager -->
+
+      <!--top Navbar -->
+      <div class="top-bar">
+        <div class="container">
+          <div class="row">   
+            <div class="col-lg-12">                    
+              <ul class="nav nav-pills pull-right" style="margin-top:2px;">
+                <li><a href="http://blog.bizo.com/">Blog</a></li>
+                <li><a href="/contact/">Sales: 866-497-5505</a></li>
+                <li><a href="https://signin.bizo.com/">Login</a></li>
+              </ul>                    
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Navbar -->
+      <div class="navbar navbar-inverse ">
+        <div class="navbar-inner">
+          <div class="container">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a href="/" class="navbar-brand"><img src="https://static.squarespace.com/static/ta/51f6e27de4b0de090f863a1e/2001/assets/images/logos/bizo-logo-hdr.png" alt="B2B Marketing Solutions and Technology - Bizo"></a>
+            <div class="collapse navbar-collapse">
+              <ul class="nav navbar-nav" id="nav">
+               <li class="dropdown">
+                 <a data-toggle="dropdown" class="dropdown-toggle" href="/full-funnel-display-advertising/">SOLUTIONS</a>
+                 <ul class="dropdown-menu">
+                  <li><a href="/full-funnel-display-advertising/">Full-Funnel Marketing</a></li>
+                  <li><a href="/targeted-display-advertising/">• Targeted Display Advertising </a></li>
+                  <li><a href="/social-advertising/">• Social Advertising </a></li>
+                  <li><a href="/retargeting/">• Retargeting </a></li>
+                  <li><a href="/multi-channel-nurturing/">• Multi-Channel Nurturing</a></li>
+                  <li><a href="/full-funnel-analytics/">• Full-Funnel Analytics </a></li>
+                  <li><a href="/b2b-expertise/">• B2B Expertise </a></li>
+                </ul> 
+              </li>
+              <li class="dropdown">
+               <a data-toggle="dropdown" class="dropdown-toggle" href="/technology/">TECHNOLOGY</a>
+               <ul class="dropdown-menu">
+                 <li><a href="/technology/">Overview </a></li>
+                 <li><a href="/business-audience-data/">Business Audience Data </a></li>
+                 <li><a href="/targetable-segments/">Targetable Segments</a></li>
+                 <li><a href="/certified/">Certified </a></li>
+                 <li><a href="/your-bizo-cookie/">Your Bizo Cookie </a></li>
+                 <li><a href="/privacy-policy/">Privacy Policy </a></li>
+                 <li><a href="/opt-out/">Opt-Out </a></li>
+               </ul> 
+             </li>
+             <li class="dropdown">
+               <a data-toggle="dropdown" class="dropdown-toggle" href="/publisher-programs/">PARTNERS</a>
+               <ul class="dropdown-menu">
+                 <li><a href="/publisher-programs/">Publisher Programs </a></li>
+                 <li><a href="/business-audience-exchange/">Business Audience Exchange </a></li>
+                 <li><a href="/agencies/">Agencies </a></li>
+               </ul> 
+             </li>
+             <li class="dropdown">
+               <a data-toggle="dropdown" class="dropdown-toggle" href="/resource-center/">RESOURCES</a>
+               <ul class="dropdown-menu">
+                <li><a href="/resource-center/">Resource Center </a></li>
+                <li><a href="http://blog.bizo.com/">Blog </a></li>
+                <li><a href="/events/">Events </a></li>
+                <li><a href="/webinars/">Webinars </a></li>
+                <li><a href="/customer-success/">Customer Success</a></li>
+                <li><a href="/newsletters/">Newsletters </a></li>
+                <li><a href="/creative-specs/">Creative Specs</a></li>
+              </ul> 
+            </li>
+            <li class="dropdown">
+              <a href="/customer-success/">CUSTOMER SUCCESS</a>
+            </li>
+            <li class="dropdown">
+             <a data-toggle="dropdown" class="dropdown-toggle" href="/about-bizo/">ABOUT</a>
+             <ul class="dropdown-menu">
+              <li><a href="/about-bizo/">About Bizo </a></li>
+              <li><a href="/contact/">Contact </a></li>
+              <li><a href="/careers/">Careers </a></li>
+              <li><a href="/leadership/">Leadership </a></li>
+              <li><a href="/news/">News and Announcements</a></li> 
+              <li><a href="/media-kit/">Media Kit </a></li>
+              <li><a href="/brand-assets/">Brand Assets </a></li>  
+            </ul> 
+          </li>
+          <div class="top-btns" style="float: right !important;">
+            <a href="/contact/" class="btn btn-success">Contact Us</a>
+            <!--<a href="https://signin.bizo.com/register?product=ss" class="btn btn-danger">Sign up</a>-->
+          </div>
+        </ul>
+      </div>
+    </div><!-- /.container -->
+
+    <div class="contact-tab">
+      <img src="https://static.squarespace.com/static/ta/51f6e27de4b0de090f863a1e/2001/assets/images/contact-tab2.png" data-toggle="modal" data-target="#myModal2">
+    </div>
+  </div>
+</div>
+<!-- End navbar -->
+
+<!-- Modal -->
+<div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 class="modal-title" id="myModalLabel">&nbsp;</h4>
+      </div>
+      
+      <div id="lead-capture">
+        <div class="formbody_cta">
+
+          <h3>Let's get to know each other better!</h3>
+          <p>Fill out the form below so we can better help you<br>with your B2B marketing needs.</p>
+
+          <form method="post" name="startnow-124" action="https://s1695833911.t.eloqua.com/e/f2" id="form124">
+            <input value="startnow-124" type="hidden" name="elqFormName">
+            <input value="1695833911" type="hidden" name="elqSiteId">
+            <input name="elqCampaignId" value="1837" type="hidden">
+            
+            <p><input type="text" class="CCPPInputTextField" name="firstName" id="txtElqFldfirstName" placeholder=" First Name" required=""></p>
+            <p><input type="text" class="CCPPInputTextField" name="lastName" id="txtElqFldlastName" placeholder=" Last Name" required=""></p>
+            <p><input type="text" class="CCPPInputTextField" name="emailAddress" id="txtElqFldemailAddress" placeholder=" Email" required=""></p>
+            <p><input type="text" class="CCPPInputTextField" name="company" id="txtElqFldcompany" value="" placeholder=" Company" required=""></p>
+            <p><input type="text" class="CCPPInputTextField" name="businessPhone" id="txtElqFldbusinessPhone" value="" placeholder=" Business Phone" required=""></p>
+            <p>
+              <select class="CCPPInputSelectField" name="companySize" id="txtElqFldcompanySize" required="">
+                <option value="" selected="selected"> Company Size</option>
+                <option value="1-49" >1-49 employees</option>
+                <option value="50-99" >50-99 employees</option>
+                <option value="100-249" >100-249 employees</option>
+                <option value="250-499" >250-499 employees</option>
+                <option value="500+" >500+ employees</option>
+              </select>
+            </p>
+            <p>
+              <select class="CCPPInputSelectField" name="jobFunction" id="txtElqFldjobFunction" required="">
+                <option value="" selected="selected"> Job Function</option>
+                <option value="CEO/Owner">CEO/Owner</option>
+                <option value="CMO/VP of Marketing">CMO/VP of Marketing</option>
+                <option value="Marketing Director/Manager">Marketing Director/Manager</option>
+                <option value="Marketing Associate">Marketing Associate</option>
+                <option value="Agency Planner">Agency Planner</option>
+                <option value="Agency Supervisor/Director">Agency Supervisor/Director</option>
+                <option value="Agency VP">Agency VP</option><option value="Publisher">Publisher</option>
+                <option value="Other">Other</option>
+              </select>
+            </p>
+            <p>
+              <select class="CCPPInputSelectField txtElqFldstateOrProvince" name="stateOrProvince" id="txtElqFldstateOrProvince" required="">
+                <option value="" selected="selected"> State</option>
+                <option value="AK">Alaska</option>
+                <option value="AL">Alabama</option>
+                <option value="AR">Arkansas</option>
+                <option value="AS">American Samoa</option>
+                <option value="AZ">Arizona</option>
+                <option value="CA">California</option>
+                <option value="CO">Colorado</option>
+                <option value="CT">Connecticut</option>
+                <option value="DC">D.C.</option>
+                <option value="DE">Delaware</option>
+                <option value="FL">Florida</option>
+                <option value="FM">Micronesia</option>
+                <option value="GA">Georgia</option>
+                <option value="GU">Guam</option>
+                <option value="HI">Hawaii</option>
+                <option value="IA">Iowa</option>
+                <option value="ID">Idaho</option>
+                <option value="IL">Illinois</option>
+                <option value="IN">Indiana</option>
+                <option value="KS">Kansas</option>
+                <option value="KY">Kentucky</option>
+                <option value="LA">Louisiana</option>
+                <option value="MA">Massachusetts</option>
+                <option value="MD">Maryland</option>
+                <option value="ME">Maine</option>
+                <option value="MH">Marshall Islands</option>
+                <option value="MI">Michigan</option>
+                <option value="MN">Minnesota</option>
+                <option value="MO">Missouri</option>
+                <option value="MP">Marianas</option>
+                <option value="MS">Mississippi</option>
+                <option value="MT">Montana</option>
+                <option value="NC">North Carolina</option>
+                <option value="ND">North Dakota</option>
+                <option value="NE">Nebraska</option>
+                <option value="NH">New Hampshire</option>
+                <option value="NJ">New Jersey</option>
+                <option value="NM">New Mexico</option>
+                <option value="NV">Nevada</option>
+                <option value="NY">New York</option>
+                <option value="OH">Ohio</option>
+                <option value="OK">Oklahoma</option>
+                <option value="OR">Oregon</option>
+                <option value="PA">Pennsylvania</option>
+                <option value="PR">Puerto Rico</option>
+                <option value="PW">Palau</option>
+                <option value="RI">Rhode Island</option>
+                <option value="SC">South Carolina</option>
+                <option value="SD">South Dakota</option>
+                <option value="TN">Tennessee</option>
+                <option value="TX">Texas</option>
+                <option value="UT">Utah</option>
+                <option value="VA">Virginia</option>
+                <option value="VI">Virgin Islands</option>
+                <option value="VT">Vermont</option>
+                <option value="WA">Washington</option>
+                <option value="WI">Wisconsin</option>
+                <option value="WV">West Virginia</option>
+                <option value="WY">Wyoming</option>
+                <option value="AA">Military Americas</option>
+                <option value="AE">Military Europe/ME/Canada</option>
+                <option value="AP">Military Pacific</option>
+                <option value="AB" class="canadian">Alberta</option>
+                <option value="MB" class="canadian">Manitoba</option>
+                <option value="BC" class="canadian">British Columbia</option>
+                <option value="NB" class="canadian">New Brunswick</option>
+                <option value="NL" class="canadian">Newfoundland and Labrador</option>
+                <option value="NS" class="canadian">Nova Scotia</option>
+                <option value="NT" class="canadian">Northwest Territories</option>
+                <option value="NU" class="canadian">Nunavut</option>
+                <option value="ON" class="canadian">Ontario</option>
+                <option value="SK" class="canadian">Saskatchewan</option>
+                <option value="PE" class="canadian">Prince Edward Island</option>
+                <option value="QC" class="canadian">Quebec</option>
+                <option value="YT" class="canadian">Yukon Territory</option>
+                <option value="United Kingdom">United Kingdom</option>
+                <option value="Outside of US/CA/UK">Outside of US/CA/UK</option>
+              </select>
+            </p>
+
+            <p><input type="textarea" class="CCPPInputTextField" name="HowHelp" id="txtElqFldHowHelp" value="" placeholder="How may we help you?"></p>
+
+            <p style="font-size:14px;">
+              By submitting this form you are opting-in to receive Bizo email communications. 
+              You can unsubscribe <a href="http://b2bmarketing.bizo.com/unsubscribe/~~eloqua..type--PURLName~~?elq=~~eloqua..type--emailfield..syntax--recipientid~~&elqCampaignId=~~eloqua..type--campaign..campaignid--0..fieldname--id~~" target="blank" style="text-decoration:underline;">here</a>.
+            </p>
+
+            <p><input type="submit" class="btn btn-primary content-btn" value="Submit" onclick='elqGetDynamicFormFieldsFromQueryString();return elqValidateRequiredFields();'></p>
+
+            <p class="privacy">We respect <a href="http://bizo.com/businessAudience/privacy_policy?elqTrack=true" target="_blank">your privacy</a> and do not share your personal information.</p>
+            <br>
+          </div>
+          <div class="spacer"></div>
+
+        </form>
+
+        <script src="https://d357yvvzeewyka.cloudfront.net/marketing-javascript/sync_params_to_fields.js"></script>
+        <script>
+        syncParamsToFields({
+          "ls"     : "LeadSource",
+          "elqCampaignId" : "elqCampaignId",
+          "source" : "src"
+        })
+        </script>
+
+
+        <!-- CASL -->
+        <script type="text/javascript">
+        $(document).ready(function() {
+          $(".txtElqFldstateOrProvince").change(function() {
+            if ($("select option:selected").hasClass('canadian')) {
+              $('.add-email').prop('checked', false);
+            }
+            else {
+              $('.add-email').prop('checked', true);
+            }
+          }); 
+        });
+        </script>
+
+      </div><!-- end formContainer -->
+    </div><!-- /.lead-capture -->
+  </div><!-- /.modal-content -->
+</div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+<div class="hero_sub">
+  <div class="container">
+    <div class="caption">
+    </div>
+  </div>
+</div>    <!--CONTENT INJECTION POINT-->
+
+    <section id="content" class="container">    
+     <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1392655631884" id="page-52afd953e4b0ae2d32362cc1"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-6f1d716a79da5d88f8aa"><div class="sqs-block-content"><div class="graphic_header">
+  
+  <h1>Bizo Technology Overview</h1>
+
+</div>
+<div class="graphic_subhead">
+  
+  <p>The world’s most sophisticated B2B online marketing platform.</p>
+
+</div>
+</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-5e7e749d83016d6107be"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-2dd06b610a504e478e07"><div class="sqs-block-content"><div class="lead"><center>A Look Inside the Bizo Marketing Platform.</center></div></div></div></div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-81579507fadf1b85f5be"><div class="sqs-block-content"><p>B2B marketing is different: Sales cycles are longer, and decisions are more complex&nbsp;than most consumer marketing. &nbsp;Bizo's B2B marketing platform has been developed to meet the specific needs of B2B marketers and to enable them to reach target prospects wherever they travel online, and at every stage of an often long and complex B2B purchase process.</p><p><strong>The Bizo Platform includes three primary components:</strong></p></div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-ccbd5d3438e3c6dfbf13"><div class="sqs-block-content">
+	<div class="image-block-outer-wrapper layout-caption-below ">
+	
+		<div class="intrinsic" style="max-width:800.0px;">
+			
+				<div style="padding-bottom:46.375%;" class="image-block-wrapper   " data-description="">
+					<noscript><img src="http://static.squarespace.com/static/51f6e27de4b0de090f863a1e/t/52aff468e4b04f67f91c79a0/1387263081760/Bizo-Platform-data_solutions.png"  alt="Bizo-Platform-data_solutions.png"  /></noscript><img class="thumb-image" alt="Bizo-Platform-data_solutions.png" data-src="http://static.squarespace.com/static/51f6e27de4b0de090f863a1e/t/52aff468e4b04f67f91c79a0/1387263081760/Bizo-Platform-data_solutions.png" data-image="http://static.squarespace.com/static/51f6e27de4b0de090f863a1e/t/52aff468e4b04f67f91c79a0/1387263081760/Bizo-Platform-data_solutions.png" data-image-dimensions="800x371" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="52aff468e4b04f67f91c79a0" data-type="image" />
+				</div>
+			
+
+			
+
+		</div>
+	
+	</div>
+</div></div></div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-cc7163302bbe2b1e4980"><div class="sqs-block-content">
+	<div class="image-block-outer-wrapper layout-caption-below ">
+	
+		<div class="intrinsic" style="max-width:87.0px;">
+			
+				<a href="/business-audience-data" >
+			
+				<div style="padding-bottom:100.0%;" class="image-block-wrapper   " data-description="">
+					<noscript><img src="http://static.squarespace.com/static/51f6e27de4b0de090f863a1e/t/52b08748e4b007c7c22608ee/1387300680441/icon_one.png"  alt="icon_one.png"  /></noscript><img class="thumb-image" alt="icon_one.png" data-src="http://static.squarespace.com/static/51f6e27de4b0de090f863a1e/t/52b08748e4b007c7c22608ee/1387300680441/icon_one.png" data-image="http://static.squarespace.com/static/51f6e27de4b0de090f863a1e/t/52b08748e4b007c7c22608ee/1387300680441/icon_one.png" data-image-dimensions="87x87" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="52b08748e4b007c7c22608ee" data-type="image" />
+				</div>
+			
+				</a>
+			
+
+			
+
+		</div>
+	
+	</div>
+</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-ba7442c4b448159df3ed"><div class="sqs-block-content">
+	<div class="image-block-outer-wrapper layout-caption-below ">
+	
+		<div class="intrinsic" style="max-width:87.0px;">
+			
+				<a href="/full-funnel-display-advertising" >
+			
+				<div style="padding-bottom:100.0%;" class="image-block-wrapper   " data-description="">
+					<noscript><img src="http://static.squarespace.com/static/51f6e27de4b0de090f863a1e/t/52b0878de4b0291b4d2d46ee/1387300749755/icon_two.png"  alt="icon_two.png"  /></noscript><img class="thumb-image" alt="icon_two.png" data-src="http://static.squarespace.com/static/51f6e27de4b0de090f863a1e/t/52b0878de4b0291b4d2d46ee/1387300749755/icon_two.png" data-image="http://static.squarespace.com/static/51f6e27de4b0de090f863a1e/t/52b0878de4b0291b4d2d46ee/1387300749755/icon_two.png" data-image-dimensions="87x87" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="52b0878de4b0291b4d2d46ee" data-type="image" />
+				</div>
+			
+				</a>
+			
+
+			
+
+		</div>
+	
+	</div>
+</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-430918e19f93fe59fe4c"><div class="sqs-block-content">
+	<div class="image-block-outer-wrapper layout-caption-below ">
+	
+		<div class="intrinsic" style="max-width:87.0px;">
+			
+				<a href="/data-solutions" >
+			
+				<div style="padding-bottom:100.0%;" class="image-block-wrapper   " data-description="">
+					<noscript><img src="http://static.squarespace.com/static/51f6e27de4b0de090f863a1e/t/52b0879ee4b0f286b726ba63/1387300766763/icon_three.png"  alt="icon_three.png"  /></noscript><img class="thumb-image" alt="icon_three.png" data-src="http://static.squarespace.com/static/51f6e27de4b0de090f863a1e/t/52b0879ee4b0f286b726ba63/1387300766763/icon_three.png" data-image="http://static.squarespace.com/static/51f6e27de4b0de090f863a1e/t/52b0879ee4b0f286b726ba63/1387300766763/icon_three.png" data-image-dimensions="87x87" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="52b0879ee4b0f286b726ba63" data-type="image" />
+				</div>
+			
+				</a>
+			
+
+			
+
+		</div>
+	
+	</div>
+</div></div></div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-60a5cf7b74f5678c9770"><div class="sqs-block-content"><h3 class="text-align-center">Audience Data</h3></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-56fbf8a081d004887009"><div class="sqs-block-content"><h3 class="text-align-center">B2B Advertising Solutions</h3></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-ae0dda4d4d2b15537c86"><div class="sqs-block-content"><h3 class="text-align-center">Data Solutions</h3></div></div></div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-7f8e241dcbb7aca92db3"><div class="sqs-block-content"><p><a href="/business-audience-data">Bizo Audience Data</a>: At its core, the&nbsp;Platform is fueled by Bizo’s proprietary audience of more than 120 million business&nbsp;<span>professionals around the world, including 90% of the U.S. business population,&nbsp;</span><span>which enables a wide range of targeted marketing programs geared to make an impact across the B2B marketing funnel for Bizo’s <a href="/full-funnel-display-advertising">direct </a></span><span><a href="/full-funnel-display-advertising">clients</a>, as well as Bizo’s <a href="/channel-programs">channel partners</a></span><span>.</span></p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-b3ad676a0a59a5b9c6db"><div class="sqs-block-content"><p><span>Leveraging Bizo’s targetable audience data</span><span>, the Bizo platform includes a range of packaged multi-channel and <a href="/full-funnel-display-advertising">full-funnel marketing solutions</a></span><span>&nbsp;that are fully-supported by Bizo’s <a href="/b2b-expertise">team of B2B experts</a></span><span>&nbsp;and include out-of-the box <a href="/full-funnel-analytics">full-funnel analytics</a></span><span>&nbsp;reports and dashboards that give complete visibility into program performance. &nbsp;&nbsp;</span></p><p><!--EndFragment--></p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-c581179eb48e408be22c"><div class="sqs-block-content"><p><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+<o:Revision>0</o:Revision>
+<o:TotalTime>0</o:TotalTime>
+<o:Pages>1</o:Pages>
+<o:Words>73</o:Words>
+<o:Characters>418</o:Characters>
+<o:Company>Bizo Inc.</o:Company>
+<o:Lines>3</o:Lines>
+<o:Paragraphs>1</o:Paragraphs>
+<o:CharactersWithSpaces>490</o:CharactersWithSpaces>
+<o:Version>14.0</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+<o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+<w:View>Normal</w:View>
+<w:Zoom>0</w:Zoom>
+<w:TrackMoves/>
+<w:TrackFormatting/>
+<w:PunctuationKerning/>
+<w:ValidateAgainstSchemas/>
+<w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+<w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+<w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+<w:DoNotPromoteQF/>
+<w:LidThemeOther>EN-US</w:LidThemeOther>
+<w:LidThemeAsian>JA</w:LidThemeAsian>
+<w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+<w:Compatibility>
+ <w:BreakWrappedTables/>
+ <w:SnapToGridInCell/>
+ <w:WrapTextWithPunct/>
+ <w:UseAsianBreakRules/>
+ <w:DontGrowAutofit/>
+ <w:SplitPgBreakAndParaMark/>
+ <w:EnableOpenTypeKerning/>
+ <w:DontFlipMirrorIndents/>
+ <w:OverrideTableStyleHps/>
+ <w:UseFELayout/>
+</w:Compatibility>
+<m:mathPr>
+ <m:mathFont m:val="Cambria Math"/>
+ <m:brkBin m:val="before"/>
+ <m:brkBinSub m:val="&#45;-"/>
+ <m:smallFrac m:val="off"/>
+ <m:dispDef/>
+ <m:lMargin m:val="0"/>
+ <m:rMargin m:val="0"/>
+ <m:defJc m:val="centerGroup"/>
+ <m:wrapIndent m:val="1440"/>
+ <m:intLim m:val="subSup"/>
+ <m:naryLim m:val="undOvr"/>
+</m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+LatentStyleCount="276">
+<w:LsdException Locked="false" Priority="0" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+<w:LsdException Locked="false" Priority="9" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+<w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+<w:LsdException Locked="false" Priority="10" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+<w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+<w:LsdException Locked="false" Priority="11" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+<w:LsdException Locked="false" Priority="22" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+<w:LsdException Locked="false" Priority="20" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+<w:LsdException Locked="false" Priority="59" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Table Grid"/>
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+<w:LsdException Locked="false" Priority="1" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Shading"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light List"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Grid"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 1"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 2"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 1"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 2"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 1"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 2"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 3"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Dark List"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Shading"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful List"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Grid"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light List Accent 1"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+<w:LsdException Locked="false" Priority="34" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+<w:LsdException Locked="false" Priority="29" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+<w:LsdException Locked="false" Priority="30" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light List Accent 2"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light List Accent 3"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light List Accent 4"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light List Accent 5"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light List Accent 6"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+ UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+<w:LsdException Locked="false" Priority="19" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+<w:LsdException Locked="false" Priority="21" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+<w:LsdException Locked="false" Priority="31" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+<w:LsdException Locked="false" Priority="32" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+<w:LsdException Locked="false" Priority="33" SemiHidden="false"
+ UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+<w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+<w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:Cambria;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]--><!--StartFragment-->Brands use <a href="/data-solutions">Bizo Data Solutions</a>&nbsp;to tap into Bizo’s audience data to fuel and get more value out of their existing programs and “marketing technology stack.”&nbsp; Through integration with existing CRM, marketing automation, web analytics, content management, and other external data management platforms, Bizo is enabling a broad range of applications for B2B brands from synchronized media targeting to web analytics to search targeting to website personalization.&nbsp;<!--EndFragment--></p></div></div></div></div><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-3" data-block-type="21" id="block-82d27bc132171328c785"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+    </section>
+
+<div class="footercta">
+  <div class="container">
+    <div class="caption">
+      <p style="margin-top:-10px;">
+        Ready to get started?
+        <button class="btn btn-large btn-danger banner-btn btn-lg" data-toggle="modal" data-target="#myModal" style="margin-left:10px;">Start Now</button>
+    </p>  
+
+</div>
+</div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 class="modal-title" id="myModalLabel">&nbsp;</h4>
+    </div>
+
+    <div id="lead-capture">
+        <div class="formbody_cta">
+
+          <h3>Let's get to know each other better!</h3>
+          <p>Fill out the form below so we can better help you<br>with your B2B marketing needs.</p>
+
+          <form method="post" name="startnow-124" action="https://s1695833911.t.eloqua.com/e/f2" id="form124">
+            <input value="startnow-124" type="hidden" name="elqFormName">
+            <input value="1695833911" type="hidden" name="elqSiteId">
+            <input name="elqCampaignId" value="1837" type="hidden">
+            
+            <p><input type="text" class="CCPPInputTextField" name="firstName" id="txtElqFldfirstName" placeholder=" First Name" required=""></p>
+            <p><input type="text" class="CCPPInputTextField" name="lastName" id="txtElqFldlastName" placeholder=" Last Name" required=""></p>
+            <p><input type="text" class="CCPPInputTextField" name="emailAddress" id="txtElqFldemailAddress" placeholder=" Email" required=""></p>
+            <p><input type="text" class="CCPPInputTextField" name="company" id="txtElqFldcompany" value="" placeholder=" Company" required=""></p>
+            <p><input type="text" class="CCPPInputTextField" name="businessPhone" id="txtElqFldbusinessPhone" value="" placeholder=" Business Phone" required=""></p>
+            <p>
+              <select class="CCPPInputSelectField" name="companySize" id="txtElqFldcompanySize" required="">
+                <option value="" selected="selected"> Company Size</option>
+                <option value="1-49" >1-49 employees</option>
+                <option value="50-99" >50-99 employees</option>
+                <option value="100-249" >100-249 employees</option>
+                <option value="250-499" >250-499 employees</option>
+                <option value="500+" >500+ employees</option>
+            </select>
+        </p>
+        <p>
+          <select class="CCPPInputSelectField" name="jobFunction" id="txtElqFldjobFunction" required="">
+            <option value="" selected="selected"> Job Function</option>
+            <option value="CEO/Owner">CEO/Owner</option>
+            <option value="CMO/VP of Marketing">CMO/VP of Marketing</option>
+            <option value="Marketing Director/Manager">Marketing Director/Manager</option>
+            <option value="Marketing Associate">Marketing Associate</option>
+            <option value="Agency Planner">Agency Planner</option>
+            <option value="Agency Supervisor/Director">Agency Supervisor/Director</option>
+            <option value="Agency VP">Agency VP</option><option value="Publisher">Publisher</option>
+            <option value="Other">Other</option>
+        </select>
+    </p>
+    <p>
+      <select class="CCPPInputSelectField txtElqFldstateOrProvince" name="stateOrProvince" id="txtElqFldstateOrProvince" required="">
+        <option value="" selected="selected"> State</option>
+        <option value="AK">Alaska</option>
+        <option value="AL">Alabama</option>
+        <option value="AR">Arkansas</option>
+        <option value="AS">American Samoa</option>
+        <option value="AZ">Arizona</option>
+        <option value="CA">California</option>
+        <option value="CO">Colorado</option>
+        <option value="CT">Connecticut</option>
+        <option value="DC">D.C.</option>
+        <option value="DE">Delaware</option>
+        <option value="FL">Florida</option>
+        <option value="FM">Micronesia</option>
+        <option value="GA">Georgia</option>
+        <option value="GU">Guam</option>
+        <option value="HI">Hawaii</option>
+        <option value="IA">Iowa</option>
+        <option value="ID">Idaho</option>
+        <option value="IL">Illinois</option>
+        <option value="IN">Indiana</option>
+        <option value="KS">Kansas</option>
+        <option value="KY">Kentucky</option>
+        <option value="LA">Louisiana</option>
+        <option value="MA">Massachusetts</option>
+        <option value="MD">Maryland</option>
+        <option value="ME">Maine</option>
+        <option value="MH">Marshall Islands</option>
+        <option value="MI">Michigan</option>
+        <option value="MN">Minnesota</option>
+        <option value="MO">Missouri</option>
+        <option value="MP">Marianas</option>
+        <option value="MS">Mississippi</option>
+        <option value="MT">Montana</option>
+        <option value="NC">North Carolina</option>
+        <option value="ND">North Dakota</option>
+        <option value="NE">Nebraska</option>
+        <option value="NH">New Hampshire</option>
+        <option value="NJ">New Jersey</option>
+        <option value="NM">New Mexico</option>
+        <option value="NV">Nevada</option>
+        <option value="NY">New York</option>
+        <option value="OH">Ohio</option>
+        <option value="OK">Oklahoma</option>
+        <option value="OR">Oregon</option>
+        <option value="PA">Pennsylvania</option>
+        <option value="PR">Puerto Rico</option>
+        <option value="PW">Palau</option>
+        <option value="RI">Rhode Island</option>
+        <option value="SC">South Carolina</option>
+        <option value="SD">South Dakota</option>
+        <option value="TN">Tennessee</option>
+        <option value="TX">Texas</option>
+        <option value="UT">Utah</option>
+        <option value="VA">Virginia</option>
+        <option value="VI">Virgin Islands</option>
+        <option value="VT">Vermont</option>
+        <option value="WA">Washington</option>
+        <option value="WI">Wisconsin</option>
+        <option value="WV">West Virginia</option>
+        <option value="WY">Wyoming</option>
+        <option value="AA">Military Americas</option>
+        <option value="AE">Military Europe/ME/Canada</option>
+        <option value="AP">Military Pacific</option>
+        <option value="AB" class="canadian">Alberta</option>
+        <option value="MB" class="canadian">Manitoba</option>
+        <option value="BC" class="canadian">British Columbia</option>
+        <option value="NB" class="canadian">New Brunswick</option>
+        <option value="NL" class="canadian">Newfoundland and Labrador</option>
+        <option value="NS" class="canadian">Nova Scotia</option>
+        <option value="NT" class="canadian">Northwest Territories</option>
+        <option value="NU" class="canadian">Nunavut</option>
+        <option value="ON" class="canadian">Ontario</option>
+        <option value="SK" class="canadian">Saskatchewan</option>
+        <option value="PE" class="canadian">Prince Edward Island</option>
+        <option value="QC" class="canadian">Quebec</option>
+        <option value="YT" class="canadian">Yukon Territory</option>
+        <option value="United Kingdom">United Kingdom</option>
+        <option value="Outside of US/CA/UK">Outside of US/CA/UK</option>
+    </select>
+</p>
+
+<p><input type="textarea" class="CCPPInputTextField" name="HowHelp" id="txtElqFldHowHelp" value="" placeholder="How may we help you?"></p>
+
+<p style="font-size:14px;">
+    By submitting this form you are opting-in to receive Bizo email communications. 
+    You can unsubscribe <a href="http://b2bmarketing.bizo.com/unsubscribe/~~eloqua..type--PURLName~~?elq=~~eloqua..type--emailfield..syntax--recipientid~~&elqCampaignId=~~eloqua..type--campaign..campaignid--0..fieldname--id~~" target="blank" style="text-decoration:underline;">here</a>.
+</p>
+
+
+<p><input type="submit" class="btn btn-primary content-btn" value="Submit" onclick='elqGetDynamicFormFieldsFromQueryString();return elqValidateRequiredFields();'></p>
+
+<p class="privacy">We respect <a href="http://bizo.com/businessAudience/privacy_policy?elqTrack=true" target="_blank">your privacy</a> and do not share your personal information.</p>
+<br>
+</div>
+<div class="spacer"></div>
+
+</form>
+
+
+<!-- CASL -->
+<script type="text/javascript">
+$(document).ready(function() {
+    $(".txtElqFldstateOrProvince").change(function() {
+        if ($("select option:selected").hasClass('canadian')) {
+            $('.add-email').prop('checked', false);
+        }
+        else {
+          $('.add-email').prop('checked', true);
+      }
+  }); 
+});
+</script>
+
+</div><!-- end formContainer -->
+</div><!-- /.lead-capture -->
+</div><!-- /.modal-content -->
+</div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+    <!------------- footer ------------> 
+    <footer id="footer">
+      <!--squarespace:block-field id="footerBlocks" columns="12" /-->
+      <div class="footer clearfix">
+        <div class="container">
+
+          <div class="row">
+
+            <div class="col-sm-3">
+              <h3>Explore Bizo</h3>
+              <ul class="footer-list">
+                <li><a href="/full-funnel-display-advertising/">Solutions</a></li>
+                <li><a href="/technology/">Technology</a></li>
+                <li><a href="/publisher-programs/">Partners</a></li>
+                <li><a href="/resource-center/">Resources</a></li>
+                <li><a href="/about-bizo/">About</a></li>
+              </ul>
+              <ul class="footer-list">
+                <li><a href="http://blog.bizo.com/">Blog</a></li>
+                <li><a href="http://dev.bizo.com/" target="_blank">Engineering Blog</a></li>
+                <li><a href="/contact/">Contact Us</a></li>
+                <li><a href="/privacy-policy/">Privacy</a></li>
+                <li>&nbsp;</li>
+              </ul>
+            </div>
+
+            <div class="col-sm-3">
+              <h3>Connect with us</h3>
+              <ul class="footer-list">
+                <li><a href="http://www.linkedin.com/companies/440829" target="_blank"><i class="fa-footer fa fa-linkedin"></i> LinkedIn</a></li>
+                <li><a href="http://twitter.com/Bizo" target="_blank"><i class="fa-footer fa fa-twitter"></i> Twitter</a></li>
+                <li><a href="http://www.facebook.com/#!/pages/Bizo/122885791122860" target="_blank"><i class="fa-footer fa fa-facebook"></i> &nbsp;&nbsp;Facebook</a></li>
+                <li><a href="http://www.youtube.com/user/BizoB2B" target="_blank"><i class="fa-footer fa fa-youtube"></i> YouTube</a></li>
+                <li><a href="https://plus.google.com/b/105476552257959530330/" target="_blank"><i class="fa-footer fa fa-google-plus"></i> Google+</a></li>
+              </ul>
+            </div>
+
+            <div class="col-sm-3 captora">
+             <h3 class="footer-resource">Resource Center</h3>
+             <div class="resource footer-resource">
+              <a href="/resources/"><img src="https://static.squarespace.com/static/ta/51f6e27de4b0de090f863a1e/1669/assets/images/footer/bizo-library.png" alt="library"></a>
+              <br>
+                <a href="/resources/" class="gold">See the full Bizo Resource Center &nbsp;<i class="fa-footer fa fa-chevron-circle-right"></i> </a>
+              </div>
+            </div> 
+
+            <div class="col-sm-3">
+             <div class="resources">
+              <div class="top-btns footer-btns">
+                <img src="https://static.squarespace.com/static/ta/51f6e27de4b0de090f863a1e/1669/assets/images/footer/bizo-linkedin_logo.png" alt="logo" style="vertical-align:bottom;">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row footer-bottom">
+          <br><br>
+          <div class="col-md-8">
+            <a href="http://www.sfchamber.com/" target="_blank"><img src="https://static.squarespace.com/static/ta/51f6e27de4b0de090f863a1e/1669/assets/images/footer/footer-logo-thumb1.png" alt="San Francisco Chamber of Commerce"></a>
+            <a href="http://info.evidon.com/companies/bizo" target="_blank"><img src="https://static.squarespace.com/static/ta/51f6e27de4b0de090f863a1e/1669/assets/images/footer/footer-logo-thumb2.png" alt="Evidon"></a>
+            <a href="http://www.aboutads.info/choices/" target="_blank"><img src="https://static.squarespace.com/static/ta/51f6e27de4b0de090f863a1e/1669/assets/images/footer/footer-logo-thumb3.png" alt="AdChoices"></a>
+            <a href="http://www.bpaww.com/" target="_blank"><img src="https://static.squarespace.com/static/ta/51f6e27de4b0de090f863a1e/1669/assets/images/footer/footer-logo-thumb4.png" alt="BPA"></a>
+            <a href="http://bbb.org/" target="_blank"><img src="https://static.squarespace.com/static/ta/51f6e27de4b0de090f863a1e/1669/assets/images/footer/footer-logo-thumb5.png" alt="BBB"></a>
+            <a href="http://www.iab.net/" target="_blank"><img src="https://static.squarespace.com/static/ta/51f6e27de4b0de090f863a1e/1669/assets/images/footer/footer-logo-thumb6-2.png" alt="IAB"></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="margin-top:-20px;"></div>
+  </footer>
+
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <!-- <script src="https://code.jquery.com/jquery.js"></script>-->
+
+
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+
+  <!-- <script src="/js/bootstrap.min.js" type="text/javascript"></script> -->
+
+  <!-- INJECTION POINT FOR TRACKING SCRIPTS AND USER CONTENT FROM THE CODE INJECTION TAB -->
+
+  <script type="text/javascript" data-sqs-type="imageloader">(function() {var SQUARESPACE_SIZES=[1500,1E3,750,500,300,100],IMAGE_LOADING_CLASS="loading",ImageLoader=new function(){this.load=function(a,b){function c(a,b,c){var d=new Image;d.onload=b;d.onerror=c;d.src=a}a.getDOMNode&&(a=a.getDOMNode());var d=this._getDataFromNode(a,b),e=!(!d.dimensions||!d.dimensions.width||!d.dimensions.height),l=d.load+"";if("false"===l)return!1;var g=d.mode;if(e&&("fit"==g||"fill"==g)){g=a.parentNode;if(!g)return console.error("Not doing anything, parentNode not found."),!1;if(!this.refresh(a,
+b,g))return!1}var n=this._intendToLoad(a,d);if("string"==typeof n&&"viewport"!==l){var m=this.getUrl(n,d),d=a.getAttribute("data-image-resolution");a.getAttribute("src")!==m&&this.isValidResolution(n,d)&&(a.onload=function(){a.className=a.className.replace(IMAGE_LOADING_CLASS," ").trim();a.setAttribute("data-image-resolution",n)},!a.getAttribute("src")&&-1===a.className.indexOf(IMAGE_LOADING_CLASS)&&(a.className+=(a.className?" ":"")+IMAGE_LOADING_CLASS),!a.getAttribute("src")&&e?a.setAttribute("src",
+m):c(m,function(){e?a.setAttribute("src",m):(a.setAttribute("data-image-dimensions",this.width+"x"+this.height),ImageLoader.load(a,b))},function(){a.className=a.className.replace(IMAGE_LOADING_CLASS," ").trim();a.setAttribute("src",m)}));return!0}return n};this.refresh=function(a,b,c){a.getDOMNode&&(a=a.getDOMNode());c&&c.getDOMNode&&(c=c.getDOMNode());c=c||a.parentNode;if(!c)return console.error("Not doing anything, parentNode not found."),!1;var d=this._getDataFromNode(a,b),e=c.offsetWidth,l=c.offsetHeight;
+b=d.mode;if("none"!=b){var g=d.dimensions.width,n=d.dimensions.height,m=g/n,q=e/l;if(d.fixedRatio)"fill"==b&&q>m||"fit"==b&&q<m?(h=100,k=100*(q/m),r=(100-k)*d.focalPoint.y,p=0):(h=100*(m/q),k=100,r=0,p=(100-h)*d.focalPoint.x),a.style.top=r+"%",a.style.left=p+"%",a.style.width=h+"%",a.style.height=k+"%";else{var f;"fill"===b?f=m>q?l/n:e/g:"fit"===b&&(f=m<q?l/n:e/g);!d.stretch&&("fit"==b&&1<f)&&(f=1);var h=Math.ceil(g*f),k=Math.ceil(n*f);if(0===h||0===k)return!1;var p,r;"fill"===b?(p=Math.min(Math.max(e/
+2-h*d.focalPoint.x,e-h),0),r=Math.min(Math.max(l/2-k*d.focalPoint.y,l-k),0)):"fit"===b&&(f=d.fitAlignment,p=f.left?0:f.right?e-h:h<e?(e-h)/2:0,r=f.top?0:f.bottom?l-k:k<l?(l-k)/2:0,"inline"==this._getStyle(a,"display")&&(a.style.fontSize="0px"),this._resetAlt(a,function(){h-=a.offsetHeight-a.clientHeight;k-=a.offsetWidth-a.clientWidth}));a.style.top=Math.ceil(r)+"px";a.style.left=Math.ceil(p)+"px";a.style.width=Math.ceil(h)+"px";a.style.height=Math.ceil(k)+"px"}p=this._getStyle(c,"position");a.style.position=
+"relative"==p?"absolute":"relative";if("fill"==b&&(b=this._getStyle(c,"overflow"),!b||"hidden"!=b))c.style.overflow="hidden";return!0}};this._intendToLoad=function(a,b){function c(c,d){"none"===b.mode&&(a.style.width=null,a.style.height=null);var e=parseFloat(a.getAttribute(c)),f=parseFloat(e);if(!f||isNaN(f))e=g._getStyle(a,c),f=parseFloat(e);if(!f||isNaN(f))e=g._getStyle(a,"max-"+c,"max"+(c.substr(0,1).toUpperCase()+c.substr(1))),f=parseFloat(e);if(0===d||e)switch(g._stringType(e)){case "percentage":d=
+parseInt(e,10)/100*l["offset"+c.substr(0,1).toUpperCase()+c.substr(1)];break;case "number":d=parseInt(e,10)}!f&&(0!==d&&!a.getAttribute("src"))&&(d=0);return d}b=b||this._getDataFromNode(a);if(!b.source)return!1;var d=a.offsetWidth,e=a.offsetHeight,l=a.parentNode,g=this;this._resetAlt(a,function(){d=c("width",d);e=c("height",e)});0===d&&0===e?(d=b.dimensions.width,e=b.dimensions.height):0===d?d=this.getDimensionForValue("width",e,b):0===e&&(e=this.getDimensionForValue("height",d,b));"viewport"===
+b.load&&(a.style.width=Math.floor(d)+"px",a.style.height=Math.floor(e)+"px");return this.getSquarespaceSize(d,e,b)};this._getDataFromNode=function(a,b){b=b||{};var c={focalPoint:{x:0.5,y:0.5},dimensions:{width:null,height:null},mode:"none",fitAlignment:{center:!0},load:"true",stretch:!0,fixedRatio:!1};if(b.focalPoint)c.focalPoint=b.focalPoint;else{var d=a.getAttribute("data-image-focal-point");if(d&&(d=d.split(","))&&2==d.length)c.focalPoint={x:parseFloat(d[0]),y:parseFloat(d[1])}}if(b.dimensions)c.dimensions=
+b.dimensions;else if((d=a.getAttribute("data-image-dimensions"))&&(d=d.split("x"))&&2==d.length)c.dimensions={width:parseInt(d[0],10),height:parseInt(d[1],10)};b.mode?c.mode=b.mode:a.parentNode&&(d=a.parentNode.className,-1!==d.indexOf("content-fill")?c.mode="fill":-1!==d.indexOf("content-fit")&&(c.mode="fit"));if("fit"===c.mode&&a.parentNode&&(d=b.fitAlignment||a.getAttribute("data-alignment")||a.parentNode.getAttribute("data-alignment")))c.fitAlignment={top:-1!==d.indexOf("top"),left:-1!==d.indexOf("left"),
+center:-1!==d.indexOf("center"),right:-1!==d.indexOf("right"),bottom:-1!==d.indexOf("bottom")};if(b.load)c.load=b.load;else if(d=a.getAttribute("data-load"))c.load=d;if("undefined"!==typeof b.stretch)c.stretch=b.stretch;else if(d=a.getAttribute("data-image-stretch"))c.stretch="true"===d?!0:!1;c.source=b.source?b.source:a.getAttribute("data-src");if(c.source&&(-1!==c.source.indexOf("squarespace.com")||-1!==c.source.indexOf("squarespace.net"))&&"http:"===c.source.substr(0,5)&&"https"===window.location.protocol.substr(0,
+5))c.source=c.source.replace("http://","https://");if(b.fixedRatio)c.fixedRatio=b.fixedRatio;else if(d=a.getAttribute("data-fixed-ratio"))c.fixedRatio="true"==d;return c};this._stringType=function(a){return"string"===typeof a&&-1!==a.indexOf("%")?"percentage":isNaN(parseInt(a,10))?NaN:"number"};this._getStyle=function(a,b,c){var d;a.currentStyle?d=a.currentStyle[c||b]:window.getComputedStyle&&(d=document.defaultView.getComputedStyle(a,null).getPropertyValue(b));return d};this._isVisible=function(a){a=
+a.getBoundingClientRect();return 0<=a.left&&0<=a.top||0<=a.bottom&&0<=a.right||0<=a.left&&0<=a.bottom||0<=a.right&&0<=a.top};this.getSquarespaceSize=function(a,b,c){a=Math.max(b/(c.dimensions.height/c.dimensions.width),a);"number"==typeof window.devicePixelRatio&&(a*=window.devicePixelRatio);for(b=1;b<SQUARESPACE_SIZES.length&&!(a>SQUARESPACE_SIZES[b]);b++);return SQUARESPACE_SIZES[b-1]+"w"};this.getDimensionForValue=function(a,b,c){var d=c.dimensions.width;c=c.dimensions.height;return"width"==a?
+d/c*b:"height"==a?c/d*b:NaN};this.getUrl=function(a,b){var c=b.source;return a&&("/"==c[0]||-1!=c.indexOf("squarespace.com")||-1!=c.indexOf("squarespace.net"))?(-1===c.indexOf("format="+a)&&(c=c+(-1!==c.indexOf("?")?"&":"?")+"format="+a),window.Static&&(window.Static.IN_BACKEND&&-1===c.indexOf("storage=local"))&&(c+="&storage=local"),c):b.source};this.isValidResolution=function(a,b){a=parseInt(a,10);b=parseInt(b,10);return isNaN(a)||isNaN(b)?!0:a>b};this._resetAlt=function(a,b){var c=a.getAttribute("alt"),
+d=c&&0<c.length&&!a.getAttribute("src");if(d){var e=a.style.display;a.removeAttribute("alt");a.style.display="none";a.offsetHeight+0;a.style.display=e}b.call(this);d&&a.setAttribute("alt",c)}};window.ImageLoader=ImageLoader;var siteCSSHandle,loopHandle,imagesTimer=50;function ancestorHasClass(a,b){return"undefined"!==typeof a.className&&-1!==a.className.indexOf(b)?!0:a.parentNode?ancestorHasClass(a.parentNode,b):!1}
+var hasAttr=function(a,b){return a.hasAttribute?a.hasAttribute(b):!!a.attributes[b]},getAttr=function(a,b){return a.getAttribute?a.getAttribute(b):a.attributes[b]};function init(){var a=document.images;if(0<a.length)for(var b=0,c=a.length;b<c;b++)(hasAttr(a[b],"data-image")||hasAttr(a[b],"data-src"))&&"false"!==getAttr(a[b],"data-load")+""&&ImageLoader.load(a[b])}init();window.YUI&&YUI.add("squarespace-imageloader",function(a){});
+})();</script>
+<script>Squarespace.afterBodyLoad(Y);</script>
+
+  <!-- Google Code for Bizo.com - General (AdX) -->
+  <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+  <script type="text/javascript">
+  /* <![CDATA[ */
+  var google_conversion_id = 1030708383;
+  var google_conversion_label = "1TXGCL-XgwkQn7m96wM";
+  var google_custom_params = window.google_tag_params;
+  var google_remarketing_only = true;
+  /* ]]> */
+  </script>
+  <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+  </script>
+  <noscript>
+    <div style="display:inline;">
+      <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1030708383/?value=1.000000&amp;label=1TXGCL-XgwkQn7m96wM&amp;guid=ON&amp;script=0"/>
+    </div>
+  </noscript>
+
+</body>
+</html> 
